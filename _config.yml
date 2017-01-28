@@ -1,7 +1,7 @@
 title: David Wise
 description: J'aime les idées et les technologies. Dans cet ordre.
 
-url: http://davidwise.fr/
+url: https://dawise.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
