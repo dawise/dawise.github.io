@@ -16,6 +16,10 @@ navigation:
    url: /about
  - title: Outils
    url: /outils
+ - title: Startups
+   url: /startups
+ - title: Livres
+   url: /livres
  - title: Contact
    url: /contact
 
