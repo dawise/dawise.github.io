@@ -12,14 +12,8 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: A Propos
+ - title: About
    url: /about
- - title: Outils
-   url: /outils
-- title: Startups
-  url: /startups
-- title: Livres
-  url: /livres
 - title: Contact
   url: /contact
 
