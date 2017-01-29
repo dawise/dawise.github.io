@@ -12,12 +12,16 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Home
-   url: /index.html
- - title: About
+ - title: A Propos
    url: /about
- - title: Contact
-   url: /contact
+ - title: Outils
+   url: /outils
+- title: Startups
+  url: /startup
+- title: Livres
+  url: /livres
+- title: Contact
+  url: /contact
 
 social:
    twitter: dawise_
