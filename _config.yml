@@ -14,7 +14,7 @@ paginate: 5
 navigation:
  - title: Accueil
    url: /index.html
- - title: About
+ - title: A Propos
    url: /about
  - title: Outils
    url: /outils
