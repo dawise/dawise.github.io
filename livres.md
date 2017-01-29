@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Livres
+title: Startups
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-
-</div>
+	<h1 class="pageTitle">Startups</h1>
+	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
