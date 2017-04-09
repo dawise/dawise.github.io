@@ -1,10 +1,11 @@
 title: David Wise
-description: J'aime les idées et les technologies. Dans cet ordre.
+description: Technologies, startups, idées, livres.
 
 url: http://brianmaierjr.github.com/long-haul
-baseurl: ""
+baseurl: "dawise.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
+exclude: ['README.md']
 
 markdown: kramdown
 highlighter: rouge
@@ -21,7 +22,7 @@ navigation:
  - title: Startups
    url: /startups
  - title: Livres
-   url: /livres
+   url: /bibliotheque
 
 social:
    twitter: dawise_
