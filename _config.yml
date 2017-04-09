@@ -2,10 +2,9 @@ title: David Wise
 description: Technologies, startups, idées, livres.
 
 url: http://brianmaierjr.github.com/long-haul
-baseurl: "dawise.github.io"
+baseurl: "/dawise.github.io"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
-exclude: ['README.md']
 
 markdown: kramdown
 highlighter: rouge
