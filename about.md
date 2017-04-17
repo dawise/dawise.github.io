@@ -1,25 +1,29 @@
 ---
 layout: default
-title: About Long Haul
+title: About
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
-	<h2>Features</h2>
+	<h1 class="pageTitle">About</h1>
+	<p> Hi. A few things to meet :</p>
 	<ul>
-		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
-  		<li>Layout with <a href="http://susy.oddbird.net/">SUSY Grid</a></li>
-  		<li>SVG Social Icons from <a href="http://customizr.net/icons/">Customizr</a></li>
-  		<li><a href="http://responsive-nav.com/">Responsive Nav Menu</a></li>
-  		<li><a href="https://github.com/snaptortoise/jekyll-rss-feeds">XML Feed for RSS Readers</a></li>
-  		<li>Contact Form via <a href="http://formspree.io/">Formspree</a></li>
-      <li>5 Post Loop with excerpt on Home Page</li>
-  		<li>Previous / Next Post Navigation</li>
-      <li>Estimated Reading Time for posts</li>
-  		<li><a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
+		<li>Je suis actuellement consultant <a href="http://sass-lang.com/">Salesforce</a> chez <a href="http://compass-style.org/">DXC Technology</a>, un cabinet Américiain situé à La Défense.</li>
+  		<li>Dans une autre vie (23-25 ans) j'ai été entrepreneur. J'ai fondé <a href="http://susy.oddbird.net/">Newsly</a>, un outil pour sauvegarder tes pages web favorites.</li>
+  		<li>J'en ai tiré de nombreux enseignements. Dont <a href="http://customizr.net/icons/">un MOOC </a>  que je co-anime. En 3 heures de vidéo je te montre comment créer une startup.</li>
+  		<li>A côté j'ai une activité de freelance. J'ai créée <a href="http://formspree.io/">des sites web</a> et je continue à donner des cours sur l'entrepreneuriat et le digital.</li>
+      <li>J'aime : découvrir des outils, apprendre, voyager, les citations, ne rien faire.</li>
+      </ul>  		
+      
+      <p> Sur ce site j'écris sur de nombreux sujets liés aux technologies : notre rapport à l'information, le développement personnel, l'entrepreneuriat, l'économie, et pafois la politique -- lorsque je m'égare. </p>
+      
+      <p> Pour commencer : </p>
+
+      <ul>
+      <li>10 valeurs auxquelles je crois. </li>
+  		<li>52 idées qui me semblent intéressantes.<a href="https://github.com/adobe-webplatform/dropcap.js">Drop Cap</a> on posts</li>
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
+
+<p> Ce site : il est propulsé par <a href="http://brianmaierjr.com">Jekyll</a> et hebergé par <a href="http://brianmaierjr.com">Github</a>. Le thème est une création de <a href="http://brianmaierjr.com">X</a>. Pour assembler le tout j'ai appris à coder chez <a href="http://brianmaierjr.com">Le Wagon</a>.</p>
+
 </div>

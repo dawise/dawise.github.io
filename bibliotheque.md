@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Startups
+title: Bibliotéque 
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Startups</h1>
+	<h1 class="pageTitle">Bibliotéque</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
