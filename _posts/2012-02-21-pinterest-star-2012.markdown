@@ -6,14 +6,15 @@ categories: Social Media
 image: /assets/article_images/2012-02-21-pinterest-la-vraie-start-de-2012/pinterest-header.jpeg
 ---
 
+<p class="intro"><span class="dropcap">L</span>Prochainement dans vos News Feed; A moins que ce ne soit dejà fait : Pinterest. Certains/ certaines d'entre vous ont pu voir fleurir dans leur page d'acceuil Facebook ce nouveau nom...</p>
+
 ![Source:](/assets/article_images/2012-02-21-pinterest-la-vraie-start-de-2012/pinterest-header.jpeg)
-Prochainement dans vos News Feed; A moins que ce ne soit dejà fait : Pinterest. Certains/ certaines d'entre vous ont pu voir fleurir dans leur page d'acceuil Facebook ce nouveau nom...
 
 ### Qu'est ce que c'est ?
 
 C'est LE nouveau site dont tout le monde parle. Le prochain Hit. Le prochain Facebook. Le prochain beaucoup de choses en fait. En effet crée il y a pas plus de 2 ans dans la Silicon Valley, c'est la nouvelle star Californienne. J'avais lu dans un article en Décembre 2011 que le site était dejà évalué à 200 Millions d'euros. Impressionnant.
 
-### Pourquoi ?
+### Pourquoi s'y intéresser ?
 
 Il compte déjà plus de 10 millions d'utilisateurs. Dont 9 millions sont connectés via leur compte Facebook. D'où sa forte présence dans vos News Feed. Spécialement ces derniers jours. Il semblerait que les "early adopters" aient commencé à s'en servir du coté de l'hexagone.
 Le site a pris une dynamique exceptionnelle depuis sa parution dans le Top 50 annuel des sites sélectionnés par le Times Magazine. C'est là qu'il est sorti aux yeux du grand public. C'était en Août 2011.
@@ -42,6 +43,5 @@ Avec plus de 2 438 512 "Followers", Jane Wang, est la personne la plus suivie su
 
 Le site connait une forte croissance et va se démocratiser en France. Il ne devrait pas avoir le même engouement soudain qu'outre Atlantique. Nos comportements ne sont pas les mêmes: Nous n’avons pas (encore) la même consommation frénétique de contenus, ni sa soif. Mais cela ne devrait pas empêcher Pinterest, de s'imposer durablement dans notre paysage web, lors de cette année 2012.
 
-David W.
 
-
+Chiffres : [Mashable](http://mashable.com/2012/02/14/pinterest-daily-users-are-up-125-percent/)

@@ -1,5 +1,5 @@
 title: David Wise
-description: Technologies, startups, idées, livres.
+description: Technologies, humanités, startups, livres.
 
 url: http://brianmaierjr.github.com/long-haul
 baseurl: ""
@@ -12,16 +12,14 @@ gems: [jekyll-paginate]
 paginate: 5
 
 navigation:
- - title: Accueil
-   url: /index.html
  - title: A Propos
    url: /apropos
  - title: Outils
    url: /outils
- - title: Startups
-   url: /startups
  - title: Bibliotheque
    url: /bibliotheque
+ - title: Startups
+   url: /startups
 
 social:
    twitter: dawise_

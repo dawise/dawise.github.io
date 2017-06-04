@@ -4,7 +4,7 @@ title: David Wise
 ---
 
 <div class="home" id="home">
-  <h1 class="pageTitle">Dernieres publications</h1>
+  <h1 class="pageTitle">BIENVENUE</h1>
   <ul class="posts noList">
     {% for post in paginator.posts %}
       <li>
@@ -17,10 +17,10 @@ title: David Wise
   <!-- Pagination links -->
   <div class="pagination">
     {% if paginator.previous_page %}
-      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Publications plus récentes</a> 
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous button__outline">Articles plus récentes</a> 
     {% endif %}
     {% if paginator.next_page %}
-      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Anciennes publications</a>
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next button__outline">Anciens articles</a>
     {% endif %}
   </div>
 </div>
