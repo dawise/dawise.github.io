@@ -15,7 +15,7 @@ navigation:
  - title: Accueil
    url: /index.html
  - title: A Propos
-   url: /about
+   url: /apropos
  - title: Outils
    url: /outils
  - title: Startups
