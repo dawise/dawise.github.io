@@ -24,6 +24,6 @@ title: About
   		<li><a href="http://typecast.com/blog/a-more-modern-scale-for-web-typography">A Better Type Scale</a></li>
   	</ul>
 
-<p> Ce site : il est propulsé par <a href="http://brianmaierjr.com">Jekyll</a> et hebergé par <a href="http://brianmaierjr.com">Github</a>. Le thème est une création de <a href="http://brianmaierjr.com">X</a>.</p>
+<p> Ce site : il est propulsé par <a href="http://brianmaierjr.com">Jekyll</a> et hebergé par <a href="http://brianmaierjr.com">Github</a>. Le thème est une création de <a href="http://brianmaierjr.com">X</a>. Pour assembler le tout j'ai appris à coder chez <a href="http://brianmaierjr.com">Le Wagon</a>.</p>
 
 </div>

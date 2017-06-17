@@ -39,19 +39,19 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### CMS : Partager du contenu
 
- - [Wordpress](http://wordpress.com/) - Le plus célébre, simple et populaire. De nombreuses fonctionnalités si on sait coder.
- - [Squarespace](http://squarespace.com) - Le plus esthétique, moderne avec de nombreuses possibilitées.
- - [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
- - [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses insitutions ou entrerpises comme Palantir.
- - [The Grid](https://thegrid.io/) - Le design s'adapte au contenu grâce à de l'Intelligence Artificielle. (Pas encore disponible)
+- [Wordpress](http://wordpress.com/) - Le plus célébre, simple et populaire. De nombreuses fonctionnalités si on sait coder.
+- [Squarespace](http://squarespace.com) - Le plus esthétique, moderne avec de nombreuses possibilitées.
+- [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
+- [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses insitutions ou entrerpises comme Palantir.
+- [The Grid](https://thegrid.io/) - Le design s'adapte au contenu grâce à de l'Intelligence Artificielle. (Pas encore disponible)
 
 ### Créer une page web
 
- - [Launchrock](https://www.launchrock.com/) Récoltez des adresses mails et validez votre idée.
- - [Strikingly](http://strikingly.com/) - Créer un vrai site vitrine en quelques clics. Très simple d'utilisation.
- - [Unbounce](http://unbounce.com/) - Très complet, permet de créer des landing pages avec de nombreux modèles, de l'A/B Testing. Pas besoin de savoir coder.
- - [Instapage](https://www.instapage.com/) - Toujours simple d'utilisation, permet également l'intégration pratique de services tiers, comme Mailchimp.
- -[Landing Harbor](http://www.landingharbor.com/) - Si vous avez une App Mobile, créez une landing page en quelques minutes.
+- [Launchrock](https://www.launchrock.com/) Récoltez des adresses mails et validez votre idée.
+- [Strikingly](http://strikingly.com/) - Créer un vrai site vitrine en quelques clics. Très simple d'utilisation.
+- [Unbounce](http://unbounce.com/) - Très complet, permet de créer des landing pages avec de nombreux modèles, de l'A/B Testing. Pas besoin de savoir coder.
+- [Instapage](https://www.instapage.com/) - Toujours simple d'utilisation, permet également l'intégration pratique de services tiers, comme Mailchimp.
+- [Landing Harbor](http://www.landingharbor.com/) - Si vous avez une App Mobile, créez une landing page en quelques minutes.
 
 
 ### Acheter un nom de domaine
@@ -82,7 +82,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 - [Basecamp](https://basecamp.com/) - Un des plus anciens outils collaboratifs encore sur le marché. Apprécié et utilisé par de nombreuses entrerprises.
 
 
-### Vidéo-conférence/ Partage d'écrans
+### Vidéo-conférence/ partage d'écrans
 
 - [Skype](http://www.skype.com/fr/) - On ne le présente plus, au point que ce soit devenu un verbe de la langue francaise. A remplacé MSN pour les plus jeunes, et peut être utilisé par vos grands-parents.
 - [Google Hangout](http://www.google.com/intl/fr_ALL/+/learnmore/hangouts/) - Célébre outil, à l'avantage de pouvoir partage l'écran à plusieurs en vidéo, le tout gratuitement.
@@ -343,8 +343,6 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ## 6. Lifestyle
 ![](/assets/pages_images/lifestyle_outils_applications_dawise_blog_outils_Communautes_startup.png)
 
------------------------------
-
 ### Ecouter de la musique en ligne
 
 - [SoundCloud](https://soundcloud.com/) - Créez des playlist, découvrez de la musique. Les artistes peuvent mettre directement leurs créations en ligne.
@@ -378,7 +376,6 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Réaliser des streamings vidéo
 
-- [Meerkat](https://meerkatapp.co/) - Pionnier dans le genre, permet de filmer son environnement et de le faire partager en direct et d'intéragir à des spectateurs connectés sur l'application.
 - [Periscope](https://www.periscope.tv/) - Rapidement racheté par Twitter, permet également de faire des Live vidéo à travers votre smartphone. Possibilité de revoir les vidéo.
 - [Facebook Live](https://live.facebooklive.com/) - Le plus grand réseau social s'est également lancé dans cette course. Réservé aux célebrités pour l'instant.
 - [Snapchat](https://www.snapchat.com/) - Ne permet pas de faire de "Live", mais de créer des histoires en vidéo (format 10 secondes) qui s'autodétruisent après 24h.
