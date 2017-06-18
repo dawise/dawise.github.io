@@ -6,7 +6,7 @@ categories: Social Media
 image: /assets/article_images/2012-02-21-pinterest-la-vraie-start-de-2012/pinterest-header.jpeg
 ---
 
-<p class="intro"><span class="dropcap">L</span>Prochainement dans vos News Feed; A moins que ce ne soit dejà fait : Pinterest. Certains/ certaines d'entre vous ont pu voir fleurir dans leur page d'acceuil Facebook ce nouveau nom...</p>
+<p class="intro"><span class="dropcap">P</span>rochainement dans vos News Feed; A moins que ce ne soit dejà fait : Pinterest. Certains/ certaines d'entre vous ont pu voir fleurir dans leur page d'acceuil Facebook ce nouveau nom...</p>
 
 ![Source:](/assets/article_images/2012-02-21-pinterest-la-vraie-start-de-2012/pinterest-header.jpeg)
 
