@@ -16,7 +16,7 @@ Que vous soyez étudiant, entrepreunneur, freelance, [employé polivalent](https
 5. **Automatiser** 
 6. **Lifestyle**
 
-La grande majorité sont **gratuits**. Ceux qui ne le sont pas ont souvent un modèle **"freemium"**, c'est à dire qu'à partir d'un certain seuil d'utilisation ils deviennent **payants**.
+La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont souvent un modèle “freemium”, c’est à dire qu’à partir d’un certain seuil d’utilisation, ils deviennent payants.
 
 La liste est régulièrement mise à jour. Bonne navigation !
 
@@ -27,23 +27,23 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Ecriture/ Blogging
 
-- [Blogger](https://www.blogger.com/home) - La première plateforme célébre du genre. Basique mais fonctionelle.
-- [Tumblr](http://tumblr.com/) - Simple avec grand choix de thèmes pour tous les goûts.
-- [Squarespace](http://squarespace.com) - Moderne, ethétique avec de nombreuses possibilitées.
+- [Blogger](https://www.blogger.com/home) - La première plateforme célèbre du genre. Basique mais fonctionnelle.
+- [Tumblr](http://tumblr.com/) - Simple avec un grand choix de thèmes pour tous les goûts.
+- [Squarespace](http://squarespace.com) - Moderne, esthétique, avec de nombreuses possibilités.
 - [Medium](https://medium.com/) - Le plus abouti, très simple de prise en main.
-- [Svbtle]() - Minimaliste au possible. Les "Kudos" restent une expérience sympa.
-- [Posthaven]() - Look simple et un peu geek, promet à ses utilisateurs de ne jamais fermer.
-- [Postagon](https://postagon.com) - Minimaliste et zen. Simple d'utilisation.
-- [Silvrback](https://www.silvrback.com/) - Look épuré. Dans la lignée de Medium.
-- [Ghost](https://ghost.org/) - Populaire et assez ethétique, Ghost est né d'une campagne de crowdfunding.
+- [Svbtle]() - Minimaliste au possible. Les “Kudos” restent une expérience sympa.
+- [Posthaven]() - Design simple et un peu geek, promet à ses utilisateurs de ne jamais fermer.
+- [Postagon](https://postagon.com) - Minimaliste et zen. Simple d’utilisation.
+- [Silvrback](https://www.silvrback.com/) - Design épuré. Dans la lignée de Medium.
+- [Ghost](https://ghost.org/) - Populaire et assez esthétique, Ghost est né d’une campagne de crowdfunding.
 
 ### CMS : Partager du contenu
 
-- [Wordpress](http://wordpress.com/) - Le plus célébre, simple et populaire. De nombreuses fonctionnalités si on sait coder.
-- [Squarespace](http://squarespace.com) - Le plus esthétique, moderne avec de nombreuses possibilitées.
+- [Wordpress](http://wordpress.com/) - Le plus célèbre, simple et populaire. De nombreuses fonctionnalités si on sait coder.
+- [Squarespace](http://squarespace.com) - Le plus esthétique, moderne, avec de nombreuses possibilités.
 - [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
-- [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses insitutions ou entrerpises comme Palantir.
-- [The Grid](https://thegrid.io/) - Le design s'adapte au contenu grâce à de l'Intelligence Artificielle. (Pas encore disponible)
+- [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses institutions ou entreprises comme Palantir.
+- [The Grid](https://thegrid.io/) - Le design s’adapte au contenu grâce à de l’Intelligence Artificielle.
 
 ### Créer une page web
 
@@ -369,7 +369,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Partager/ héberger des vidéo
 
-- [Youtube](https://www.youtube.com/) - On ne présente plus le plus célébre hébergeur vidéo au monde.
+- [Youtube](https://www.youtube.com/) - On ne présente plus le plus célèbre hébergeur vidéo au monde. 
 - [Vimeo](http://vimeo.com/) - A un positionnement plus qualitatif que Youtube, plus orienté pour les professionels.
 - [DailyMotion](http://www.dailymotion.com/fr) - Acteur Francais qui essaye de se faire une place dans ce marché dominé par les Américains.
 - [One Second Everyday](http://www.1secondeveryday.com/) - Chaque jour capturez un instant de votre journée. Replissez votre calendrier et créez une mosaïque de souvenirs.
@@ -409,4 +409,4 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ----------------------------------
 
-**A noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des reccomandations, n'hésitez pas à m'écrire à : outils@davidwise.fr
+**A noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils@davidwise.fr
