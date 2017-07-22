@@ -6,7 +6,7 @@ categories: Social Media
 image: /assets/article_images/2014-08-31-trouver-belles-illustrations-gratuites-projet/thinking.jpg
 ---
 
-<p class="intro"><span class="dropcap">L</span>orsqu'il faut trouver des llustrations pour un <b>projet</b>, un <b>site web</b>, animer des <b>réseaux sociaux</b> ou réaliser une <b>présentation</b>, il est bien difficile de savoir par où commencer. </p>
+<p class="intro"><span class="dropcap">L</span>orsqu'on doit trouver des llustrations pour un <b>projet</b>, un <b>site web</b>, animer des <b>réseaux sociaux</b> ou réaliser une <b>présentation</b>, il est bien difficile de savoir par où commencer... </p>
 
 ### 1/ Photos
 
