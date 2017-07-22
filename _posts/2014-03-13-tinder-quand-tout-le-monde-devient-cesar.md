@@ -72,5 +72,5 @@ L’application a également mis au gout du jour la rencontre aléatoire encadr�
 
 Ce sont les seuls chiffres que j’ai pu trouver malheureusement. L’entreprise n’a pas l’air très communicative sur le sujet. Si quelqu’un a le nombre d’inscrits ou de téléchargements de l’application, je suis preneur.
 
-Sources des chiffres: [ici](http://www.businessinsider.com/tinder-growth-explodes-after-sochi-2014-2?IR=T) et [ici](http://marketingland.com/founders-whisper-tinder-75424).
+Sources des chiffres: [ici](http://www.businessinsider.com/tinder-growth-explodes-after-sochi-2014-2?IR=T) et [ici](http://marketingland.com/founders-whisper-tinder-75424).  
 Images: [“Asterix et Obelix contre César"](http://i1.imageban.ru/out/2011/06/05/1b42c5befc2245298244ba7fe8986faf.png) ; [AppleStore](https://itunes.apple.com/us/app/tinder/id547702041?mt=8) ; [HIMYM](https://www.youtube.com/watch?v=yOe4_kdqsmU).
