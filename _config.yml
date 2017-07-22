@@ -1,7 +1,7 @@
 title: David Wise
 description: Technologies, humanités, startups, livres.
 
-url: https://github.com/dawise/dawise.github.io
+url: http://www.davidwise.fr/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
