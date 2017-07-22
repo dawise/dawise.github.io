@@ -11,7 +11,7 @@ image: /assets/article_images/2014-04-26-medium-temple-numerique-de-expression-e
 
 Une plateforme d’expression écrite particulièrement élégante et simple d’utilisation. Aucune compétence technique n’est requise pour s’inscrire ou rédiger ses histoires.
 
-![](/assets/article_images/2014-04-26-medium-temple-numerique-de-expression-ecrite/image3medium.png)
+![](/assets/article_images/2014-04-26-medium-temple-numerique-de-expression-ecrite/image2medium.png)
 ![](/assets/article_images/2014-04-26-medium-temple-numerique-de-expression-ecrite/image3medium.png)
 
 Vous connaissez TED ?
