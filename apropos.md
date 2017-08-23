@@ -36,6 +36,6 @@ title: A propos
 
  <p>Vous pouvez me retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://www.instagram.com/dawise_/">Instagram</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.youtube.com/channel/UCUtv9U3_GGoBrp_YvSWUj7A">Youtube</a>.</p>
 
- <p>P.S : Si un jour vous souhaitez m'offrir quelque chose, ne cherchez pas plus loin : <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste de mes envies</a>. </p>
+ <p>P.S : Si un jour vous souhaitez m'offrir quelque chose, ne cherchez pas plus loin : <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste de mes envies</a>.</p>
 
 <p> Ce site web est propulsé par <a href="https://jekyllrb.com/">Jekyll</a> ; hebergé par <a href="https://github.com/">Github</a> ; le thème est une création originale de <a href="http://brianmaierjr.com">Brian Maier</a>.</p>
