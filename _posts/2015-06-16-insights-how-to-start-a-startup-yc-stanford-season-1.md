@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Startup : Insights from the 20 Stanford-YCombianator classes."
+title:  "Startups : Insights from the 20 Stanford-YCombianator classes."
 date:   2015-06-16 15:00:00
 categories: Entreprendre
 image: assets/article_images/2015-06-16-insights-how-to-start-a-startup/how-to-start-startup-davidwise-site-dawise2.jpg
