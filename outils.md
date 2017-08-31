@@ -7,7 +7,7 @@ title: Outils
 	<h1 class="pageTitle">Outils</h1>
 </div>
 
-Que vous soyez étudiant, entrepreunneur, freelance, [employé polivalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
+Que vous soyez étudiant, entrepreuneur, freelance, [employé polivalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
 
 1. **Entreprendre**
 2. **Designer**
@@ -25,7 +25,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ![](/assets/pages_images/entreprendre_david_wise_blog_dawise.png)
 
 
-### Ecriture/ Blogging
+### Écriture/ Blogging
 
 - [Blogger](https://www.blogger.com/home) - La première plateforme célèbre du genre. Basique mais fonctionnelle.
 - [Tumblr](http://tumblr.com/) - Simple avec un grand choix de thèmes pour tous les goûts.
@@ -48,7 +48,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ### Créer une page web
 
 - [Launchrock](https://www.launchrock.com/) Récoltez des adresses mails et validez votre idée.
-- [Strikingly](http://strikingly.com/) - Créer un vrai site vitrine en quelques clics. Très simple d'utilisation.
+- [Strikingly](http://strikingly.com/) - Créez un vrai site vitrine en quelques clics. Très simple d'utilisation.
 - [Unbounce](http://unbounce.com/) - Très complet, permet de créer des landing pages avec de nombreux modèles, de l'A/B Testing. Pas besoin de savoir coder.
 - [Instapage](https://www.instapage.com/) - Toujours simple d'utilisation, permet également l'intégration pratique de services tiers, comme Mailchimp.
 - [Landing Harbor](http://www.landingharbor.com/) - Si vous avez une App Mobile, créez une landing page en quelques minutes.
@@ -56,43 +56,43 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Acheter un nom de domaine
 
-- [Gandi](https://www.gandi.net/) - La politique "No Bullshit" plait beaucoup (c'est leur slogan) et ils sont francais.
-- [OVH](https://www.ovh.com/fr/) - 3eme hébergeur mondial, et ils sont également francais. Cocorico.
-- [1&1](http://www.1and1.com/) - Bien connu il fait partie des principaux acteurs de l'hebergement mondial.
-- [DomainTyper](https://domaintyper.com/) - Permet de vérifier en un coup d'oeil la disponibilité d'un nom de domaine sur plusieurs terminaisons à la fois.
+- [Gandi](https://www.gandi.net/) - La politique "No Bullshit" plaît beaucoup (c'est leur slogan) et ils sont francais.
+- [OVH](https://www.ovh.com/fr/) - 3ème hébergeur mondial, et ils sont également français. Cocorico.
+- [1&1](http://www.1and1.com/) - Bien connu, il fait partie des principaux acteurs de l’hébergement mondial.
+- [DomainTyper](https://domaintyper.com/) - Permet de vérifier en un coup d’oeil la disponibilité d’un nom de domaine sur plusieurs terminaisons à la fois.
 
-### Réaliser un questionnaires en ligne
+### Réaliser un questionnaire en ligne
 - [Google Form](https://www.google.com/forms/about/) - Simple et universel, il reste esthétiquement assez pauvre.
-- [Typeform](http://www.typeform.com/) - Le plus réussi, permet de faire de beaux formulaires engageant.
+- [Typeform](http://www.typeform.com/) - Le plus réussi, permet de réaliser de beaux formulaires engageants.
 
 
 ### Synchroniser des documents
 
 - [Dropbox](https://www.dropbox.com/) - Simple, efficace, compréhensible, ne cherchez pas plus loin.
-- [Box](https://www.box.com/) - Parce qu'il faut bien un concurrent, plus tourné vers les entreprises.
+- [Box](https://www.box.com/) - Parce qu’il faut bien un concurrent, plus tourné vers les entreprises.
 
 
 ### Collaborer en ligne
 
 - [Slack](https://slack.com/) - Même si relativement récent, de loin le plus populaire. Interface simple et soignée.
-- [Trello](https://trello.com/) - Outil très visuel pour hiérarchiser et classer les taches à éffectuer pour l'équipe. Gratuit.
-- [Asana](https://asana.com/) - Fondé par l'un des co-fondateur de Facebook. Populaire et assez bien implanté.
-- [Azandoo](https://www.azendoo.com/) - Comme les autre : veut progressivement tuer l'email d'entreprise. A la particularité d'être Francais.
-- [Flow](https://www.getflow.com/) - Produit par la [même agence](http://www.metalab.co/) qui a réalisé le design de Slack (cité plus haut), interface et look soigné.
+- [Trello](https://trello.com/) - Outil très visuel pour hiérarchiser et classer les tâches à éffectuer pour l’équipe. Gratuit.
+- [Asana](https://asana.com/) - Fondé par l’un des co-fondateurs de Facebook. Populaire et assez bien implanté.
+- [Azandoo](https://www.azendoo.com/) - Comme les autres : veut progressivement tuer l’email d’entreprise. A la particularité d’être français.
+- [Flow](https://www.getflow.com/) - Produit par la [même agence](http://www.metalab.co/) qui a réalisé le design de Slack (cité plus haut), interface et design soigné.
 - [Basecamp](https://basecamp.com/) - Un des plus anciens outils collaboratifs encore sur le marché. Apprécié et utilisé par de nombreuses entrerprises.
 
 
 ### Vidéo-conférence/ partage d'écrans
 
-- [Skype](http://www.skype.com/fr/) - On ne le présente plus, au point que ce soit devenu un verbe de la langue francaise. A remplacé MSN pour les plus jeunes, et peut être utilisé par vos grands-parents.
-- [Google Hangout](http://www.google.com/intl/fr_ALL/+/learnmore/hangouts/) - Célébre outil, à l'avantage de pouvoir partage l'écran à plusieurs en vidéo, le tout gratuitement.
+- [Skype](http://www.skype.com/fr/) - On ne le présente plus, au point que ce soit devenu un verbe de la langue française. A remplacé MSN pour les plus jeunes, et peut être utilisé par vos grands-parents.
+- [Google Hangout](http://www.google.com/intl/fr_ALL/+/learnmore/hangouts/) - Célébre outil, a l’avantage de pouvoir partager l’écran à plusieurs en vidéo, le tout gratuitement.
 - [Join Me](https://www.join.me/) - Rejoindre une conversation sans aucune installation, partage d'écran.
-- [GoToMeeting](http://www.gotomeeting.fr/) - Rejoindre et créer des conférences en ligne, partage du son, chat interactif et partage d'écran. Nécessite installation.
+- [GoToMeeting](http://www.gotomeeting.fr/) - Rejoindre et créer des conférences en ligne, partage du son, tchat interactif et partage d’écran. Nécessite installation.
 
 ### Présentations type Powerpoint
 
 - [Keynote](http://www.apple.com/mac/keynote/) - Outil puissant de présentation pour Mac, relativement simple à prendre en main.
-- [Prezi](https://prezi.com/) - Service en ligne qui permet de faire des présentations très visuelles et originales.
+- [Prezi](https://prezi.com/) - Service en ligne qui permet de faire des présentations très visuelles et originales. 
 
 ### Héberger vos présentations
 
@@ -101,7 +101,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Vendre des produits en ligne
 
-- [Gumroad](http://gumroad.com/) - Permet de vendre vos créations : écriture, musique, tutoriels... Simple et puissant. Prend les payements.
+- [Gumroad](http://gumroad.com/) - Permet de vendre vos créations : écriture, musique, tutoriels... Simple et puissant. Accepte les payements.
 - [Etsy](https://www.etsy.com/) - Vous permet d'avoir une boutique en ligne pour vos créations : Objets, vêtements... Vous béneficiez de leur réseau et du système de payement.
 - [Selz](https://selz.com/fr/) - Vendez des produits ou des services en ligne. Pour votre site web ou votre page facebook.
 - [Tictail](https://tictail.com/) - Créez une boutique en ligne rapidement.
@@ -109,39 +109,40 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ### Vendre du contenu 
 
 - [Teachable](http://teachable.com/) - Mettez en vente vos cours et tutoriels selon vos spécialitées. La plateforme apporte la technologie, vous apportez le contenu.
-- [Udemy]() - Même chose : Si vous avez un domaine d'expertise que vous voulez monétiser, c'est le genre de plateforme idéale pour que des apprenants du monde entier rejoignent vos cours.
+- [Udemy]() - Même chose : Si vous avez un domaine d’expertise que vous voulez monétiser, c’est le genre de plateforme idéale pour que des apprenants du monde entier rejoignent vos cours.
 
 ### Accépter des payements en tant que e-commerce
 
 - [Stripe](https://stripe.com/) - Technologie robuste et simple qui permet d'accepter des payements sur votre application ou site web. Intégrable avec de nombreux services comme TypeForm.
 - [Plasso](https://plasso.co/) - Acceptez des payements grâce à cette surcouche de Stripe. Nul besoin de savoir coder.
-- [Paypal](https://www.paypal.com) - Service historique de payement en ligne. Dispose d'une grande couverture et d'une forte notorietée.
+- [Paypal](https://www.paypal.com) - Service historique de payement en ligne. Dispose d'une grande couverture et d'une forte notorieté.
 - [Braintree](https://www.braintreepayments.com/) - Un outil racheté par Paypal, permet d'accepter les cartes de crédit en ligne et sur mobile. Accepte le Bitcoin.
 
-### Accépter des payements en tant que commerce physique
+### Accepter des payements en tant que commerce physique
 
-- [Square](https://squareup.com/global/fr/register) - Géant Américain, avec en co-fondateur, un des anciens créateurs de Twitter. Solution de payement via mobile pour les commerces. A fait de nombreux partenariats aux USA. Dont Starbucks.
-- [Lydia](https://lydia-app.com/) - Petite soeur version Francaise, l'application se fait une place sur le marché. Facile d'utilisation, reglez et remboursez via mobile.
+- [Square](https://squareup.com/global/fr/register) - Géant américain, avec pour co-fondateur, un des anciens créateurs de Twitter. Solution de payement via mobile pour les commerces. A fait de nombreux partenariats aux USA. Dont Starbucks.
+- [Lydia](https://lydia-app.com/) - Petite soeur version française, l’application se fait une place sur le marché. Facile d’utilisation, réglez (et remboursez vos amis) via mobile.
 
 ### Réaliser une campagne de crowdfounding
 
-- [Kickstarter](https://www.kickstarter.com/) - Américaine, la plus connue. Surtout adapté aux campagnes autour des innovations et des gadgets technologiques.
-- [Ulule](http://fr.ulule.com/) - Site Francais, une des principales plateformes au niveau Européen. Tout types de projets.
+- [Kickstarter](https://www.kickstarter.com/) - Américaine, la plus connue. Surtout adaptée aux campagnes autour des innovations et des gadgets technologiques.
+- [Ulule](http://fr.ulule.com/) - Site Francais, une des principales plateformes au niveau européen. Tous types de projets.
 - [Kiss Kiss Bank Bank](http://www.kisskissbankbank.com/) - Egalement Francais, peut-être avec un positionnement plus créatif que ses compères.
-- [My Major Company](https://www.mymajorcompany.com/) - Lancé par le fils de JJ. Goldman, a démarré avec des projets exclusivements musicaux mais désormais ouvert à tout types de projets.
+- [My Major Company](https://www.mymajorcompany.com/) - Lancé par le fils de JJ. Goldman, a démarré avec des projets exclusivement musicaux mais désormais ouvert à tous types de projets.
 
 ### Trouver des prestataires/ freelance
 
 - [UpWork](https://www.upwork.com/) - Anciennement Odesk, sûrement le service le plus populaire. Permet de trouver des designers, développeurs, concepteurs-rédacteurs.
 - [Codeur.com](https://www.codeur.com/) - Site d'annonces gratuites, spécialisée depuis 2006 dans les offres autour du web : développement, graphisme, web-marketing.
-- [HopWork](https://www.hopwork.com/) - Met à disposition un large catalogue de Freelance dans de nombreux domaines : du développeur mobile, au chef de projet, en passant par le spécialiste SEO.
+- [HopWork](https://www.hopwork.com/) - Met à disposition un large catalogue de Freelance dans de nombreux domaines : du développeur mobile, au chef de projet, en passant par des spécialistes SEO.
 
 ### Ressources juridiques
 
-- [Jurismatic](http://jurismatic.com/) - Toute la documention légale en OpenSource pour vos problématiques entreprenneuriales. Mis à disposition par TheFamily et le cabinet 11.100.34. Avocats Associés.
+- [Jurismatic](http://jurismatic.com/) - Toute la documention légale en OpenSource pour vos problématiques entrepreneuriales. Mis à disposition par TheFamily et le cabinet 11.100.34. Avocats Associés.
 - [APCE](https://www.apce.com/) - De référence car officiel, devrait vous aider dans vos démarches de création d'entreprise. Nombreuses ressources.
 - [Base INPI](https://bases-marques.inpi.fr/) - Base de donées marques de l'INPI. Trés pratique pour vérifier si une idée de marque est disponible. Possibilité de faire un dêpot en ligne.
-- [Autoentrepreneur](http://www.lautoentrepreneur.fr/) - Portail des autoentrepreneurs en France. Permet de créer votre statut d'indépendant en quelques clics.
+- [Autoentrepreneur](http://www.lautoentrepreneur.fr/) - Portail des autoentrepreneurs en France permettant de créer votre statut d’indépendant en quelques clics.
+
 
 ### Ressources corporate
 
@@ -177,7 +178,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Réaliser des annotations sur une image
 
-- [Skitch](https://evernote.com/intl/fr/skitch/) - Crée par Evernote, le plus avancé que votre "appercu images" sur Mac ou "Paint" sur PC. Simple, efficace.
+- [Skitch](https://evernote.com/intl/fr/skitch/) - Crée par Evernote, plus avancé que votre "Apperçu images" sur Mac ou "Paint" sur PC. Simple, efficace.
 
 ### Déssiner des wireframes/ mockups
 
@@ -187,23 +188,23 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Faire des prototypes
 
-- [Proto.io](https://proto.io/) - Outil pour app mobiles imaginer des applications mobiles.
-- [Invision]() - Outil puissant et complet. Permet de créer des visuels cliquables.
+- [Proto.io](https://proto.io/) - Outil pour imaginer des applications mobiles.
+- [Invision]() - Outil puissant et complet qui prmet de créer des visuels cliquables.
 - [Pop](https://popapp.in/) - Transformez vos croquis papiers en un prototype mobile.
-- [Bubble](https://bubble.is/) - Permet de créer une application sans coder : du "visuel programming". Produit crée par des francais.
+- [Bubble](https://bubble.is/) - Permet de créer une application sans coder : du "visual programming". Produit créé par des français.
 
 ### Design avancé
 
 - [Sketch](http://bohemiancoding.com/sketch/) - Outil de design pour Mac très simple.
-- [Suite Adobe](http://www.photoshop.com/) - Célébre série d'outils pour le design (InDesign) et la retouche de photo (Photoshop). Un peu complexe en prise en main mais très puissante.
-- [Pixel Mator](http://www.pixelmator.com/mac/) - Alternative simple à Photoshop. Apple seulement et à 30 euros. Pas encore utilisé.
+- [Suite Adobe](http://www.photoshop.com/) - Célébre série d'outils pour le design (InDesign) et la retouche de photo (Photoshop). Un peu complexe de prise en main mais très puissante.
+- [Pixel Mator](http://www.pixelmator.com/mac/) - Alternative simple à Photoshop. Apple uniquement et à 30 euros. Pas encore utilisé.
 
-### Editer des vidéo
+### Éditer des vidéo
 
 - [Final Cut Pro X](http://www.apple.com/final-cut-pro/) - Montage video. Pas le plus développé, mais assez simple et intuitif. Valeur sûre. La licence est à 300 dollars.
 - [Tube Buddy](https://www.tubebuddy.com/) - Série d'outils pratiques afin d'être accompagné dans sa production et distribution video.
-- [Hand Brake](https://handbrake.fr/) - Convertir des formats video compliqués en format universel.
-- [Camtasia](https://www.techsmith.com/camtasia.html) - Enregistrez votre écran en video.
+- [Hand Brake](https://handbrake.fr/) - Convertit des formats vidéo compliqués en format universel.
+- [Camtasia](https://www.techsmith.com/camtasia.html) - Enregistrez votre écran en vidéo.
 
 ### Réalisez / partagez vos GIFS
 - [Giphy](http://giphy.com/) - La plus grande bibliothèque de GIFS existante.
@@ -214,28 +215,28 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ## 3. Fédérer
 ![](/assets/pages_images/crm_community_paris_france_davidwise_dawise.png)
 
-### Lancer un emailing ou une newsletter
+### Lancer un campagne d'emailing ou une newsletter
 
 - [Mailchimp](http://mailchimp.com/) - Un standard du marché, simple d'utilisation, vient tout droit des US. Permet de collecter des adresses mails, faire des envois groupés et le design de Newsletter. En freemium.
-- [Mailjet](https://fr.mailjet.com/) - Comme son homologue, service complet de mailing. Application Francaise, sort des studios de e-Founders. Moins cher pour du gros volume.
+- [Mailjet](https://fr.mailjet.com/) - Comme son homologue, service complet de mailing. Application française, qui sort des studios de e-Founders. Moins cher pour du gros volume.
 
 ### Gérer des campagnes par SMS
 
 - [Twilio](https://www.twilio.com/) - Très populaire, notamment utilisé par Uber. Jamais utilisé.
-- [Locent](https://locent.com/#/) - Alternative, semble plus simple en prise en main. Se définit comme le Mailchimp des sms. Jamais utilisé.
-- [Send a Text](https://www.sendatext.co/) - Envoyez un sms à n'importe numéro depuis votre navigateur web. Pas encore disponible en France. 
+- [Locent](https://locent.com/#/) - Alternative, semble plus simple de prise en main. Se définit comme le Mailchimp des sms. Jamais utilisé.
+- [Send a Text](https://www.sendatext.co/) - Envoyez un sms à n'importe quel numéro depuis votre navigateur web. Pas encore disponible en France. 
 
 ### Publier sur les différents plateformes sociales
 
 - [Buffer](http://bufferapp.com/) - Parfait pour planifier des publications dans le temps. Design propre et soigné. Facile à utiliser.
-- [HootSuite](https://hootsuite.com/) - Toujours dans la planification et l'ananlyse de publications.  Approche un peu plus complexe, plus adapté au gros volume. Intègre +35 réseaux sociaux dans son offre.
-- [Kuku](https://kuku.io/fr/) - Bonne surpise, ressemble à Buffer mais en mieux. Manque les analytics pour l'instant.
+- [HootSuite](https://hootsuite.com/) - Toujours dans la planification et l'analyse de publications. Approche un peu plus complexe, outil plus adapté au gros volume. Intègre +35 réseaux sociaux dans son offre.
+- [Kuku](https://kuku.io/fr/) - Bonne surpise, ressemble à Buffer mais en mieux. Les analytics manquent pour l'instant.
 
 ### Tracker et shorter des liens URL
 
 - [Bitly](https://bitly.com/) - Une des premières solutions de short-linking et probablement la plus populaire. Design soigné et fournit des Analytics sur les clics.
-- [Buffer](http://bufferapp.com/) - Dans sa version gratuite permet de connaitre de nombre de clics génerés par vos liens et d'en planifier dans le temps. Version payante plus complète.
-- [Goo.gl](http://goo.gl/) - La solution de Google, pratique et très simple d'utilisation. Vous donne des analyses sur les clics: Pays, heure, device.
+- [Buffer](http://bufferapp.com/) - Dans sa version gratuite, l'outil permet de connaître de nombre de clics génerés par vos liens et d'en planifier dans le temps. Version payante plus complète.
+- [Goo.gl](http://goo.gl/) - La solution de Google, pratique et très simple d'utilisation. L'outil vous donne des analyses sur les clics: pays, heure, device.
 
 ### Compter le nombres de partages
 
@@ -243,9 +244,9 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Avoir un support client
 
-- [Intercom](https://www.intercom.io/) - Outil puissant : CRM, Live Chat, Analytics, Automatisation. Permet de communiquer et comprendre vos utilisateurs.
+- [Intercom](https://www.intercom.io/) - Outil puissant : CRM, Live Chat, Analytics, Automatisation. Permet de communiquer avec et comprendre vos utilisateurs.
 - [Zendesk](http://www.zendesk.fr/) - Très populaire, permet de réaliser votre relation client.
-- [Front](https://frontapp.com/) - Application (Francaise) qui permet de centraliser les emails comme @contact ou @marketing.
+- [Front](https://frontapp.com/) - Application (française) qui permet de centraliser les emails comme @contact ou @marketing.
 - [Keeping](http://www.keeping.com/) - Le service client directement dans votre boîte de réception Gmail.
 [Crisp](https://crisp.im/fr/) - Une "chatbox" sur votre site web pour répondre aux questions des visiteurs. Gratuit.
 
@@ -262,29 +263,29 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ### Apprendre à coder en ligne 
 
 - [Treehouse](https://teamtreehouse.com) - Accompagnement en vidéo. Nombreux sujets techniques : HTML, CSS, Javascript, PHP, Ruby, Python. Plateforme très soignée. 15 jours gratuits. 
-- [Le Wagon On Demand](https://ondemand.lewagon.org/) - Version virtuelle de la formation [Le Wagon](http://lewagon.org/), vous pourrez apprendre le HTML, CSS ou Javascript en Francais et avec d'excellents professeurs.
-- [Codecademy](https://www.codecademy.com/learn) - Très populaire et gratuit, il peut cependant avoir le désaventage de paraître "moins concret" que les autres. Bien pour s'éxercer et collecter de bons réflexes.
+- [Le Wagon On Demand](https://ondemand.lewagon.org/) - Version virtuelle de la formation [Le Wagon](http://lewagon.org/). Avec vous pourrez apprendre le HTML, CSS ou Javascript en Francais et avec d'excellents professeurs.
+- [Codecademy](https://www.codecademy.com/learn) - Très populaire et gratuit, il peut cependant avoir le désaventage de paraître "moins concret" que les autres. Bien pour s'éxercer et acquérir de bons réflexes.
 - [One Month](https://onemonth.com/) - Apprenez Ruby on Rails, le Growth Hacking ou Swift en 1 mois avec des tutos vidéo très bien réalisées. Modèle payant chaque mois et sans engagement.
 
-### Editeur de texte pour coder
+### Éditeur de texte pour coder
 
  - [SublimeText](http://www.sublimetext.com/) - Un des éditeurs de texte de référence. Simple, intuitif et coloré. Gratuit mais avec la possibilité de soutenir ses créateurs en l'achetant. Idéal pour débutants.
 
-### Heberger votre code en ligne
+### Héberger votre code en ligne
 
  - [GitHub](http://github.com/) - Solution la plus populaire. Une sorte de réseau social pour développeurs. Gratuit si votre code est publique, payant si vous voulez le rendre privé.
  - [Bitbucket](https://bitbucket.org/) - Alternative à GitHub, très concentré sur l'offre entreprises, pratique pour intéragir en équipe sur la plateforme. Design simple et compréhensible.
 
 ### Héberger un site web
 
-- [GitHub](https://pages.github.com/) - Via "Github Pages", gratuit et simple d'utilisation. Pour votre blog, site personnel ou premier projet ne cherchez pas plus loin.
+- [GitHub](https://pages.github.com/) - Via "GitHub Pages", gratuit et simple d'utilisation. Pour votre blog, site personnel ou premier projet ne cherchez pas plus loin.
 - [Heroku](https://dashboard.heroku.com/) - Plus avancé et complexe, idéal pour le lancement d'une application par exemple. Vous pourrez adapter l'offre à votre trafic.
 
 ### Récolter des formulaires de contact
 
-- [Wufoo](http://www.wufoo.com/) - Le plus célébre mais au look très simple. Modèle freemium.
+- [Wufoo](http://www.wufoo.com/) - Le plus célébre mais au design très simple. Modèle freemium.
 - [FormKeep](https://formkeep.com/) - Sorte de Wufoo mais en plus épuré, design minimaliste. Par contre le serice est payant.
-- [Formspree](http://formspree.io/) - Vous avez juste à copier-coller le bout de code sur votre site. 0 installation. Gratuit pour un certain volume.
+- [Formspree](http://formspree.io/) - Vous avez juste à copier-coller le bout de code sur votre site. Aucune installation nécessaire. Gratuit pour un certain volume.
 
 ### Gestionnaire de mot de passe
 
@@ -302,24 +303,24 @@ La liste est régulièrement mise à jour. Bonne navigation !
 ### Analyser son traffic 
 
 - [Google Analytics](http://www.google.com/analytics/) - Outil célébre de Google. Gratuit et très performant. Parfait pour débuter.
-- [Kiss Metric](https://kissmetrics.com/) - Autre alternative plus évoluée à Google. Plus tournée pour les équipes Marketing.
+- [Kiss Metric](https://kissmetrics.com/) - Autre alternative à Google, plus évoluée. Plus tournée vers les équipes Marketing.
 - [Mixpanel](https://mixpanel.com/) - Outil très puissant, idéal pour du gros volume, des analyses poussées et croisement de données. (ex: cohortes)
-- [Woopra](https://www.woopra.com/) - Outil proche de Mixpanel qui a dans l'ensemble les même caractéritiques. Design plus épurée.
+- [Woopra](https://www.woopra.com/) - Outil proche de Mixpanel qui a dans l'ensemble les même caractéristiques. Design plus épurée.
 
 ### Comprendre son traffic
 
-- [Hotjar](https://www.hotjar.com/) - Permet d'observer (video anonymes) les comportements de vos visiteurs/ utlisateurs et d'identifier les zones chaudes et froides de votre site.
-- [Heap](https://heapanalytics.com/) - Comme Hotjar permet d'enregistrer les comportements des internautes mais semble être fait pour une utilisation plus avancée (jamais utilisé).
+- [Hotjar](https://www.hotjar.com/) - Permet d'observer (vidéo anonymes) les comportements de vos visiteurs/ utlisateurs et d'identifier les zones chaudes et froides de votre site.
+- [Heap](https://heapanalytics.com/) - Comme Hotjar, cet outil permet d'enregistrer les comportements des internautes mais semble être fait pour une utilisation plus avancée (jamais utilisé).
 
 ### Enrichir votre site web
 
 - [SumoMe](http://sumome.com/) - Grâce à un simple copier-coller d'un script (JS) bénéficiez de nombreuses options comme des boutons de partage, une barre pour récolter des adresses e-mails... etc.
-- [HelloBar](https://www.hellobar.com/) - Même chose : grâce à un petit script : permet d'avoir une barre d'information où on peut récolter de adresses e-mail et/ ou communiquer.
+- [HelloBar](https://www.hellobar.com/) - Même chose : grâce à un petit script, l'outil permet d'avoir une barre d'information où on peut récolter de adresses e-mail et/ ou communiquer.
 - []() - Other
 
 ### Automatisation d'emails
 
-- [Vero](http://www.getvero.com/) - Sytème très poussé et très utile si on sait paramétrer des 'événements' qui déclanchent des campagnes d'e-mails.
+- [Vero](http://www.getvero.com/) - Sytème très poussé et très utile si on sait paramétrer des 'événements' qui déclanchent des campagnes d'e-mailing.
 - [Mailchimp](http://mailchimp.com/) - Plus simple et accésible, permet de créer un drip d'emails automatique en choisissant certains événements dans l'outil ou des applications tierces.
 
 ### Prospection : trouver des adresses emails 
@@ -327,52 +328,53 @@ La liste est régulièrement mise à jour. Bonne navigation !
 - [Mailhunter](https://emailhunter.co/) - Permet de trouver les adresses mail professionnelles @entreprise sur Internet.
 - [MailDrop](http://maildrop.cc/) - Idéal pour une inscription rapide ou un test, vous permet d'envoyer/recevoir un mail avec une adresse créé pour l'occasion.
 - [Rapportive](https://rapportive.com/) - Extension très puissante pour Gmail (uniquement) qui permet de savoir automatiquement si une adresse e-mail est liée à un compte Linkedin.
-- [Datananas](https://www.datananas.com/fr/) - Sur-couche grapique sur les réseaux pro (Linkedin, Viadeo) qui va indiquer les coordonnées email et tel des profils visités.
+- [Datananas](https://www.datananas.com/fr/) - Sur-couche grapique sur les réseaux pro (Linkedin, Viadeo) qui va indiquer les coordonnées email et numéro de téléphone des profils visités.
 
 ### Automatiser des tâches
 
-- [IFTTT](https://ifttt.com/) - "If This Do That" sont les acronymes de l'application. Permet de faire faire communiquer des applications Internet entre elles et de déclancher des actions.
-- [Zapier](https://zapier.com/) - Alterative plus récente à IFTTT. Toujours dans la même idée : Permet de connecter et automatiser des actions entre applications tierces grâce aux API.
+- [IFTTT](https://ifttt.com/) - Ce sont les acronymes de l’application “If This Do That". L'outil permet de faire communiquer des applications Internet entre elles et de déclancher des actions.
+- [Zapier](https://zapier.com/) - Alternative plus récente à IFTTT. Toujours dans la même idée : l'outil permet de connecter et d'automatiser des actions entre applications tierces grâce aux API.
 
 ### Scrapping
 
-- [Kimono](https://www.kimonolabs.com/) - Permet de scrapper des données d'un site web en quelques minutes et sans compétances techniques. **A férmé**.
-- [import.io](https://import.io/) - Comme Kimono, transforme des données de pages web en data structurée. Gratuit.
+- [Kimono](https://www.kimonolabs.com/) - Permet de scrapper des données d'un site web en quelques minutes et sans compétences techniques. **A fermé**.
+- [import.io](https://import.io/) - Comme Kimono, l'outil transforme des données de pages web en data structurée. Gratuit.
 
 
 ## 6. Lifestyle
 ![](/assets/pages_images/lifestyle_outils_applications_dawise_blog_outils_Communautes_startup.png)
 
-### Ecouter de la musique en ligne
+### Écouter de la musique en ligne
 
-- [SoundCloud](https://soundcloud.com/) - Créez des playlist, découvrez de la musique. Les artistes peuvent mettre directement leurs créations en ligne.
+- [SoundCloud](https://soundcloud.com/) - Créez des playlists, découvrez de la musique. Les artistes peuvent mettre leurs créations directement en ligne.
 - [Spotify](http://spotify.com/) - Streaming musical, créé en Suède, dispose d'une des plus grandes bibliotèques musicales au monde. 
-- [Deezer](http://www.deezer.com/) - Service Francais connu mondialement. Modèle freemium.
-- [SoundsGood](http://soundsgood.co/) - Trés pratique et Francais. Parfait pour faire des playlist avec des formats musicaux différents : SoundCloud, Youtube....
+- [Deezer](http://www.deezer.com/) - Service français connu mondialement. Modèle freemium.
+- [SoundsGood](http://soundsgood.co/) - Très pratique et français. Parfait pour faire des playlists avec des formats musicaux différents : SoundCloud, Youtube....
 
 ### Mettre de côté des pages web
 
 - [Pocket](http://getpocket.com/) - Pensé pour les mobiles, le service permet de sauvegarder et retrouver plus tard n'importe quelle page web.
-- [Instapaper](https://www.instapaper.com/) - Même principe : permet de sauvegarder un contenu sur plusieurs termineaux. Design minimaliste et possibilité de surligner des extraits d'articles.
-- [Pinboard](https://pinboard.in/) - Se décrit comme : "l'outil de bookmarking pour introverti". Service le moins cher des payants, design très simpliste.
+- [Instapaper](https://www.instapaper.com/) - Même principe : permet de sauvegarder un contenu sur plusieurs termineaux. Design minimaliste et possibilité de suoligner des extraits d'articles. Mon favori.
+- [Pinboard](https://pinboard.in/) - Se décrit comme : "l'outil de bookmarking pour introvertis". Service le moins cher des payants, design très simpliste.
 
 ### Trouver des réponses/ poser des questions
 
-- [Quora](http://www.quora.com/) - Pour tous les sujets. Des sujets techniques aux questions personelles trouver des réponses sur un peu près tout.
-- [Stackoverflow](http://stackoverflow.com/) - LE réseau de Q&A pour développeurs et questions techniques diverses. Bien référancé.
+- [Quora](http://www.quora.com/) - Pour tous les sujets. Des sujets techniques aux questions personelles, trouvez des réponses à un peu près tout.
+- [Stackoverflow](http://stackoverflow.com/) - LE réseau de Q&A pour développeurs et questions techniques diverses. Bien référencé.
 
 ### Récolter de l'argent en tant que particulier
 
 - [Paypal.me](https://www.paypal.me/) - Recevez des payements grâce à une simple adresse URL. Fini les RIB à 18 chiffres.
 - [Cash.me](https://cash.me/) - Lancé par Square, vous avez juste besoin d'un pseudo pour recevoir de l'argent.
 - [Payy.me](https://payy.me/) - Même principe : une page web, des transactions.
+- [Lydia](https://lydia.com/) - Permet de se rembourser entre amis. Je ne passe pas une semaine sans l'utiliser. 
 
 ### Partager/ héberger des vidéo
 
 - [Youtube](https://www.youtube.com/) - On ne présente plus le plus célèbre hébergeur vidéo au monde. 
 - [Vimeo](http://vimeo.com/) - A un positionnement plus qualitatif que Youtube, plus orienté pour les professionels.
 - [DailyMotion](http://www.dailymotion.com/fr) - Acteur Francais qui essaye de se faire une place dans ce marché dominé par les Américains.
-- [One Second Everyday](http://www.1secondeveryday.com/) - Chaque jour capturez un instant de votre journée. Replissez votre calendrier et créez une mosaïque de souvenirs.
+- [One Second Everyday](http://www.1secondeveryday.com/) - Chaque jour capturez un instant de votre journée. Remplissez votre calendrier et créez une mosaïque de souvenirs.
 
 ### Réaliser des streamings vidéo
 
@@ -382,7 +384,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Partager/ Héberger des photos
 
-- [Flickr](http://flikr.com/) - Racheté par Yahoo, permet d'héberger vos photos en privé ou en public. Stockage casi-illimité.
+- [Flickr](http://flikr.com/) - Racheté par Yahoo, il permet d'héberger vos photos en privé ou en public. Stockage quasi-illimité.
 - [500px](https://500px.com/) - Permet également d'héberger vos photos, mais avec un positionnement très qualitatif. Vendez vos clichés réussis.
 
 ### Méditer
@@ -392,7 +394,7 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ### Temps & productivité
 
-- [Pomodoro Technique](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp) - Extension chrome permettant mesurer le temps par tranches de dizaines de minutes afin de réaliser des tâches précises. 
+- [Pomodoro Technique](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp) - Extension Chrome permettant de mesurer le temps par tranches de dizaines de minutes afin de réaliser des tâches précises. 
 - [Forest App](http://www.forestapp.cc/) - Application (et extension Chrome) permettant de faire la même chose que la "Pomodoro Technique" mais avec une ambiance plus "Nature".
 
 ### Déjeuners livrés chez vous (Paris)
@@ -409,4 +411,4 @@ La liste est régulièrement mise à jour. Bonne navigation !
 
 ----------------------------------
 
-**A noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils@davidwise.fr
+**À noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils@davidwise.fr
