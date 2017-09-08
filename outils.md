@@ -18,7 +18,7 @@ Que vous soyez étudiant, entrepreuneur, freelance, [employé polivalent](https:
 
 La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont souvent un modèle “freemium”, c’est à dire qu’à partir d’un certain seuil d’utilisation, ils deviennent payants.
 
-La liste est régulièrement mise à jour. Bonne navigation !
+NB : la liste est régulièrement mise à jour.
 
 
 ## 1.Entreprendre
