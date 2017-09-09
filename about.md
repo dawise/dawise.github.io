@@ -16,9 +16,9 @@ title: About
   <h3>Work </h3>
   <p> Former <a href="/startups">entrepreneur</a>, I now work as a salesforce consultant at <a href="https://www.dxc.technology/"> DXC Technology </a>. I am also a freelance, sometimes.</p> 
 
-  <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned to improvise : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
+  <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
 
-  <p> The experience ends in <b>september 2015</b> because of a lack of traction. Then starts a  creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . Finally I write a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship.</p> 
+  <p> Vecause of a lack of traction the experience ends in <b>september 2015</b>. Then starts a  a very creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . Finally I write a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship.</p> 
 
   <p><b>In september 2016</b> I started working in a consulting company. If you are interested in my profesionnal life you can have a look at my <a href="">Linkedin</a> profile.</p> 
 
