@@ -9,7 +9,7 @@ title: About
 
   <b><u> <p> Where to start here ? </p></u></b>  
   <ul>
-      <li>Most read article in English : <a href=http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/</a>Startup : Insights from the 20 Stanford-YCombianator classes.</li>
+      <li>Most read article in English : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a> </li>
       <li>Looking for a cool web tool ? <a href="/Outils">I gathered a bunch of them </a> (french)</li>
   </ul>
 

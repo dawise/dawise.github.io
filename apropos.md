@@ -18,7 +18,7 @@ title: A propos
 
   <p> <b>En 2013</b> j'ai fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la sortie de mes études. L'entrepreneuriat moderne, aka lean startup, était alors à ses balbutiments. J'ai appris de nombreuses choses : le développement d'une équipe, la création d'un produit web, le marketing et l'acquisition d'utilisateurs.</p> 
 
-  <p> <b> En septembre 2015</b> l'expérience s'arrête faute de traction suffisante. Démarre alors une phase très créative : passage au marketing dans un <a href="https://www.brief.me/"> média naissant</a>, enseignement à des étudiants en <a href="http://www.emlv.fr/"> école de commerce</a>, création de différents <a href="/Portfolio">sites web</a> en freelance. Le tout s'achève par l'écriture et la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC sur l'entrepreneuriat</a> à l'été 2016.</p> 
+  <p> Faute de traction suffisante l'expérience s'arrête en <b> septembre 2015</b>. Démarre alors une phase très créative : passage au marketing dans un <a href="https://www.brief.me/"> média naissant</a>, enseignement à des étudiants en <a href="http://www.emlv.fr/"> école de commerce</a>, création de différents <a href="/Portfolio">sites web</a> en freelance. Le tout s'achève par l'écriture et la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC sur l'entrepreneuriat</a> à l'été 2016.</p> 
 
   <p><b>En septembre 2016</b> je rejoins le monde du conseil. Si mon parcours professionnel vous intéresse, je vous invite à consulter mon profil <a href="">Linkedin</a>.</p> 
 
