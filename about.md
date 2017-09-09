@@ -16,9 +16,9 @@ title: A propos
   <h3>Work </h3>
   <p> Former <a href="/startups">entrepreneur</a>, I now work as a salesforce consultant at <a href="https://www.dxc.technology/"> DXC Technology </a>. I am also a freelance, sometimes.</p> 
 
-  <p> <b>In 2013</b> I founded Newsly after having studied 5 years in a business school. I majored in what was called "e-business". Modern entrepreneurship, aka "lean startup", was just starting. I discovered many interesting phasis : recruiting, building a team, product management, marketing and user acquisition.</p> 
+  <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned to improvise : recruiting, managing a team, building a product (SaaS), marketing and user acquisition.</p> 
 
-  <p> Experiences stops in <b>september 2015</b> because of a lack of traction. Then starts a very creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . This period ends with the writing  of a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship on summer 2006.</p> 
+  <p> The experience stops in <b>september 2015</b> because of a lack of traction. Then starts a  creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . This period ends with the writing  of a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship on summer 2006.</p> 
 
   <p><b>In september 2016</b> I started working in a consulting company. For more information about my profesionnal life you can look at my <a href="">Linkedin</a> account.</p> 
 
@@ -27,7 +27,7 @@ title: A propos
 
   <p> If I had to choose the <b>verb</b> that suits me the best I'd say : <b>Transmit</b>. 
 
-  <h3> Elsewhere</h3>
+  <h3> Elsewhere on the Internet</h3>
   <p>Useful links to better know each other :</p> 
       <ul>
       <li><a href="https://medium.com/@dawise_/my-10-favorite-quotes-yet-3f8a4122336b"> 10 values I believe in.</a> (french)</li>
@@ -36,6 +36,6 @@ title: A propos
 
  <p>You can find me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://www.instagram.com/dawise_/">Instagram</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.youtube.com/channel/UCUtv9U3_GGoBrp_YvSWUj7A">Youtube</a>.</p>
 
- <p>P.S : If you are planning to offer me something : <a href="https://kit.com/dawise/la-liste-des-mes-envies"> Here is the Stuff I Want</a>. </p>
+ <p>P.S : If you have the (crazy ?) idea to offer me something, do not overthing, here is a list that may help :<a href="https://kit.com/dawise/la-liste-des-mes-envies"> My wish list</a>. &#128527;</p>
 
 <p> This website is powered by <a href="https://jekyllrb.com/">Jekyll</a> ; host on <a href="https://github.com/">Github</a> ; theme is an original creation of <a href="http://brianmaierjr.com">Brian Maier</a>.</p>

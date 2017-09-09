@@ -16,13 +16,13 @@ title: A propos
   <h3> Travail </h3>
   <p> Ancien <a href="/startups">entrepreneur</a>, je suis consultant Salesforce chez <a href="https://www.dxc.technology/"> DXC Technology </a> et freelance sur certains projets.</p> 
 
-  <p> <b>En 2013</b> j'ai fondé Newsly à la sortie de mes études. L'entrepreneuriat moderne, aka lean startup, était alors à ses balbutiments. J'ai appris à improviser de nombreuses choses : le développement d'une équipe, la création d'un produit (SasS), le web marketing et l'acquisition d'utilisateurs.</p> 
+  <p> <b>En 2013</b> j'ai fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la sortie de mes études. L'entrepreneuriat moderne, aka lean startup, était alors à ses balbutiments. J'ai appris à improviser de nombreuses choses : le développement d'une équipe, la création d'un produit (SasS), le web marketing et l'acquisition d'utilisateurs.</p> 
 
   <p> <b> En septembre 2015</b> l'expérience s'arrête faute de traction suffisante. Démarre alors une phase créative : passage au marketing dans un <a href="https://www.brief.me/"> média naissant</a>, enseignement à des étudiants en <a href="http://www.emlv.fr/"> école de commerce</a>, création de différents <a href="/Portfolio">sites web</a> . Le tout s'achève par l'écriture et la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC sur l'entrepreneuriat</a> à l'été 2016.</p> 
 
   <p><b>En septembre 2016</b> je rejoins le monde du conseil. Je vous invite à consulter mon profil <a href="">Linkedin</a> pour plus de détails sur mon parcours professionnel.</p> 
 
-  <h3> &#9829; Intérêts</h3>
+  <h3> Intérêts</h3>
   <p> J'aime beaucoup : <a href="/bibliotheque">lire</a>,  prendre des notes, faire des captures d'écrans, faire des listes, débattre, <a href="/bibliotheque">apprendre</a>, faire du sport, prendre le bus, <a href="https://www.instagram.com/dawise_/">voyager</a>, écrire, envoyer des <a href="https://giphy.com/">GIFS</a>, la vie politique, mettre des liens hypertexte un peu partout, vous l'aurez remarqué. </p>
 
   <p> Si je devais choisir le verbe qui m'anime le plus je dirais : <b>transmttre</b>.
