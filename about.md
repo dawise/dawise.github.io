@@ -9,7 +9,7 @@ title: About
 
   <b><u> <p> Where to start here ? </p></u></b>  
   <ul>
-      <li>Most read article in English : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a> </li>
+      <li>Most read article : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a>(english). </li>
       <li>Looking for a cool web tool ? <a href="/Outils">I gathered a bunch of them </a> (french)</li>
   </ul>
 
@@ -18,7 +18,7 @@ title: About
 
   <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
 
-  <p> Vecause of a lack of traction the experience ends in <b>september 2015</b>. Then starts a  a very creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . Finally I write a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship.</p> 
+  <p> Because of a lack of traction the experience ends in <b>september 2015</b>. Then starts a  a very creative period : a brief step<a href="https://www.brief.me/"> in a new emerging media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a> . Finally I write a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship.</p> 
 
   <p><b>In september 2016</b> I started working in a consulting company. If you are interested in my profesionnal life you can have a look at my <a href="">Linkedin</a> profile.</p> 
 

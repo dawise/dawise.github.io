@@ -23,7 +23,7 @@ title: A propos
   <p><b>En septembre 2016</b> je rejoins le monde du conseil. Si mon parcours professionnel vous intéresse, je vous invite à consulter mon profil <a href="">Linkedin</a>.</p> 
 
   <h3> Intérêts</h3>
-  <p> J'aime beaucoup : <a href="/bibliotheque">lire</a>,  prendre des notes, faire des captures d'écrans, faire des listes, débattre, <a href="/bibliotheque">apprendre</a>, faire du sport, prendre le bus, <a href="https://www.instagram.com/dawise_/">voyager</a>, écrire, décourir des boissons, envoyer des <a href="https://giphy.com/">GIFS</a>, la vie politique, l'éducation, la psychologie, mettre des liens hypertexte un peu partout (vous l'aurez remarqué). </p>
+  <p> J'aime beaucoup : <a href="/bibliotheque">lire</a>, prendre des notes, faire des captures d'écrans, faire des listes, débattre, <a href="/bibliotheque">apprendre</a>, faire du sport, prendre le bus, <a href="https://www.instagram.com/dawise_/">voyager</a>, écrire, découvrir des boissons, envoyer des <a href="https://giphy.com/">GIFS</a>, la vie politique, l'éducation, la psychologie, mettre des liens hypertexte un peu partout (vous l'aurez remarqué). </p>
 
   <p> Si je devais choisir le verbe qui m'anime le plus je dirais : <b>transmttre</b>.
   C'est un processus qui me passionne particulièrement. 
