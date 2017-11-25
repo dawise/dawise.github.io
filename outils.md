@@ -411,4 +411,4 @@ NB : la liste est régulièrement mise à jour.
 
 ----------------------------------
 
-**À noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils@davidwise.fr
+**À noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils[at]davidwise[point]fr
