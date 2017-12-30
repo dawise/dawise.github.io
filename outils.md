@@ -16,7 +16,7 @@ Que vous soyez étudiant, entrepreuneur, freelance, [employé polivalent](https:
 5. **Automatiser** 
 6. **Lifestyle**
 
-La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont souvent un modèle “freemium”, c’est à dire qu’à partir d’un certain seuil d’utilisation, ils deviennent payants.
+La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont généralement un modèle “freemium”. C’est à dire qu’à partir d’un certain seuil d’utilisation ils deviennent payants.
 
 NB : la liste est régulièrement mise à jour.
 
@@ -36,6 +36,7 @@ NB : la liste est régulièrement mise à jour.
 - [Postagon](https://postagon.com) - Minimaliste et zen. Simple d’utilisation.
 - [Silvrback](https://www.silvrback.com/) - Design épuré. Dans la lignée de Medium.
 - [Ghost](https://ghost.org/) - Populaire et assez esthétique, Ghost est né d’une campagne de crowdfunding.
+- [Publii](https://getpublii.com/) - Permet de réaliser de simples blogs statiques depuis son ordinateur. 
 
 ### CMS : Partager du contenu
 
@@ -44,6 +45,7 @@ NB : la liste est régulièrement mise à jour.
 - [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
 - [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses institutions ou entreprises comme Palantir.
 - [The Grid](https://thegrid.io/) - Le design s’adapte au contenu grâce à de l’Intelligence Artificielle.
+- [Webflow](https://webflow.com/) - Permet de créer des sites web visuellement à la façon d'un powerpoint. 
 
 ### Créer une page web
 
@@ -250,9 +252,14 @@ NB : la liste est régulièrement mise à jour.
 - [Keeping](http://www.keeping.com/) - Le service client directement dans votre boîte de réception Gmail.
 [Crisp](https://crisp.im/fr/) - Une "chatbox" sur votre site web pour répondre aux questions des visiteurs. Gratuit.
 
+### Avoir un fenêtre chat sur son site web
+- [Call Page](https://www.callpage.io/) - Une fenêtre qui propose à ses visiteurs de se faire rappeller dans la minute en laissant leur numéro de téléphone. 
+
 ### Réunir une communauté en ligne
 
 - [Plush Forums](https://plushforums.com/) - Créez un forum Twitter look-like, où chaque membre a un profil et peut communiquer avec les autres. Vous pouvez créer plusieurs sujets de conversations.
+- [Discourse](https://www.discourse.org/) - Plateforme permettant de créer rapidement un forum en ligne. Payant et relativement cher. 
+- [Spectrum](https://spectrum.chat) - Créez ou rejoignez une communauté en ligne.
 - [Groupe Facebook](https://www.facebook.com/) - Pour intéragir avec une communauté vous pouvez simplement créer un groupe facebook.
 - [Slack](https://slack.com/) - Slack est également une bonne alternative. De nombreuses communautés l'utilisent pour communiquer. Par exemple [Slack List](http://www.slacklist.info/) répertorie un grand nombre de communautés par thématiques.
 
@@ -266,6 +273,7 @@ NB : la liste est régulièrement mise à jour.
 - [Le Wagon On Demand](https://ondemand.lewagon.org/) - Version virtuelle de la formation [Le Wagon](http://lewagon.org/). Avec vous pourrez apprendre le HTML, CSS ou Javascript en Francais et avec d'excellents professeurs.
 - [Codecademy](https://www.codecademy.com/learn) - Très populaire et gratuit, il peut cependant avoir le désaventage de paraître "moins concret" que les autres. Bien pour s'éxercer et acquérir de bons réflexes.
 - [One Month](https://onemonth.com/) - Apprenez Ruby on Rails, le Growth Hacking ou Swift en 1 mois avec des tutos vidéo très bien réalisées. Modèle payant chaque mois et sans engagement.
+- [Progate](https://progate.com/) - Apprenez gratuitement de nombreux langages en Anglais. 
 
 ### Éditeur de texte pour coder
 
@@ -291,6 +299,7 @@ NB : la liste est régulièrement mise à jour.
 
 - [Passpack](http://passpack.com/) - Permet de centraliser et de consulter de façon sécurisée les mots de passe de votre équipe liés à des services web.
 - [Dashlane](https://www.dashlane.com/fr) - Alternative française. Jamais utilisé encore.
+- [1 Password](https://1password.com/) - Même principe : un super mot de passe pour tous vos mots de passe.
 
 ## 5. Automatisation & Growth Hacking
 ![](/assets/pages_images/growth_hacking_david_wise_paris_blog_france_dawise.png)
@@ -335,11 +344,14 @@ NB : la liste est régulièrement mise à jour.
 - [IFTTT](https://ifttt.com/) - Ce sont les acronymes de l’application “If This Do That". L'outil permet de faire communiquer des applications Internet entre elles et de déclancher des actions.
 - [Zapier](https://zapier.com/) - Alternative plus récente à IFTTT. Toujours dans la même idée : l'outil permet de connecter et d'automatiser des actions entre applications tierces grâce aux API.
 
-### Scrapping
+
+### Contruire un programme de parrainnage
+- [Viral-loops](https://viral-loops.com/) - Inspiré des programmes de parrainnage des nombreuses startups, l'outil permet de mettre en place simplement ce type de procédé pour votre projet.
+
+### Faire du scrapping
 
 - [Kimono](https://www.kimonolabs.com/) - Permet de scrapper des données d'un site web en quelques minutes et sans compétences techniques. **A fermé**.
 - [import.io](https://import.io/) - Comme Kimono, l'outil transforme des données de pages web en data structurée. Gratuit.
-
 
 ## 6. Lifestyle
 ![](/assets/pages_images/lifestyle_outils_applications_dawise_blog_outils_Communautes_startup.png)
@@ -355,7 +367,7 @@ NB : la liste est régulièrement mise à jour.
 
 - [Pocket](http://getpocket.com/) - Pensé pour les mobiles, le service permet de sauvegarder et retrouver plus tard n'importe quelle page web.
 - [Instapaper](https://www.instapaper.com/) - Même principe : permet de sauvegarder un contenu sur plusieurs termineaux. Design minimaliste et possibilité de suoligner des extraits d'articles. Mon favori.
-- [Pinboard](https://pinboard.in/) - Se décrit comme : "l'outil de bookmarking pour introvertis". Service le moins cher des payants, design très simpliste.
+- [Pinboard](https://pinboard.in/) - Outil de bookmarking le moins cher des services payants. Design très simpliste.
 
 ### Trouver des réponses/ poser des questions
 
@@ -380,24 +392,24 @@ NB : la liste est régulièrement mise à jour.
 
 - [Periscope](https://www.periscope.tv/) - Rapidement racheté par Twitter, permet également de faire des Live vidéo à travers votre smartphone. Possibilité de revoir les vidéo.
 - [Facebook Live](https://live.facebooklive.com/) - Le plus grand réseau social s'est également lancé dans cette course. Réservé aux célebrités pour l'instant.
-- [Snapchat](https://www.snapchat.com/) - Ne permet pas de faire de "Live", mais de créer des histoires en vidéo (format 10 secondes) qui s'autodétruisent après 24h.
 
 ### Partager/ Héberger des photos
 
+- [Exposure](https://exposure.co/) - Créez une page web où vous pouvez exposeer vos photos en très grand format. Payant. 
 - [Flickr](http://flikr.com/) - Racheté par Yahoo, il permet d'héberger vos photos en privé ou en public. Stockage quasi-illimité.
 - [500px](https://500px.com/) - Permet également d'héberger vos photos, mais avec un positionnement très qualitatif. Vendez vos clichés réussis.
 
 ### Méditer
 
-- [Headspace](https://www.headspace.com/) - Application : librairie de contenus pour se centrer. 
-- [Calm](http://www.calm.com/) - Orienté méditation uniquement. Jamais utilisé.
+- [Headspace](https://www.headspace.com/) - Accompagnement à la méditation quotidienne en quelques minutes. Une voix Off permet de guider l'exercice.  
+- [Calm](http://www.calm.com/) - Même principe. Jamais utilisé.
 
-### Temps & productivité
+### Gérer son temps et sa productivité
 
 - [Pomodoro Technique](https://chrome.google.com/webstore/detail/simple-pomodoro%C2%AE/blidjjfbdbkcmegfnidmgndgdamhhelp) - Extension Chrome permettant de mesurer le temps par tranches de dizaines de minutes afin de réaliser des tâches précises. 
 - [Forest App](http://www.forestapp.cc/) - Application (et extension Chrome) permettant de faire la même chose que la "Pomodoro Technique" mais avec une ambiance plus "Nature".
 
-### Déjeuners livrés chez vous (Paris)
+### Des déjeuners livrés au travail (Paris)
 
 - [Pop Chef](https://eatpopchef.com/) - Plats gourmands préparés le jour même. 
 - [Foodcheri](https://www.foodcheri.com/) - Même principe. 
@@ -407,6 +419,9 @@ NB : la liste est régulièrement mise à jour.
 ### Idées cadeaux 
 
 - [Canopi](https://canopy.co/) - Idées cadeaux originales. Une sélection de produits d'Amazon.
+
+- [Standard Resume](https://standardresume.co/) - Faire son CV simplement en ligne. Gratuit si vous réalisez un exemplaire. 
+- [Canva](https://www.canva.com/) - L'outil offre de nombreux modèles à disposition pour réaliser des CV. 
 
 
 ----------------------------------
