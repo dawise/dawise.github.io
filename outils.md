@@ -252,7 +252,7 @@ NB : la liste est régulièrement mise à jour.
 - [Keeping](http://www.keeping.com/) - Le service client directement dans votre boîte de réception Gmail.
 [Crisp](https://crisp.im/fr/) - Une "chatbox" sur votre site web pour répondre aux questions des visiteurs. Gratuit.
 
-### Avoir un fenêtre chat sur son site web
+### Avoir un fenêtre chat sur son site
 - [Call Page](https://www.callpage.io/) - Une fenêtre qui propose à ses visiteurs de se faire rappeller dans la minute en laissant leur numéro de téléphone. 
 
 ### Réunir une communauté en ligne
