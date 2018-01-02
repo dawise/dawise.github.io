@@ -7,14 +7,8 @@ title: About
   <h1 class="pageTitle">About</h1>
 
 
-  <b><u> <p> Where to start here ? </p></u></b>  
-  <ul>
-      <li>Most read article : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a>(english). </li>
-      <li>Looking for a cool web tool ? <a href="/Outils">I gathered a bunch of them </a> (french)</li>
-  </ul>
-
-  <h3>Work </h3>
-  <p> Former <a href="/startups">entrepreneur</a>, I now work as a salesforce consultant at <a href="https://www.dxc.technology/"> DXC Technology </a>. I am also a freelance, sometimes.</p> 
+  <h3>Hi, </h3>
+  <p> My Name is <b>David Wise</b> . I used to be an <a href="/startups">entrepreneur</a> and I now work as a <a href="https://www.dxc.technology/"> consultant </a>. Sometimes, I am also freelance.</p> 
 
   <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
 
@@ -36,6 +30,12 @@ title: About
 
  <p>You can find me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://www.instagram.com/dawise_/">Instagram</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.youtube.com/channel/UCUtv9U3_GGoBrp_YvSWUj7A">Youtube</a>.</p>
 
- <p>P.S : If you you are looking to offer me something, do not overthing, all you need to know is here :<a href="https://kit.com/dawise/la-liste-des-mes-envies"> My current wish list</a>. &#128527;</p>
+ <p>If you you are looking to offer me something, do not overthing, all you need to know is here :<a href="https://kit.com/dawise/la-liste-des-mes-envies"> My current wish list</a>. &#128527;</p>
 
-<p> This website is powered by <a href="https://jekyllrb.com/">Jekyll</a> ; host on <a href="https://github.com/">Github</a> ; theme is an original creation of <a href="http://brianmaierjr.com">Brian Maier</a>.</p>
+<b><u> <p> First visit ? Here are some ideas where to start here : </p></u></b>  
+  <ul>
+      <li>Most read article : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a>(english). </li>
+      <li>Looking for a cool web tool ? <a href="/Outils">I gathered a bunch of them </a> (french)</li>
+  </ul>
+
+<p> Website powered by <a href="https://jekyllrb.com/">Jekyll</a>. Hosted on <a href="https://github.com/">Github</a>. Theme by <a href="http://brianmaierjr.com">Brian Maier</a>.</p>
