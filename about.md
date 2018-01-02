@@ -7,7 +7,7 @@ title: About
   <h1 class="pageTitle">About</h1>
 
 
-  <h3>Hi, </h3>
+  <h3>Hello, </h3>
   <p> My Name is <b>David Wise</b> . I used to be an <a href="/startups">entrepreneur</a> and I now work as a <a href="https://www.dxc.technology/"> consultant </a>. Sometimes, I am also freelance.</p> 
 
   <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship, aka "lean startup", was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
