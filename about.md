@@ -28,10 +28,10 @@ title: About
   <li>Transmit</li>
   </ul> 
 
-  <p> As far as I can remember, <b>education</b> as always had a special place in my interests. I like to discover, understand, learn, transmit and repeat this infinite loop. I closely follow, and observe, how <b>technologies</b> are changing our daily lives. The History of Innovation fascinates me beacause it helps me to better understand the world we live in.</p>
+  <p> As far as I can remember, <b>education</b> as always had a special place in my interests. I like to discover, understand, learn, transmit and repeat this infinite loop. I closely follow, and observe, how <b>technologies</b> are changing our daily lives. I am fascinated by the History of Innovation.</p>
  
   <h3> Elsewhere on the web</h3>
   
- <p>You can find me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://www.instagram.com/dawise_/">Instagram</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.youtube.com/channel/UCUtv9U3_GGoBrp_YvSWUj7A">Youtube</a>. If, for any reason, you would like to offer me something, here is a <a href="https://kit.com/dawise/la-liste-des-mes-envies">list </a> of my (recent) wishes.</p>
+ <p>You can find me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://www.instagram.com/dawise_/">Instagram</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.youtube.com/channel/UCUtv9U3_GGoBrp_YvSWUj7A">Youtube</a>. If, for reason I ignore, you would like to offer me a gift, here is a <a href="https://kit.com/dawise/la-liste-des-mes-envies">list </a> of my (recent) wishes.</p>
 
 <p> Website powered by <a href="https://jekyllrb.com/">Jekyll</a>. Hosted on <a href="https://github.com/">Github</a>. Theme by <a href="http://brianmaierjr.com">Brian Maier</a>.</p>

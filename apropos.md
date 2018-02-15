@@ -15,7 +15,7 @@ title: A propos
   <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. A côté, je fais un peu de freelance en donnant des cours.</p> 
 
   <h3> Parcours</h3>
-  <p> <b>En 2013</b>, à la sortie de mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (<b>lean startup</b>) était à ses balbutiments. Je me suis alors improvisé chef de projet, ergonome, web-marketeur, développeur et parfois psychologue, pour rassurer mes proches.</p> 
+  <p> <b>En 2013</b>, à la sortie de mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (<b>lean startup</b>) était à ses balbutiments. Je me suis alors improvisé chef de projet, ergonome, web-marketeur, développeur et même psychologue, pour rassurer mes proches.</p> 
 
   <p> Faute de <b>traction</b> suffisante l'expérience entrepreneuriale s'arrête en <b>septembre 2015</b>. Démarre alors une phase très créative : passage au marketing dans un <a href="https://www.brief.me/"> média naissant</a>, enseignement dans une <a href="http://www.emlv.fr/"> école de commerce</a>, création de différents <a href="/Portfolio">sites web</a> en freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC vidéo</a> sur à l'entrepreneuriat.
 </p>
@@ -30,7 +30,7 @@ title: A propos
   <li>Transmettre</li>
   </ul> 
  
- <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans ma vie. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien. Pour me guider, la boussole qui éveille mes lectures est l'Histoire de l'innovation.</p>
+ <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans ma vie. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien. Pour me guider, la boussole qui éveille le plus mes sens est l'Histoire de l'innovation.</p>
 
   <h3> Ailleurs sur le web</h3>
   
