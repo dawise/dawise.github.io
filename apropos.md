@@ -15,7 +15,7 @@ title: A propos
   <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. Parfois, je donne des cours en tant qu'enseignant vacataire.</p> 
 
   <h3> Parcours</h3>
-  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai du inventer en m'improvisant chef de projet, web-marketeur, ergonome, développeur et même psychologue, pour rassurer mes proches.</p> 
+  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improviser en m'inventant chef de projet, web-marketeur, designer, développeur et même psychologue, pour rassurer mes proches.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
@@ -37,10 +37,10 @@ title: A propos
 
   <h3> Ailleurs sur le web</h3>
   
- <p>On peut également se retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.instagram.com/dawise_/">Instagram</a>.
+ <p>On peut également se retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>.
 
 <p>Si vous êtes <b>consultant</b>, vous pouvez vous abonner à ma <a href="https://tinyletter.com/lettreduconsultant/">newsletter mensuelle </a> où chaque premier jour du mois je vous fais découvrir un outil pratique pour faciliter votre quotidien.</p> 
 
-<p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste de mes envies</a>.</p>
+<p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste de mes envies</a> à jour.</p>
 
-<p>Pour information ce site est codé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. <b>Merci l'open source.</b></p>
+<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. <b>Merci l'open source.</b></p>
