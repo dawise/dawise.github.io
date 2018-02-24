@@ -15,7 +15,7 @@ title: A propos
   <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. Parfois, je donne des cours en tant qu'enseignant vacataire.</p> 
 
   <h3> Parcours</h3>
-  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improviser en m'inventant chef de projet, web-marketeur, designer, développeur et même psychologue, pour rassurer mes proches.</p> 
+  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improvisé en m'inventant chef de projet, web-marketeur, ergonome, développeur et même psychologue, pour rassurer mes proches.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
