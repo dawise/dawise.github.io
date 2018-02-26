@@ -23,7 +23,7 @@ title: A propos
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p><b>En septembre 2016</b> je décide de rejoindre le monde du salariat en intègrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Nous accompagnons des sociétés à effectuer leur transformation digitale à l'aide de logiciels puissants comme <a href="http://saleforce.com/">Salesforce</a>.
+  <p><b>En septembre 2016</b> je décide de rejoindre le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Nous accompagnons des sociétés à effectuer leur transformation digitale à l'aide de logiciels puissants comme <a href="http://saleforce.com/">Salesforce</a>.
 
   <h3> Passions</h3>
 
