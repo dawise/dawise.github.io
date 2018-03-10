@@ -23,7 +23,7 @@ title: A propos
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p><b>En septembre 2016</b> je décide de rejoindre le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Nous accompagnons des sociétés à effectuer leur transformation digitale à l'aide de logiciels puissants comme <a href="http://saleforce.com/">Salesforce</a>.
+  <p><b>En septembre 2016</b> je fais le choix de rejoindre le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Mon métier ? Accompagner des sociétés à effectuer leur transformation digitale à l'aide de logiciels puissants comme <a href="http://saleforce.com/">Salesforce</a>.
 
   <h3> Passions</h3>
 
@@ -33,7 +33,7 @@ title: A propos
   <li>Transmettre</li>
   </ul> 
  
- <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans ma vie. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien, pour le <b>meilleur</b> et pour le <b>pire</b>.</p>
+ <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans ma vie. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien (pour le <b>meilleur</b> et pour le <b>pire</b>), ainsi qu'à <b>l'histoire de l'innovation</b>.</p>
 
   <h3> Ailleurs sur le web</h3>
   
@@ -43,4 +43,4 @@ title: A propos
 
 <p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste de mes envies</a> à jour.</p>
 
-<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. <b>Merci l'open source.</b></p>
+<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci à l'open source./p>

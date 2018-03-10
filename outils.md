@@ -7,7 +7,7 @@ title: Outils
 	<h1 class="pageTitle">Outils</h1>
 </div>
 
-Que vous soyez étudiant, entrepreuneur, freelance, [employé polivalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
+Que vous soyez étudiant, entrepreuneur, freelance, [salarié polyvalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
 
 1. **Entreprendre**
 2. **Designer**
