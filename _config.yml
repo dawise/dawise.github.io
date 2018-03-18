@@ -1,5 +1,5 @@
 title: David Wise
-description: Technologies, humanités, startups, livres.
+description: Humanités, technologies, entrepreneuriat, education.
 
 url: http://www.davidwise.fr
 baseurl: ""
@@ -18,8 +18,8 @@ navigation:
    url: /outils
  - title: Bibliotheque
    url: /bibliotheque
- - title: Startups
-   url: /startups
+ - title: Cours
+   url: /cours
 
 social:
    twitter: dawise_
