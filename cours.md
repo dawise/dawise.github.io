@@ -17,7 +17,9 @@ title: Cours
   </ul>
 
 
-   <p> Créer un compte <a href="https://developer.salesforce.com/signup/">Salesforce Developer</a>.</p>
-   <p> Exercices en ligne à faire sur <a href="https://trailhead.salesforce.com/fr">Trailhead</a>.</p>
-   <p> Formulaire à remplir à la fin de cours : <a href="https://davidwise.typeform.com/to/oh71xZ">feedback + note</a>.</p>
+   <p> 
+   Créer un compte <a href="https://developer.salesforce.com/signup/">Salesforce Developer</a>.<br>
+   Exercices en ligne à faire sur <a href="https://trailhead.salesforce.com/fr">Trailhead</a>.<br>
+   Formulaire à remplir à la fin de cours : <a href="https://davidwise.typeform.com/to/oh71xZ">feedback + note</a>.
+   </p>
    <p> Pour m'écrire : cours@davidwise.fr </p>
