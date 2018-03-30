@@ -16,13 +16,13 @@ categories: Entreprendre
 ### 2. Une exploration 
 La seconde caractéristique d’une startup est la **recherche**. Une startup est en permanente recherche de son modèle économique. 
 
-Alors qu’une entreprise (TPE/PME) **exploite un modèle économique identifié, une startup est à la recherche son modèle économique**. 
+Alors qu’une entreprise (TPE/PME) exploite un modèle économique identifié, **une startup est à la recherche son modèle économique**. 
 
 > « A startup is a temporary organization designed to search a scalable and repeatable business model. » —  Steve Blank
 
 ### 3. Born to Scale
 
-La troisième caractéristique est sa possible **scalabilité**. C’est à dire sa capacité à reproduire à grande échelle, un modèle de déploiement, ou de revenus, qu’elle a réussi à valider à petite échelle. C’est capital. C’est pourquoi les startups sont aussi attractives : elles sont un [modèle de rendement croissant](https://fr.wikipedia.org/wiki/Rendements_d%27%C3%A9chelle). C’est à dire qu’en grossissant, elles ont la **capacité de créer de la valeur avec de moins en moins de ressources**.
+La troisième caractéristique est sa possible **scalabilité**. C’est à dire sa capacité à reproduire à grande échelle, un modèle de déploiement, ou de revenus, qu’elle a réussi à valider à petite échelle. C’est pourquoi les startups sont aussi attractives : elles ont, dans leur ADN, la capacité à avoir un [modèle de rendement croissant](https://fr.wikipedia.org/wiki/Rendements_d%27%C3%A9chelle). C’est à dire qu’en grossissant, elles sont **en mesure de créer de la valeur avec de moins en moins de ressources**.
 
 > “To grow rapidly, you need to make something you can sell to a big market. That’s the difference between Google and a barbershop. A barbershop doesn’t scale.” —  Paul Graham
 
@@ -34,8 +34,8 @@ La troisième caractéristique est sa possible **scalabilité**. C’est à dire
 #### L’objectif pour un entrepreneur est de passer par trois phases avec succès : 
 
 1. Démarrer avec une idée (ou une hypothèse 🤔)
-2. La transformer en un produit (que des gens veulent 🤑)
-3. Pour enfin muter en une entreprise (pouvant avoir plusieurs produits 💼)
+2. La transformer en un produit (que des gens veulent 💰)
+3. Et enfin muter en une entreprise (pouvant avoir plusieurs produits 💼)
 
 La phase 3 signifiant qu’un modèle économique pérenne a été validé.
 
