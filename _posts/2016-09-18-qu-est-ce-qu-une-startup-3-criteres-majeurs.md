@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Mais au fait, qu’est ce qu’une startup ? 3 critères majeurs."
-date:   2015-09-29 15:00:00
+title:  "Qu’est ce qu’une startup ?"
+date:   2016-09-18 15:00:00
 categories: Entreprendre
 ---
 
@@ -39,3 +39,10 @@ La troisième caractéristique est sa possible **scalabilité**. C’est à dire
 
 La phase 3 signifiant qu’un modèle économique pérenne a été validé.
 
+--
+
+
+Le monde de l’entrepreneuriat et des startups vous intéresse ? Découvrez un cours en ligne pour apprendre tous les fondamentaux 📚 🖥 👇
+
+[Startup Tour : Tout comprendre sur les startups en 3 heures.
+](https://www.udemy.com/startuptour/?couponCode=DAVIDWISEFR)  Initiation au vocabulaire, concepts et outils pratiques pour se lancer. 

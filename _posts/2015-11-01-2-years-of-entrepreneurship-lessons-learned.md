@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2 Years of Entrepreneurship : Lessons learned."
+title:  "2 Years of Entrepreneurship : Lessons learned"
 date:   2015-11-01 15:00:00
 categories: Life
 image: /assets/article_images/2015-09-29-trouver-idee-startup/trouver_une_idee_startup_david_wise_medium_numa_tour.png

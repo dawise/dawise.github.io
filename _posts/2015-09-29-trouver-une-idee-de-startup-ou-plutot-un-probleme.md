@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Trouver une idée de Startup, ou plutôt: un problème qui compte."
+title:  "Trouver une idée de Startup ou un problème qui compte"
 date:   2015-09-29 15:00:00
 categories: Entreprendre
 image: /assets/article_images/2015-09-29-trouver-idee-startup/trouver_une_idee_startup_david_wise_medium_numa_tour.png
@@ -139,7 +139,7 @@ Sachez que personne — **mais vraiment personne** — ne va tout plaque
 
 ![](/assets/article_images/2015-09-29-trouver-idee-startup/jefferson_idee_partage_davidwise_fr_startup.png)
 
-Conclusion
+## Conclusion
 
 Comme le disait **Dave McClure**, investisseur, et CEO de **[500 Startups](http://500.co/)**
 
@@ -152,8 +152,13 @@ Cet article est la version écrite de la présentation ([slides](http://fr.slide
 
 Si ces contenus vous ont apporté de la valeur et pourrait être utile à d'autres personnes, **n'hésitez pas à le partager.** 
 
+[Voir la conférence](https://www.youtube.com/watch?v=ha0UoMjpGq8&t=72s)
 [![YOUTUBE](/assets/article_images/2015-09-29-trouver-idee-startup/davidwise_youtube_startup_idee.png)](https://www.youtube.com/watch?v=ha0UoMjpGq8)
--- 
 
-Vous démarrez un projet de startup ? Ce lien peut vous être utilie pour trouver les bons outils : [davidwise.fr/outils](http://www.davidwise.fr/outils/)
+--
+
+Le monde de l’entrepreneuriat et des startups vous intéresse ? Découvrez un cours en ligne pour apprendre tous les fondamentaux 📚 🖥 👇
+
+[Startup Tour : Tout comprendre sur les startups en 3 heures.
+](https://www.udemy.com/startuptour/?couponCode=DAVIDWISEFR)  Initiation au vocabulaire, concepts et outils pratiques pour se lancer. 
 
