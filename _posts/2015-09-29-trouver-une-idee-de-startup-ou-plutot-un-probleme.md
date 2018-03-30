@@ -1,65 +1,14 @@
 ---
 layout: post
-title:  "Trouver une idée de Startup. Ou un problème qui compte."
+title:  "Trouver une idée de Startup, ou plutôt: un problème qui compte."
 date:   2015-09-29 15:00:00
 categories: Entreprendre
 image: /assets/article_images/2015-09-29-trouver-idee-startup/trouver_une_idee_startup_david_wise_medium_numa_tour.png
 ---
 
 
-Les lieux communs (conversations avec nos amis, les médias… ) nous apprennent à **sur-évaluer l’importance d’une idée**. En vérité une startup ne naît pas tellement d’une bonne idée, mais **d’un bon problème**.
+*Est-ce qu’une ”bonne idée” ca existe ? A t’elle un génome précis ? La réponse est évidement : non. Cependant, je suis persuadé qu’on peut reconnaitre certains de ses traits à travers les points suivants…*
 
-### Avant-Propos : se lancer ?
-
-
-Avant tout, tuons ensemble quelques mythes autour des startups :
-
-**Mythe 1** : Je veux créer une startup parce que je **ne veux plus de “boss”** et je veux plus de **liberté**.
-
-**Réalité** : Faux. Ce sera l’exact opposé qui va se passer : vous serez dépendant de bien plus de personnes que vous ne l’avez jamais été : *employés, fournisseurs, partenaires, utilisateurs, médias…*
-
-![](/assets/article_images/2015-09-29-trouver-idee-startup/startup_tour_dawise_killthe_glam.png)
-
-**Mythe 2** : Je veux créer une startup parce que je veux **plus de temps pour moi**, et faire des **choses qui me plaisent**.
-
-**Réalité** : Ce ne sera pas le cas. Vous n’aurez plus vos horaires de bureau cadrées : les samedi auront un goût de mardi. Ce n’est pas une question de “bien” ou “mal” — ou d’équilibre — mais de **survie**. Les premières années de votre projet vous devrez être à 200% au risque qu’il échoue.
-
-**Mythe 3**: Je veux lancer une startup parce que je veux gagner beaucoup d’argent.
-
-**Réalité** : Raté. Vous avez bien plus de chances de très bien gagner votre vie en rejoignant une **startup en pleine croissance** (qui a prouvé son product/market fit et a levé des fonds) ou un **grand groupe**. En démarrant votre activité, vous avez encore de nombreuses choses à prouver, dont votre modèle économique, et il est hors de question de se payer un gros salaire. Il en va de la survie (trésorie) de votre startup. Puis, il faut dire qu’on est bien [plus créatif lorsqu’on est fauchés](https://www.airbnb.fr/obamaos).
-
-**Mythe 4**: Je veux lancer une startup parce que je veux faire quelque chose à court terme.
-
-**Réalité** : Si votre projet fonctionne, vous allez vous en occuper pour au moins une **décennie (Facebook, Linkedin, Blablacar ont 10 ans ; Twitter, Airbnb ont 8 ans**). Si vous échouez vous allez y passer environ **5 ans**, et probablement, il vous faudra **3 ans** pour vous en rendre compte. C’est un choix de vie important. C’est un peu comme avoir des enfants, une fois que c’est lancé, il faut assumer. Choisissez donc un secteur qui vous passionne profondément.
-
-![](/assets/article_images/2015-09-29-trouver-idee-startup/goodbadreasonstostartastartup_juan_pablo_solano.jpeg)
-
-Un excellent article (en Anglais) sur le sujet : [“Bonnes et mauvaises raisons de se lancer.”](https://medium.com/i-m-h-o/good-and-bad-reasons-to-become-an-entrepreneur-decf0766de8d) par un des co-fondateurs de Facebook, **Austin Moskowitz**, résume parfaitement tout ce qui vient d’être dit.
-
-Vous pouvez aussi regarder la [version vidéo](https://www.youtube.com/watch?v=CBYhVcO4WgI). Si vous n'avez pas le temps, voici un résumé.
-
-Au fait, qu’est ce qu’une startup ?
-
-![](/assets/article_images/2015-09-29-trouver-idee-startup/baby_foot_startup_definition_davidwise.png)
-
-> « A Startup is a human institution designed to deliver a new product or service under conditions of extreme uncertainty. » — **Eric Ries**
-
-**L’incertitude** est la première caractéristique de la startup : ses clients, son produit, son modèle économique. Tout est encore au stade d’interrogation. On démarre souvent avec jute quelques hypotheses à confirmer.
-
-> « A temporary organization designed to search a scalable and repeatable business model. » — **Steve Blank**
-
-La seconde caractéristique est la **scalabilité**. C’est à dire sa capacité à reproduire à grande échelle, un modèle de déploiement, ou de revenus, qu’elle a réussi à valider à petite échelle. C’est capital. C’est pourquoi les startups sont aussi attractives pour les fonds d’investissements : elles sont un [modèle de rendement croissant](https://fr.wikipedia.org/wiki/Rendements_d%27%C3%A9chelle). C’est à dire qu’un nouveau client/ utilisateur coûtera toujours moins cher à acquérir que le précédant. C'est toute la "magie" des startups.
-
-Par exemple — en proportions — les premières recherches sur **Google** coûtaient peut-être à la société quelques milliers de dollars à la fin des années 1990. Aujourd’hui c’est probablement plus proche de 0,0001 centime. De la même façon, si on prend l’exemple de **BlablaCar**, chaque nouvel utilisateur, ne va pas coûter plus cher à son infrastructure technique déjà en place, par contre il lui rapportera, potentiellement, autant que les précédents. Même chose pour Uber, Airbnb et autres. Pour résumer : vous **créez plus de valeur, avec moins de ressources**. Ce sont des économies d’échelle.
-
-La troisième caractéristique d’une startup est la **recherche**. Une startup est en permanence en recherche du modèle qui lui permettra de, justement, se déployer à grande échelle. La startup se différencie d’une entreprise (ou d’une TPE/PME) pour la raison suivante : **une entreprise exploite un modèle économique ; alors qu’une startup cherche son modèle économique**.
-
-![](/assets/article_images/2015-09-29-trouver-idee-startup/product_idee_entreprise_startup_definition_davidwise.png)
-
-Votre objectif, au départ, est de **transformer une idée en produit**, pour ensuite muter (c’est le plus difficile) en une entreprise. La phase 3 signifie que vous avez trouvé votre modèle économique et votre stabilité.
-
--- 
-*Alors : Est-ce qu'une* **"bonne idée"** *ca existe ? A t'elle un* **génome précis** ? *La réponse est évidement : non ! Cependant, je suis persuadé qu'on peut reconnaitre certains de ses traits à travers les points suivants...*
 
 ## 1. Une idée qui tue
 
@@ -196,7 +145,7 @@ Comme le disait **Dave McClure**, investisseur, et CEO de **[500 Startups](http:
 
 > “Your solution is not my fucking problem !”
 
-**Commencez toujours par parler du problème que vous résolvez en premier. Pas de votre solution/ idée.
+Commencez toujours par parler du problème que vous résolvez en premier. Pas de votre solution/ idée.
 
 ![](/assets/article_images/2015-09-29-trouver-idee-startup/pitch_idea_problem_target_solution_valueproposition_davidwise_fr.png)
 Cet article est la version écrite de la présentation ([slides](http://fr.slideshare.net/DavidWise/01-trouver-une-ide-de-startup?qid=93475668-73fc-4a12-b328-a9af933d8aa5&v=default&b=&from_search=1)), réalisée dans le cadre du [Startup Tour](http://startuptour.strikingly.com/). Une Conférence organisé à **NUMA**, dans le but d’offrir une initiation à l’univers des startups. Vidéo ci-dessous.
