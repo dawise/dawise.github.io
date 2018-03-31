@@ -35,7 +35,7 @@ La troisième caractéristique est sa possible **scalabilité**. C’est à dire
 
 1. Démarrer avec une idée (ou une hypothèse 🤔)
 2. La transformer en un produit (que des gens veulent 💰)
-3. Et enfin muter en une entreprise (pouvant avoir plusieurs produits 💼)
+3. Enfin, muter en une entreprise (pouvant avoir plusieurs produits 💼)
 
 La phase 3 signifiant qu’un modèle économique pérenne a été validé.
 

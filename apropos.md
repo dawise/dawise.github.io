@@ -33,7 +33,7 @@ title: A propos
   <li>Transmettre</li>
   </ul> 
  
- <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans mes centres d'intérêt. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien (pour le meilleur et pour le pire), ainsi qu'à l'Histoire de <b>l'innovation</b>.</p>
+ <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans mes centres d'intérêt. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien (pour le meilleur et pour le pire), ainsi qu'à <b>l'Histoire de l'innovation</b>.</p>
 
   <h3> Ailleurs sur le web</h3>
   
@@ -43,4 +43,4 @@ title: A propos
 
 <p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a>.</p>
 
-<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci à l'open source.</p>
+<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci l'open source.</p>
