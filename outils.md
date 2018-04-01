@@ -16,9 +16,10 @@ Que vous soyez étudiant, entrepreuneur, freelance, salarié [polyvalent](https:
 5. **Automatiser** 
 6. **Lifestyle**
 
-La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont généralement un modèle “freemium”. C’est à dire qu’à partir d’un certain seuil d’utilisation ils deviennent payants.
+La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont généralement un modèle “freemium”. C’est à dire qu’à partir d’un certain seuil d’utilisation ils deviennent payants. 
+**Les outils** ayant une 🌟 sont ceux que **j'utilise** régulièrement.
 
-NB : la liste est régulièrement mise à jour.
+*NB : la liste est régulièrement mise à jour.*
 
 
 ## 1.Entreprendre
@@ -30,7 +31,7 @@ NB : la liste est régulièrement mise à jour.
 - [Blogger](https://www.blogger.com/home) - La première plateforme célèbre du genre. Basique mais fonctionnelle.
 - [Tumblr](http://tumblr.com/) - Simple avec un grand choix de thèmes pour tous les goûts.
 - [Squarespace](http://squarespace.com) - Moderne, esthétique, avec de nombreuses possibilités.
-- [Medium](https://medium.com/) - Le plus abouti, très simple de prise en main.
+- [Medium](https://medium.com/) 🌟- Le plus abouti, très simple de prise en main.
 - [Svbtle]() - Minimaliste au possible. Les “Kudos” restent une expérience sympa.
 - [Posthaven]() - Design simple et un peu geek, promet à ses utilisateurs de ne jamais fermer.
 - [Postagon](https://postagon.com) - Minimaliste et zen. Simple d’utilisation.
@@ -40,7 +41,7 @@ NB : la liste est régulièrement mise à jour.
 
 ### CMS : Partager du contenu
 
-- [Wordpress](http://wordpress.com/) - Le plus célèbre, simple et populaire. De nombreuses fonctionnalités si on sait coder.
+- [Wordpress](http://wordpress.com/) 🌟- Le plus célèbre, simple et efficace. De nombreuses fonctionnalités supplémentaires si on sait coder.
 - [Squarespace](http://squarespace.com) - Le plus esthétique, moderne, avec de nombreuses possibilités.
 - [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
 - [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses institutions ou entreprises comme Palantir.
@@ -51,6 +52,7 @@ NB : la liste est régulièrement mise à jour.
 
 - [Launchrock](https://www.launchrock.com/) Récoltez des adresses mails et validez votre idée.
 - [Strikingly](http://strikingly.com/) - Créez un vrai site vitrine en quelques clics. Très simple d'utilisation.
+- [Squarespace](http://squarespace.com)🌟- Moderne, esthétique, avec de nombreuses possibilités.
 - [Unbounce](http://unbounce.com/) - Très complet, permet de créer des landing pages avec de nombreux modèles, de l'A/B Testing. Pas besoin de savoir coder.
 - [Instapage](https://www.instapage.com/) - Toujours simple d'utilisation, permet également l'intégration pratique de services tiers, comme Mailchimp.
 - [Landing Harbor](http://www.landingharbor.com/) - Si vous avez une App Mobile, créez une landing page en quelques minutes.
@@ -58,26 +60,26 @@ NB : la liste est régulièrement mise à jour.
 
 ### Acheter un nom de domaine
 
-- [Gandi](https://www.gandi.net/) - La politique "No Bullshit" plaît beaucoup (c'est leur slogan) et ils sont francais.
+- [Gandi](https://www.gandi.net/) 🌟- La politique "No Bullshit" plaît beaucoup (c'est leur slogan) et ils sont francais.
 - [OVH](https://www.ovh.com/fr/) - 3ème hébergeur mondial, et ils sont également français. Cocorico.
 - [1&1](http://www.1and1.com/) - Bien connu, il fait partie des principaux acteurs de l’hébergement mondial.
 - [DomainTyper](https://domaintyper.com/) - Permet de vérifier en un coup d’oeil la disponibilité d’un nom de domaine sur plusieurs terminaisons à la fois.
 
 ### Réaliser un questionnaire en ligne
 - [Google Form](https://www.google.com/forms/about/) - Simple et universel, il reste esthétiquement assez pauvre.
-- [Typeform](http://www.typeform.com/) - Le plus réussi, permet de réaliser de beaux formulaires engageants.
+- [Typeform](http://www.typeform.com/) 🌟- Le plus réussi, permet de réaliser de beaux formulaires engageants.
 
 
 ### Synchroniser des documents
 
-- [Dropbox](https://www.dropbox.com/) - Simple, efficace, compréhensible, ne cherchez pas plus loin.
+- [Dropbox](https://www.dropbox.com/) 🌟 - Simple, efficace, compréhensible, ne cherchez pas plus loin.
 - [Box](https://www.box.com/) - Parce qu’il faut bien un concurrent, plus tourné vers les entreprises.
 
 
 ### Collaborer en ligne
 
 - [Slack](https://slack.com/) - Même si relativement récent, de loin le plus populaire. Interface simple et soignée.
-- [Trello](https://trello.com/) - Outil très visuel pour hiérarchiser et classer les tâches à éffectuer pour l’équipe. Gratuit.
+- [Trello](https://trello.com/) 🌟 - Outil très visuel pour hiérarchiser et classer les tâches à éffectuer pour l’équipe. Gratuit.
 - [Asana](https://asana.com/) - Fondé par l’un des co-fondateurs de Facebook. Populaire et assez bien implanté.
 - [Azandoo](https://www.azendoo.com/) - Comme les autres : veut progressivement tuer l’email d’entreprise. A la particularité d’être français.
 - [Flow](https://www.getflow.com/) - Produit par la [même agence](http://www.metalab.co/) qui a réalisé le design de Slack (cité plus haut), interface et design soigné.
@@ -86,19 +88,21 @@ NB : la liste est régulièrement mise à jour.
 
 ### Vidéo-conférence/ partage d'écrans
 
-- [Skype](http://www.skype.com/fr/) - On ne le présente plus, au point que ce soit devenu un verbe de la langue française. A remplacé MSN pour les plus jeunes, et peut être utilisé par vos grands-parents.
+- [Skype](http://www.skype.com/fr/) 🌟 - On ne le présente plus, au point que ce soit devenu un verbe de la langue française. A remplacé MSN pour les plus jeunes, et peut être utilisé par vos grands-parents.
 - [Google Hangout](http://www.google.com/intl/fr_ALL/+/learnmore/hangouts/) - Célébre outil, a l’avantage de pouvoir partager l’écran à plusieurs en vidéo, le tout gratuitement.
 - [Join Me](https://www.join.me/) - Rejoindre une conversation sans aucune installation, partage d'écran.
 - [GoToMeeting](http://www.gotomeeting.fr/) - Rejoindre et créer des conférences en ligne, partage du son, tchat interactif et partage d’écran. Nécessite installation.
 
 ### Présentations type Powerpoint
 
-- [Keynote](http://www.apple.com/mac/keynote/) - Outil puissant de présentation pour Mac, relativement simple à prendre en main.
+- [Keynote](http://www.apple.com/mac/keynote/) 🌟 - Outil puissant de présentation pour Mac, relativement simple à prendre en main.
 - [Prezi](https://prezi.com/) - Service en ligne qui permet de faire des présentations très visuelles et originales. 
+- [Ludus](https://ludus.one/) - Service en ligne permettant de réaliser des présentations très visuelles. Plutôt orienté designers.
+- [Paste](https://pasteapp.com/) 🌟- Service en ligne permettant de faire des présentation esthétiques en quelques clics.
 
 ### Héberger vos présentations
 
-- [SlideShare](http://www.slideshare.net/) - Héberge vos slides PPT, ou en format PDF, en ligne. Service très populaire. Le Youtube des slides.
+- [SlideShare](http://www.slideshare.net/) 🌟- Héberge vos slides PPT, ou en format PDF, en ligne. Service très populaire. Le Youtube des slides.
 - [SpeakerDeck](https://speakerdeck.com/) - Transforme vos formats PDF en une éxpérience de consultation esthétique en ligne.
 
 ### Vendre des produits en ligne
@@ -110,8 +114,8 @@ NB : la liste est régulièrement mise à jour.
 
 ### Vendre du contenu 
 
-- [Teachable](http://teachable.com/) - Mettez en vente vos cours et tutoriels selon vos spécialitées. La plateforme apporte la technologie, vous apportez le contenu.
-- [Udemy]() - Même chose : Si vous avez un domaine d’expertise que vous voulez monétiser, c’est le genre de plateforme idéale pour que des apprenants du monde entier rejoignent vos cours.
+- [Teachable](http://teachable.com/) 🌟- Mettez en vente vos cours et tutoriels selon vos spécialitées. La plateforme apporte la technologie, vous apportez le contenu.
+- [Udemy](https://www.udemy.com) 🌟- Même chose : Si vous avez un domaine d’expertise que vous voulez monétiser, c’est le genre de plateforme idéale pour que des apprenants du monde entier rejoignent vos cours.
 
 ### Accépter des payements en tant que e-commerce
 
@@ -123,7 +127,7 @@ NB : la liste est régulièrement mise à jour.
 ### Accepter des payements en tant que commerce physique
 
 - [Square](https://squareup.com/global/fr/register) - Géant américain, avec pour co-fondateur, un des anciens créateurs de Twitter. Solution de payement via mobile pour les commerces. A fait de nombreux partenariats aux USA. Dont Starbucks.
-- [Lydia](https://lydia-app.com/) - Petite soeur version française, l’application se fait une place sur le marché. Facile d’utilisation, réglez (et remboursez vos amis) via mobile.
+- [Lydia](https://lydia-app.com/) - Petite soeur version française, l’application permet aux commercants d'accepter des payments mobiles. 
 
 ### Réaliser une campagne de crowdfounding
 
@@ -160,7 +164,7 @@ NB : la liste est régulièrement mise à jour.
 - Toutes les [ressources visuelles gratuites dans cet article](http://www.davidwise.fr/entreprendre/2014/08/31/trouver-belles-illustrations-gratuites-projet.html). **Fait maison**. 
 
 ### Réaliser et éditer des visuels
-- [Canva](https://www.canva.com/) - Très simple, pour tous les formats web : réseaux sociaux, newsletter, sites. Indispensable et gratuit.
+- [Canva](https://www.canva.com/) 🌟- Très simple, pour tous les formats web : réseaux sociaux, newsletter, sites. Indispensable et gratuit. 
 - [Place it](https://placeit.net/) - Intégrez vos images directement dans des contextes.
 - [Page2image](http://www.page2images.com/) - Faites une capture d'écran d'une page Web entière.
 - [Social Image Resizer Tool](http://www.internetmarketingninjas.com/seo-tools/favicon-generator-crop-images/) - Tranformer vos images dans toutes les tailles que vous souhaitez : de la cover facebook à la favicon de votre site.
@@ -203,7 +207,7 @@ NB : la liste est régulièrement mise à jour.
 
 ### Éditer des vidéo
 
-- [Final Cut Pro X](http://www.apple.com/final-cut-pro/) - Montage video. Pas le plus développé, mais assez simple et intuitif. Valeur sûre. La licence est à 300 dollars.
+- [Final Cut Pro X](http://www.apple.com/final-cut-pro/) 🌟- Montage video. Pas le plus développé, mais assez simple et intuitif. Valeur sûre. La licence est à 300 dollars.
 - [Tube Buddy](https://www.tubebuddy.com/) - Série d'outils pratiques afin d'être accompagné dans sa production et distribution video.
 - [Hand Brake](https://handbrake.fr/) - Convertit des formats vidéo compliqués en format universel.
 - [Camtasia](https://www.techsmith.com/camtasia.html) - Enregistrez votre écran en vidéo.
@@ -219,8 +223,9 @@ NB : la liste est régulièrement mise à jour.
 
 ### Lancer un campagne d'emailing ou une newsletter
 
-- [Mailchimp](http://mailchimp.com/) - Un standard du marché, simple d'utilisation, vient tout droit des US. Permet de collecter des adresses mails, faire des envois groupés et le design de Newsletter. En freemium.
+- [Mailchimp](http://mailchimp.com/) 🌟- Très simple d'utilisation, permet de collecter des adresses mails, faire des envois groupés et le design de Newsletter. En freemium.
 - [Mailjet](https://fr.mailjet.com/) - Comme son homologue, service complet de mailing. Application française, qui sort des studios de e-Founders. Moins cher pour du gros volume.
+- [Mailer Lite](https://www.mailerlite.com/) 🌟- Permet d'envoyer des emails en masse à moindre prix (moins cher que Mailchimp) et d'avoir une suite de fonctionnalités appréciables : landing page, pop-page, statstiques.
 
 ### Gérer des campagnes par SMS
 
@@ -236,7 +241,7 @@ NB : la liste est régulièrement mise à jour.
 
 ### Tracker et shorter des liens URL
 
-- [Bitly](https://bitly.com/) - Une des premières solutions de short-linking et probablement la plus populaire. Design soigné et fournit des Analytics sur les clics.
+- [Bitly](https://bitly.com/) 🌟 - Une des premières solutions de short-linking et probablement la plus populaire. Design soigné et fournit des Analytics sur les clics.
 - [Buffer](http://bufferapp.com/) - Dans sa version gratuite, l'outil permet de connaître de nombre de clics génerés par vos liens et d'en planifier dans le temps. Version payante plus complète.
 - [Goo.gl](http://goo.gl/) - La solution de Google, pratique et très simple d'utilisation. L'outil vous donne des analyses sur les clics: pays, heure, device.
 
@@ -262,6 +267,7 @@ NB : la liste est régulièrement mise à jour.
 - [Spectrum](https://spectrum.chat) - Créez ou rejoignez une communauté en ligne.
 - [Groupe Facebook](https://www.facebook.com/) - Pour intéragir avec une communauté vous pouvez simplement créer un groupe facebook.
 - [Slack](https://slack.com/) - Slack est également une bonne alternative. De nombreuses communautés l'utilisent pour communiquer. Par exemple [Slack List](http://www.slacklist.info/) répertorie un grand nombre de communautés par thématiques.
+- 
 
 ## 4. Coder
 ![](/assets/pages_images/code_geek_stuff_paris_france_davidwise_dawise.png)
@@ -269,24 +275,24 @@ NB : la liste est régulièrement mise à jour.
 
 ### Apprendre à coder en ligne 
 
-- [Treehouse](https://teamtreehouse.com) - Accompagnement en vidéo. Nombreux sujets techniques : HTML, CSS, Javascript, PHP, Ruby, Python. Plateforme très soignée. 15 jours gratuits. 
+- [Treehouse](https://teamtreehouse.com) 🌟- Accompagnement en vidéo. Nombreux sujets techniques : HTML, CSS, Javascript, PHP, Ruby, Python. Plateforme très soignée. 15 jours gratuits.
 - [Le Wagon On Demand](https://ondemand.lewagon.org/) - Version virtuelle de la formation [Le Wagon](http://lewagon.org/). Avec vous pourrez apprendre le HTML, CSS ou Javascript en Francais et avec d'excellents professeurs.
 - [Codecademy](https://www.codecademy.com/learn) - Très populaire et gratuit, il peut cependant avoir le désaventage de paraître "moins concret" que les autres. Bien pour s'éxercer et acquérir de bons réflexes.
-- [One Month](https://onemonth.com/) - Apprenez Ruby on Rails, le Growth Hacking ou Swift en 1 mois avec des tutos vidéo très bien réalisées. Modèle payant chaque mois et sans engagement.
+- [One Month](https://onemonth.com/) 🌟- Apprenez Ruby on Rails, le Growth Hacking ou Swift en 1 mois avec des tutos vidéo très bien réalisées. Modèle payant chaque mois et sans engagement.
 - [Progate](https://progate.com/) - Apprenez gratuitement de nombreux langages en Anglais. 
 
 ### Éditeur de texte pour coder
 
- - [SublimeText](http://www.sublimetext.com/) - Un des éditeurs de texte de référence. Simple, intuitif et coloré. Gratuit mais avec la possibilité de soutenir ses créateurs en l'achetant. Idéal pour débutants.
+ - [SublimeText](http://www.sublimetext.com/) 🌟 - Un des éditeurs de texte de référence. Simple, intuitif et coloré. Gratuit mais avec la possibilité de soutenir ses créateurs en l'achetant. Idéal pour débutants.
 
 ### Héberger votre code en ligne
 
- - [GitHub](http://github.com/) - Solution la plus populaire. Une sorte de réseau social pour développeurs. Gratuit si votre code est publique, payant si vous voulez le rendre privé.
+ - [GitHub](http://github.com/) 🌟 - Solution la plus populaire. Une sorte de réseau social pour développeurs. Gratuit si votre code est publique, payant si vous voulez le rendre privé.
  - [Bitbucket](https://bitbucket.org/) - Alternative à GitHub, très concentré sur l'offre entreprises, pratique pour intéragir en équipe sur la plateforme. Design simple et compréhensible.
 
 ### Héberger un site web
 
-- [GitHub](https://pages.github.com/) - Via "GitHub Pages", gratuit et simple d'utilisation. Pour votre blog, site personnel ou premier projet ne cherchez pas plus loin.
+- [GitHub](https://pages.github.com/) 🌟- Via "GitHub Pages", gratuit et simple d'utilisation. Pour votre blog, site personnel ou premier projet ne cherchez pas plus loin.
 - [Heroku](https://dashboard.heroku.com/) - Plus avancé et complexe, idéal pour le lancement d'une application par exemple. Vous pourrez adapter l'offre à votre trafic.
 
 ### Récolter des formulaires de contact
@@ -323,7 +329,7 @@ NB : la liste est régulièrement mise à jour.
 
 ### Enrichir votre site web
 
-- [SumoMe](http://sumome.com/) - Grâce à un simple copier-coller d'un script (JS) bénéficiez de nombreuses options comme des boutons de partage, une barre pour récolter des adresses e-mails... etc.
+- [SumoMe](http://sumome.com/) 🌟- Grâce à un simple copier-coller d'un script (JS) bénéficiez de nombreuses options comme des boutons de partage, une barre pour récolter des adresses e-mails... etc.
 - [HelloBar](https://www.hellobar.com/) - Même chose : grâce à un petit script, l'outil permet d'avoir une barre d'information où on peut récolter de adresses e-mail et/ ou communiquer.
 - []() - Other
 
@@ -334,7 +340,7 @@ NB : la liste est régulièrement mise à jour.
 
 ### Prospection : trouver des adresses emails 
 
-- [Mailhunter](https://emailhunter.co/) - Permet de trouver les adresses mail professionnelles @entreprise sur Internet.
+- [Hunter](https://hunter.io/) - Permet de trouver les adresses mail professionnelles @entreprise sur Internet.
 - [MailDrop](http://maildrop.cc/) - Idéal pour une inscription rapide ou un test, vous permet d'envoyer/recevoir un mail avec une adresse créé pour l'occasion.
 - [Rapportive](https://rapportive.com/) - Extension très puissante pour Gmail (uniquement) qui permet de savoir automatiquement si une adresse e-mail est liée à un compte Linkedin.
 - [Datananas](https://www.datananas.com/fr/) - Sur-couche grapique sur les réseaux pro (Linkedin, Viadeo) qui va indiquer les coordonnées email et numéro de téléphone des profils visités.
@@ -366,7 +372,7 @@ NB : la liste est régulièrement mise à jour.
 ### Mettre de côté des pages web
 
 - [Pocket](http://getpocket.com/) - Pensé pour les mobiles, le service permet de sauvegarder et retrouver plus tard n'importe quelle page web.
-- [Instapaper](https://www.instapaper.com/) - Même principe : permet de sauvegarder un contenu sur plusieurs termineaux. Design minimaliste et possibilité de suoligner des extraits d'articles. Mon favori.
+- [Instapaper](https://www.instapaper.com/) 🌟- Même principe : permet de sauvegarder un contenu sur plusieurs termineaux. Design minimaliste et possibilité de suoligner des extraits d'articles. Mon favori.
 - [Pinboard](https://pinboard.in/) - Outil de bookmarking le moins cher des services payants. Design très simpliste.
 
 ### Trouver des réponses/ poser des questions
@@ -379,7 +385,7 @@ NB : la liste est régulièrement mise à jour.
 - [Paypal.me](https://www.paypal.me/) - Recevez des payements grâce à une simple adresse URL. Fini les RIB à 18 chiffres.
 - [Cash.me](https://cash.me/) - Lancé par Square, vous avez juste besoin d'un pseudo pour recevoir de l'argent.
 - [Payy.me](https://payy.me/) - Même principe : une page web, des transactions.
-- [Lydia](https://lydia.com/) - Permet de se rembourser entre amis. Je ne passe pas une semaine sans l'utiliser. 
+- [Lydia](https://lydia.com/) 🌟- Permet de se rembourser entre amis. Je ne passe pas une semaine sans l'utiliser.
 
 ### Partager/ héberger des vidéo
 
@@ -416,14 +422,20 @@ NB : la liste est régulièrement mise à jour.
 - [62 degrés](https://www.62degres.com/) - Même principe. 
 - [Frichti](https://www.frichti.co/) - Possibilité d'avoir des brunchs.
 
-### Idées cadeaux 
+### Des idées cadeaux 
 
 - [Canopi](https://canopy.co/) - Idées cadeaux originales. Une sélection de produits d'Amazon.
+
+
+### Faire son CV
 
 - [Standard Resume](https://standardresume.co/) - Faire son CV simplement en ligne. Gratuit si vous réalisez un exemplaire. 
 - [Canva](https://www.canva.com/) - L'outil offre de nombreux modèles à disposition pour réaliser des CV. 
 
+### Télécharger des vidéo Youtube 
 
-----------------------------------
+- [Converto](https://www.converto.io/fr) - Permet de télécharger des vidéo au format Mp3 et Mp4.
 
-**À noter** : Une grande partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : outils[at]davidwise[point]fr
+--
+
+La majeur partie de ces outils/ services ont été testés personnellement. Pour des recommandations, n’hésitez pas à m’écrire à : <b> outils[at]davidwise[dot]fr </b>
