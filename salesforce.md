@@ -16,7 +16,7 @@ title: Salesforce
       <li><a href="https://pasteapp.com/p/jitUPJmBzr3">Introduction à Service Cloud</a>.</li>
   </ul>
 
-  <p>Etapes à suivre : </p>
+  <p>📝Etapes à suivre : </p>
    
    <ul>
    <li>Créez un compte <a href="https://developer.salesforce.com/signup/">Salesforce Developer</a>.<br></li>

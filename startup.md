@@ -13,14 +13,16 @@ title: Startup
   <p>💻 Les supports : </p>
 
    <ul>
-   <li> </li>
-   <li> </li>
-   <li> </li>
-   <li> </li>
+   <li><a href="/assets/mydoc/startup_class/STARTUP_CLASS_1DW.pdf">Cours 1 : Un problème</a></li>
+   <li> <a href="/assets/mydoc/startup_class/STARTUP_CLASS_2DW.pdf">Cours 2 : Une proposition de valeur</a></li>
+   <li><a href="/assets/mydoc/startup_class/STARTUP_CLASS_3DW.pdf">Cours 3 : Un MVP</a> </li>
+   <li> <a href="/assets/mydoc/startup_class/STARTUP_CLASS_4DW.pdf">Cours 4 : L'acquisition d'utilisateurs</a></li>
+   <li> <a href="/assets/mydoc/startup_class/STARTUP_CLASS_5DW.pdf">Cours 5 : Une équipe</a></li>
+   <li> <a href="/assets/mydoc/startup_class/STARTUP_CLASS_6DW.pdf">Cours 6 : Croissance & Scalabilité</a></li>
 
    </ul>
 
-  <p>Etapes à suivre : </p>
+  <p>📝Etapes à suivre : </p>
 
  <p>Présenter votre projet en 5 minutes chrono. Vous passerez chacun votre tour sans interruptions. <b>Voici la structure des pitchs :</b></p>
 
