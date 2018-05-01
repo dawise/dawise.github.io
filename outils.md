@@ -19,7 +19,7 @@ Que vous soyez étudiant, entrepreuneur, freelance, salarié [polyvalent](https:
 La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont généralement un modèle “freemium”. C’est à dire qu’à partir d’un certain seuil d’utilisation ils deviennent payants. 
 **Les outils** ayant une 🌟 sont ceux que **j'utilise** régulièrement.
 
-*NB : la liste est régulièrement mise à jour.*
+*NB : la liste est mise à jour autant que possible.*
 
 
 ## 1.Entreprendre
@@ -42,7 +42,7 @@ La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont gé
 ### CMS : Partager du contenu
 
 - [Wordpress](http://wordpress.com/) 🌟- Le plus célèbre, simple et efficace. De nombreuses fonctionnalités supplémentaires si on sait coder.
-- [Squarespace](http://squarespace.com) - Le plus esthétique, moderne, avec de nombreuses possibilités.
+- [Squarespace](http://squarespace.com) 🌟- Le plus esthétique, moderne, avec de nombreuses possibilités.
 - [Joomla](http://www.joomla.org/) - Populaire chez les professionnels, Drupal est un CMS sérieux.
 - [Drupal](https://thegrid.io/) - CMS classique utilisé chez de nombreuses institutions ou entreprises comme Palantir.
 - [The Grid](https://thegrid.io/) - Le design s’adapte au contenu grâce à de l’Intelligence Artificielle.
@@ -63,7 +63,7 @@ La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont gé
 - [Gandi](https://www.gandi.net/) 🌟- La politique "No Bullshit" plaît beaucoup (c'est leur slogan) et ils sont francais.
 - [OVH](https://www.ovh.com/fr/) - 3ème hébergeur mondial, et ils sont également français. Cocorico.
 - [1&1](http://www.1and1.com/) - Bien connu, il fait partie des principaux acteurs de l’hébergement mondial.
-- [DomainTyper](https://domaintyper.com/) - Permet de vérifier en un coup d’oeil la disponibilité d’un nom de domaine sur plusieurs terminaisons à la fois.
+- [DomainTyper](https://domaintyper.com/) 🌟- Permet de vérifier en un coup d’oeil la disponibilité d’un nom de domaine sur plusieurs terminaisons à la fois.
 
 ### Réaliser un questionnaire en ligne
 - [Google Form](https://www.google.com/forms/about/) - Simple et universel, il reste esthétiquement assez pauvre.
@@ -111,6 +111,7 @@ La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont gé
 - [Etsy](https://www.etsy.com/) - Vous permet d'avoir une boutique en ligne pour vos créations : Objets, vêtements... Vous béneficiez de leur réseau et du système de payement.
 - [Selz](https://selz.com/fr/) - Vendez des produits ou des services en ligne. Pour votre site web ou votre page facebook.
 - [Tictail](https://tictail.com/) - Créez une boutique en ligne rapidement.
+- [Celery](https://www.trycelery.com/) - Enregistrer des pré-commandes et des paiements. 
 
 ### Vendre du contenu 
 
