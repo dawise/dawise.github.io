@@ -39,7 +39,7 @@ title: A propos
   
  <p>On peut également se retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>.
 
-<p>Si vous êtes <b>consultant</b>, vous pouvez vous abonner à ma <a href="https://tinyletter.com/lettreduconsultant/">newsletter mensuelle </a> où chaque premier jour du mois je vous fais découvrir un outil pratique pour faciliter votre quotidien.</p> 
+<p>Si vous êtes <b>consultant</b>, vous pouvez vous abonner à ma <a href="https://www.subscribepage.com/lettreduconsultant">newsletter mensuelle </a> où chaque premier jour du mois je vous fais découvrir un outil pratique pour faciliter votre quotidien.</p> 
 
 <p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a>.</p>
 
