@@ -15,7 +15,7 @@ title: A propos
   <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. Parfois, je donne des <a href="/cours">cours</a> en tant qu'enseignant vacataire.</p> 
 
   <h3> Parcours</h3>
-  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improvisé en m'inventant chef de projet, web-marketeur, ergonome, designer, développeur et même psychologue, pour rassurer mes proches.</p> 
+  <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improvisé en m'inventant chef de projet, web-marketeur, ergonome, designer, développeur et même psychologue, pour rassurer mes proches dubitatifs.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
@@ -33,7 +33,7 @@ title: A propos
   <li>Transmettre</li>
   </ul> 
  
- <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans mes centres d'intérêt. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien (pour le meilleur et pour le pire), ainsi qu'à <b>l'Histoire de l'innovation</b>.</p>
+ <p> Aussi loin que je me souvienne, <b>l'éducation</b> a toujours eu une place privilégiée dans mes centres d'intérêt. J'aime découvrir, comprendre, apprendre, transmettre et redémarrer cette boucle à l'infini. Plus globalement, je m'intéresse à la place que prennent les <b>technologies</b> dans notre quotidien (pour le meilleur et pour le pire), ainsi qu'à l'Histoire de <b>l'innovation</b>.</p>
 
   <h3> Ailleurs sur le web</h3>
   
