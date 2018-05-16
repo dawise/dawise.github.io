@@ -13,16 +13,16 @@ title: Startup
   <p>💻 Les supports : </p>
 
    <ul>
-   <li><a href="/assets/mydoc/StartupClass/STARTUP_CLASS_1DW.pdf">Cours 1 : Un problème</a></li>
-   <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_2DW.pdf">Cours 2 : Une proposition de valeur</a></li>
-   <li><a href="/assets/mydoc/StartupClass/STARTUP_CLASS_3DW.pdf">Cours 3 : Un MVP</a> </li>
+   <li><a href="/assets/mydoc/StartupClass/STARTUP_CLASS_1DW.pdf">Cours 1 : Trouver un problème</a></li>
+   <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_2DW.pdf">Cours 2 : Créer votre proposition de valeur</a></li>
+   <li><a href="/assets/mydoc/StartupClass/STARTUP_CLASS_3DW.pdf">Cours 3 : Construire un MVP</a> </li>
    <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_4DW.pdf">Cours 4 : L'acquisition d'utilisateurs</a></li>
-   <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_5DW.pdf">Cours 5 : Une équipe</a></li>
+   <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_5DW.pdf">Cours 5 : Constituer une équipe</a></li>
    <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_6DW.pdf">Cours 6 : Croissance & Scalabilité</a></li>
 
    </ul>
 
-  <p>📝Etapes à suivre : </p>
+  <p>📝Exercice : </p>
 
  <p>Présenter votre projet en 5 minutes chrono. Vous passerez chacun votre tour sans interruptions. <b>Voici la structure des pitchs :</b></p>
 
@@ -42,5 +42,5 @@ title: Startup
 
  <p>🏢<b>Etablissement</b> : Ecole de Management Léonard de Vinci<br>
 
- 🔙<b>Feedback des étudiants</b>: <a href="https://davidwise.typeform.com/report/jDTqbH/Hcua">Master 2,</a> filière "Entrepreneuriat"(EMLV), <br>
+ 🔙<b>Retour des étudiants</b>: <a href="https://davidwise.typeform.com/report/jDTqbH/Hcua">Master 2,</a> filière "Entrepreneuriat"(EMLV), <br>
  ✉️ <b>M'écrire</b> : cours[at]davidwise[dot]fr</p> 

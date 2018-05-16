@@ -13,7 +13,7 @@ title: Pitchs
 
 <p><a href="/assets/mydoc/42/Benchwise_presentation_rush.pdf">BenchWise</a>- Pourquoi ? Avec un nom pareil c'est forcément bien. Sérieusement, parceque l'équipe est en parfaite adéquation avec le produit et ils ont compris quelque chose dans leur métier qui est fastidieux et long. Ils le rendent simple et rapide. Leur stratégie de développement est également bien pensée.</p>
 
-<p><a href="/assets/mydoc/42/Gustave_Pitch.pdf">Gustave</a>- Pourquoi ? Parce que le problème qu'ils résolvent est amené de la meilleure manière qu'il soit : "le dernier jour de vacances est toujours super naze". Ils résolvent une vraie "pain" (sans [changer le monde](https://www.youtube.com/watch?v=BWf-eARnf6U) hein, qu'on soit bien d'accord) où les gens seront probablement prêt à payer (vacances=dépenses). De plus ils ont un plan d'action précis sur ce qu'ils veulent faire dans les 3 prochains mois et ont 1 partenaire pour tester.</p>
+<p><a href="/assets/mydoc/42/Gustave_Pitch.pdf">Gustave</a>- Pourquoi ? Parce que le problème qu'ils résolvent est amené de la meilleure manière qu'il soit : "le dernier jour de vacances est toujours super naze". Ils résolvent un vrai problèmz où des gens seront probablement prêt à payer (vacances=dépenses). De plus ils ont un plan d'action précis sur ce qu'ils veulent faire dans les 3 prochains mois et ont 1 partenaire pour tester.</p>
 
 <p><a href="/assets/mydoc/42/Patchworks_Pitch_Rush_42.pdf">Patchworks</a>- Pourquoi ? Parce que c'est typiquement le projet où une grande vision ("demain on ne jettera plus rien") et une réalisation super concrète (leur MVP est un coussin) se rencontrent. A côté de cela leur univers graphique et leur ton était très bon lors de la présentation. Sobre et efficace.</p>
 

@@ -25,6 +25,6 @@ title: Salesforce
    </ul>
 
    <p>🏢<b>Etablissement</b> : Ecole de Management Léonard de Vinci<br>
-    🔙<b>Feedback des étudiants</b> : <a href="https://davidwise.typeform.com/report/oh71xZ/hugoCJzrSd9MedlS">Apprentis 5eme année,</a> filière "Vente & Negociation"(EMLV), <br>
+    🔙<b>Retour des étudiants</b> : <a href="https://davidwise.typeform.com/report/oh71xZ/hugoCJzrSd9MedlS">Apprentis 5eme année,</a> filière "Vente & Negociation"(EMLV), <br>
    ✉️ <b>M'écrire</b> : cours[at]davidwise[dot]fr</p> 
 
