@@ -13,7 +13,7 @@ title: Cours
 
    <h3> Entrepreneuriat️ 🚀</h3>
 
-   <p><b>Désapprenez</b> tout ce que vous pensiez savoir sur les startups et l'entreprenneuriat. Découvrez de nouvelles <b>méthodologies, concepts et outils pratiques</b> pour lancer votre projet aujourd'hui. <a href="/startup">Détails</a>.</p>
+   <p><b>Désapprenez</b> tout ce que vous pensiez savoir sur les startups et l'entrepreneuriat. Découvrez de nouvelles <b>méthodologies, concepts et outils pratiques</b> pour lancer votre projet. <a href="/startup">Détails</a>.</p>
 
  <p> ✉️ <b>M'écrire</b> : cours[at]davidwise[dot]fr</p> 
 
