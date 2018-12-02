@@ -4,10 +4,12 @@ title: La Lettre du Consultant
 ---
 
 <div class="post">
-  <h1 class="pageTitle">La Lettre</h1>
+  <h1 class="pageTitle">La Lettre du Consultant</h1>
 
-<h3> Inscription</h3> 
-<p> <a href="https://www.subscribepage.com/lettreduconsultant">Cliquer ici</a> ou remplir le formulaire ci-dessous. </p>
+<h3> Inscription ✉️👇</h3> 
+<p>Chaque premier jour du mois, recevez <b> un court email </b> où je vous propose de découvrir un outil pratique pour améliorer votre <b> quotidien connecté </b> et je vous partage quelques <b>liens</b> que je trouve intéressant (articles, vidéo, interviews...) pour en prendre du <b>recul.</b></p> 
+
+<p>Remplissez le formulaire ci-dessous ou<a href="https://www.subscribepage.com/lettreduconsultant"> inscrivez-vous sur ce lien.</a> </p>
 
 <img src="/assets/pages_images/lettre_outils.png">
 

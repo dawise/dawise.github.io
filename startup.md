@@ -10,8 +10,16 @@ title: Startup
 
 <p><b>Désapprenez</b> tout ce que vous pensiez savoir sur les startups et l'entrepreneuriat. Découvrez de nouvelles <b>méthodologies, concepts et outils pratiques</b> pour lancer votre projet aujourd'hui.</p>
 
-  <p>💻 Les supports : </p>
+<h4>🏢 2018-2019 : 5eme année Master Entreprendre, Ecole de Management Léonard de Vinci <a href="https://www.emlv.fr/">(EMLV)</a></h4>
+<br>
+<p><b>💻 Support de cours</b> :
+Prototype :<a href="https://pasteapp.com/p/56HLdRVb8gn"> comment valider ses hypothèses rapidement.</a></p>
+<p><b>📝 Consignes</b> : Me communiquer par email vos prototypes ainsi que répondre aux deux questions slide 63 : Quelles sont vos 2 hypothèses structurantes ? Comment le prototype vous aide dans votre apprentissage pour valider ou invalider vos hypothèses ?
+</p>
 
+<h4>🏢 2015-2016 : 5eme année Master Entreprendre, Ecole de Management Léonard de Vinci <a href="https://www.emlv.fr/">(EMLV)</a></h4>
+<br>
+<p><b>💻 Support de cours</b> :
    <ul>
    <li><a href="/assets/mydoc/StartupClass/STARTUP_CLASS_1DW.pdf">Cours 1 : Trouver un problème</a></li>
    <li> <a href="/assets/mydoc/StartupClass/STARTUP_CLASS_2DW.pdf">Cours 2 : Créer votre proposition de valeur</a></li>
@@ -22,10 +30,7 @@ title: Startup
 
    </ul>
 
-  <p>📝Exercice : </p>
-
- <p>Présenter votre projet en 5 minutes chrono. Vous passerez chacun votre tour sans interruptions. <b>Voici la structure des pitchs :</b></p>
-
+  <p>📝 <b> Consignes </b> : Présenter votre projet en 5 minutes. Vous passerez chacun votre tour sans interruptions. <b>Voici la structure des pitchs :</b></p>
  <ul>
    <li>Le problème</li>
    <li>La proposition de valeur </li>
@@ -34,13 +39,9 @@ title: Startup
    <li>L'équipe (pourquoi vous ?)</li>
  </ul>
 
-<p><b> Objectif fictif</b>  : Vous faire accepter dans l'incubateur de l'école.</p>  
+<p><b> Objectif fictif</b>  : Vous faire accepter dans l'incubateur de l'école. 
+Pour vous inspirer, <a href="/pitch-perfect">des exemples de présentations.</a></p>
 
-<p>Vous serez notés sur le temps, la pertinance avec laquelle vous allez amener le problème et la solution. Ca sera votre seule note de la matière. <b>Vos slides doivent être en format PDF et sur une clés USB le jour J.</b></p> 
+<p> 🔙<b>Feedback des étudiants</b> : <a href="https://davidwise.typeform.com/report/jDTqbH/Hcua">Formulaire anonyme </a><p>
 
-<p>Pour vous inspirer, <a href="/pitch-perfect">des exemples de présentations.</a></p>
-
- <p>🏢<b>Etablissement</b> : Ecole de Management Léonard de Vinci<br>
-
- 🔙<b>Retour des étudiants</b>: <a href="https://davidwise.typeform.com/report/jDTqbH/Hcua">Master 2,</a> filière "Entrepreneuriat"(EMLV), <br>
  ✉️ <b>M'écrire</b> : cours[at]davidwise[dot]fr</p> 

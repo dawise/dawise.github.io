@@ -7,7 +7,7 @@ title: Outils
 	<h1 class="pageTitle">Outils</h1>
 </div>
 
-Que vous soyez étudiant, entrepreuneur, freelance, salarié [polyvalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
+Que vous soyez étudiant, entrepreuneur, freelance, [salarié polyvalent](https://medium.com/@chrismessina/the-full-stack-employee-ed0db089f0a1) ou simple curieux, voici une sélection **d'outils afin de vous faciliter la vie au quotidien**. Ils sont classés en 6 catégories : 
 
 1. **Entreprendre**
 2. **Designer**
@@ -16,10 +16,9 @@ Que vous soyez étudiant, entrepreuneur, freelance, salarié [polyvalent](https:
 5. **Automatiser** 
 6. **Lifestyle**
 
-La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont généralement un modèle “freemium”. C’est à dire qu’à partir d’un certain seuil d’utilisation ils deviennent payants. 
-**Les outils** ayant une 🌟 sont ceux que **j'utilise** régulièrement.
+La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont, en général, un modèle <a href="https://fr.wikipedia.org/wiki/Freemium">freemium</a>. **Les outils** ayant une étoile 🌟 sont ceux que **j'utilise** régulièrement.
 
-*NB : la liste est mise à jour autant que possible.*
+*NB : la liste est mise à jour régulièrement.*
 
 
 ## 1.Entreprendre

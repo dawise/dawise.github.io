@@ -10,10 +10,10 @@ title: Cours
 
   <h3> Entrepreneuriat️ 🚀</h3>
 
-   <p><b>Désapprenez</b> tout ce que vous pensiez savoir sur les startups et l'entrepreneuriat. Découvrez de nouvelles <b>méthodologies, concepts et outils pratiques</b> pour lancer votre projet. <a href="/startup">Détails</a>.</p>
+   <p><b>Désapprenez</b> tout ce que vous pensiez savoir sur les startups et l'entrepreneuriat. Découvrez de nouvelles <b>méthodologies, concepts et outils pratiques</b> pour lancer votre projet. <a href="/startup">Accéder aux supports</a>.</p>
 
-	<h3> Salesforce ☁️ </h3>
-  <p> Introduction au concept de <b>CRM</b>, au logiciel <b>Salesforce</b> et à ses verticales <b>Sales Cloud</b> et <b>Service Cloud</b>. <a href="/salesforce">Détails</a>.</p> 
+	<h3> CRM & Salesforce ☁️ </h3>
+  <p> Introduction au concept de <b>CRM</b>, au logiciel <a href="https://www.salesforce.com/fr">Salesforce</a>, à son utilisation et ses fonctionnalités. <a href="/salesforce">Accéder aux supports</a>.</p> 
 
- <p> Mes expertises sont le reflet de mes expériences profesionnelles. Pour toute demande ou question vous pouvez m'<b>écrire</b> à l'adresse suivante : cours[at]davidwise[dot]fr ✉️</p> 
+ <p> Mes expertises sont le reflet de mes expériences profesionnelles. Pour toute demande d'intervention ou question vous pouvez <b>m'écrire</b> à l'adresse suivante : cours[at]davidwise[dot]fr </p> 
 

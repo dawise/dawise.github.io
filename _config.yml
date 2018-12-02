@@ -16,10 +16,12 @@ navigation:
    url: /apropos
  - title: Outils
    url: /outils
- - title: Bibliotheque
-   url: /bibliotheque
  - title: Cours
    url: /cours
+ - title: Bibliotheque
+   url: /bibliotheque
+ - title: Newsletter
+   url: /lettre
 
 social:
    twitter: dawise_
