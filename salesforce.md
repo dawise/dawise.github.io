@@ -7,24 +7,21 @@ title: Salesforce
 	<h1 class="pageTitle">Salesforce</h1>
 
 	<h3> Salesforce ☁️ </h3>
-  <p> Introduction au concept de CRM, au logiciel <b>Salesforce</b> et à ses verticales <b>Sales Cloud</b> et <b>Service Cloud</b>.</p> 
+  <p> Introduction au concept de <b>CRM</b>, au logiciel <b>Salesforce</b> , à son utilisation et ses fonctionnalités. <b>M'écrire</b> : cours[at]davidwise[dot]fr </p>  
 
-  <p> 💻 Les supports :</p>
-  <ul>
-      <li><a href="https://pasteapp.com/p/2z1LoTAgUBo">Introduction au CRM et à Salesforce</a>.</li>
-      <li><a href="https://pasteapp.com/p/WUBSrLZCEro">Introduction à Sales Cloud</a>.</li>
-      <li><a href="https://pasteapp.com/p/jitUPJmBzr3">Introduction à Service Cloud</a>.</li>
-  </ul>
+  <p> 🏢 <b> 2018-2019 : 5eme année Master</b> <u> MID </u>, Ecole de Management Léonard de Vinci (EMLV) </p>
 
-  <p>📝Etapes à suivre : </p>
+  <p><b>Supports</b> de cours : 1. <a href="hhttp://bit.ly/DSTDW01">Introduction au CRM et à Salesforce</a> ; 2. <a href="http://bit.ly/DSTDW02">Découverte de Sales Cloud</a> ; 3. <a href="http://bit.ly/DSTDW03">Découverte de Service Cloud</a> ; 4. <a href="http://bit.ly/DSTDW04">Introduction à d'autres CRM</a>. 
+  </p>
+
+  <p>Avis <a href="https://davidwise.typeform.com/report/D2BBSm/x2CE8Iy02DLXagXg">des étudiants</a> sur les 18h de cours.</p> 
+
+
+  <p>🏢 <b> 2017-2018 : 5eme année Master</b> <u>Vente & Negociation </u>, Ecole de Management Léonard de Vinci (EMLV)</p>
+
+  <p><b>Supports</b> de cours : 1. <a href="https://pasteapp.com/p/2z1LoTAgUBo">Introduction au CRM et à Salesforce</a> ; 2. <a href="https://pasteapp.com/p/WUBSrLZCEro">Introduction à Sales Cloud</a> ;  3. <a href="https://pasteapp.com/p/jitUPJmBzr3">Introduction à Service Cloud.</a>
+  </p>
+
    
-   <ul>
-   <li>Créez un compte <a href="https://developer.salesforce.com/signup/">Salesforce Developer</a>.<br></li>
-   <li>Exercices en ligne à faire sur <a href="https://trailhead.salesforce.com/fr">Trailhead</a>.<br></li>
-   <li>Formulaire à remplir à la fin du cours : <a href="https://davidwise.typeform.com/to/oh71xZ">feedback + note</a></li>
-   </ul>
-
-   <p>🏢<b>Etablissement</b> : Ecole de Management Léonard de Vinci<br>
-    🔙<b>Retour des étudiants</b> : <a href="https://davidwise.typeform.com/report/oh71xZ/hugoCJzrSd9MedlS">Apprentis 5eme année,</a> filière "Vente & Negociation"(EMLV), <br>
-   ✉️ <b>M'écrire</b> : cours[at]davidwise[dot]fr</p> 
+  <p>Avis <a href="https://davidwise.typeform.com/report/oh71xZ/hugoCJzrSd9MedlS">des étudiants</a> sur les 14h de cours.</p> 
 
