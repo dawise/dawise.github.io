@@ -11,7 +11,7 @@ title: Salesforce
 
   <p> 🏢 <b> 2018-2019 : 5eme année Master</b> <u> MID </u>, Ecole de Management Léonard de Vinci (EMLV) </p>
 
-  <p><b>Supports</b> de cours : 1. <a href="hhttp://bit.ly/DSTDW01">Introduction au CRM et à Salesforce</a> ; 2. <a href="http://bit.ly/DSTDW02">Découverte de Sales Cloud</a> ; 3. <a href="http://bit.ly/DSTDW03">Découverte de Service Cloud</a> ; 4. <a href="http://bit.ly/DSTDW04">Introduction à d'autres CRM</a>. 
+  <p><b>Supports</b> de cours : 1. <a href="http://bit.ly/DSTDW01">Introduction au CRM et à Salesforce</a> ; 2. <a href="http://bit.ly/DSTDW02">Découverte de Sales Cloud</a> ; 3. <a href="http://bit.ly/DSTDW03">Découverte de Service Cloud</a> ; 4. <a href="http://bit.ly/DSTDW04">Introduction à d'autres CRM</a>. 
   </p>
 
   <p>Avis <a href="https://davidwise.typeform.com/report/D2BBSm/x2CE8Iy02DLXagXg">des étudiants</a> sur les 18h de cours.</p> 

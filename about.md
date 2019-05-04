@@ -12,7 +12,7 @@ title: About
   </ul>
 
   <h3>Hi, </h3>
-  <p> My Name is <b>David Wise</b> . I used to be an <a href="/startups">entrepreneur</a> and I now work as a <a href="https://www.dxc.technology/"> consultant </a>. Sometimes I also do some freelancing teaching.</p> 
+  <p> My Name is <b>David Wise</b> . I used to be an <a href="/startups">entrepreneur</a> and I now work as a <a href="https://www.dxc.technology/"> consultant </a>. Sometimes I also do some freelancing <a href="/cours">teaching</a>.</p> 
 
    <h3>Career</h3>
   <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship (aka <b>lean startup</b>) was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 

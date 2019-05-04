@@ -12,7 +12,7 @@ title: A propos
   </ul>
 
   <h3> Bonjour, </h3>
-  <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. Parfois, je donne des <a href="/cours">cours</a> en tant qu'enseignant vacataire.</p> 
+  <p> Je m'appelle <b>David Wise</b>, je suis un ancien <a href="/startups">entrepreneur</a> converti en <a href="https://www.dxc.technology/">consultant </a>. Parfois, je donne des <a href="/cours">cours</a> en tant qu'intervenant.</p> 
 
   <h3> Parcours</h3>
   <p> <b>En 2013</b>, en terminant mes études, j'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. L'entrepreneuriat moderne (aka <b>lean startup</b>) était alors à ses balbutiments. J'ai improvisé en m'inventant chef de projet, web-marketeur, ergonome, designer, développeur et même psychologue, pour rassurer mes proches dubitatifs.</p> 
