@@ -43,4 +43,4 @@ title: A propos
 
 <p>Enfin, si, pour une raison que j'ignore, vous souhaitez me faire plaisir en m'offrant un <b>cadeau</b>, voici <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a>.</p>
 
-<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci l'open source.</p>
+<p>Pour information ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>.</p>
