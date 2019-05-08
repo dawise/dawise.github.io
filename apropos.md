@@ -23,7 +23,7 @@ title: A propos
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p><b>En septembre 2016</b> je bascule et rejoins le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Mon travail consiste à accompagner des sociétés dans la mise en place de logiciels comme <a href="http://saleforce.com/">Salesforce</a>. J'interveniens principalment durant : la phase de <b>cadrage </b>, <b>l'intégration</b> de l'outil (AMOA/MOE), ou lors de la <b>conduite du changement</b>. 
+  <p><b>En septembre 2016</b> je bascule et rejoins le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC</a>. Mon travail consiste à accompagner des sociétés dans la mise en place de logiciels CRM comme <a href="http://saleforce.com/">Salesforce</a>. J'interveniens principalment durant : la phase de <b>cadrage </b>, <b>l'intégration</b> de l'outil (AMOA/MOE), ou lors de la <b>conduite du changement</b>. 
 
   <h3> Passions</h3>
 
