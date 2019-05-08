@@ -11,10 +11,10 @@ title: About
       <li>Most read article : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a>.</li>
   </ul>
 
-  <h3>Hi, </h3>
+  <h3>Hello, </h3>
   <p> My Name is <b>David Wise</b> . I used to be an <a href="/startups">entrepreneur</a> and I now work as a <a href="https://www.dxc.technology/"> consultant </a>. Sometimes I also do some freelancing <a href="/cours">teaching</a>.</p> 
 
-   <h3>Career</h3>
+   <h3>Work</h3>
   <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship (aka <b>lean startup</b>) was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
 
   <p> Because of a lack of <b>traction</b> the experience ends in <b>september 2015</b>. Then starts a very creative period : a brief step<a href="https://www.brief.me/"> in a new media</a>, entrepreneurship lectures in my old <a href="http://www.emlv.fr/"> business school</a>, building and designing <a href="/Portfolio">websites</a>, producing a <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> about entrepreneurship.</p> 
