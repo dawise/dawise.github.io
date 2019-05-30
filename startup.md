@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Startup
+title: David Wise - Startup
 ---
 
 <div class="post">
-	<h1 class="pageTitle">David Wise - Startup</h1>
+	<h1 class="pageTitle">Startup</h1>
 
 <h3> Entrepreneuriat️ 🚀</h3>
 

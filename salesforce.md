@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Salesforce
+title: David Wise Salesforce
 ---
 
 <div class="post">
-	<h1 class="pageTitle">David Wise - Salesforce</h1>
+	<h1 class="pageTitle">Salesforce</h1>
 
 	<h3> Salesforce ☁️ </h3>
   <p> Introduction au concept de <b>CRM</b>, au logiciel <b>Salesforce</b>, à son utilisation et ses fonctionnalités. <b>M'écrire</b> : cours[at]davidwise[dot]fr </p>  
