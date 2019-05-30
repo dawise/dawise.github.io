@@ -4,7 +4,7 @@ title: Startup
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Startup</h1>
+	<h1 class="pageTitle">David Wise - Startup</h1>
 
 <h3> Entrepreneuriat️ 🚀</h3>
 
@@ -15,12 +15,12 @@ title: Startup
 
 <p> 
 <ul>
-<li>Atelier 1 : <a href="https://youtu.be/97nmv6YpUP0">C'est quoi une startup ?</a></li> 
+<li>Atelier 1 : <a href="https://youtu.be/97nmv6YpUP0">C'est quoi une startup ?</a> + <a href="https://pasteapp.com/p/5Lg98xuMZ8D">Support</a> </li> 
 <li> Atelier 2 : <a href="https://youtu.be/pDnO2hpxT48">Trouver un problème</a> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pDnO2hpxT48" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </li> 
 <li>Atelier 3 : <a href="https://youtu.be/Ed7E0ujzNAc">Tester son idée</a></li> 
-<li> Atelier 4 : Construire une équipe et un produit </li> 
+<li> Atelier 4 : <a href="https://www.youtube.com/watch?v=aNcSp1D_J94">Construire une équipe et un produit</a> + <a href="https://pasteapp.com/p/W5i9SZLE88L">Support</a> </li> 
 <li> Atelier 5 : Le marketing pour les startups </li>
 <li> Atelier 6 : les 4 destins des startups </li>
 </ul>
