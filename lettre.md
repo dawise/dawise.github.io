@@ -20,7 +20,8 @@ title: La Lettre du Consultant
 	
 <h4> Editions de 2019 </h4>
 <ul>
-	<li>Juin 2019</li>
+	<li> <a href=""> Juillet 2019 </a> </li>
+	<li> <a href="https://preview.mailerlite.com/a3p0o1"> Juin 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/f2y3h0"> Mai 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/u4x6c2"> Avril 2019 </a></li>
 	<li> <a href="https://preview.mailerlite.com/i3b3r0"> Mars 2019 </a></li>
