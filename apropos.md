@@ -27,7 +27,7 @@ title: A propos
 
   <h3> Intérêts </h3>
 
-  <p> Je m'intéresse aux technologies, l'entrepreneuriat, l'innovation, le sport, la lecture, le cinéma, les séries, l'Histoire, l'actualité. Je possède le nom de domaine <a href="https://hamburger.nyc/">hamburger.nyc</a> depuis 2015. Un matin de Mai 2016, j'ai été le premier client du Franprix de la rue de Clery (Paris, 2eme Arr.). </p>
+  <p> Je m'intéresse aux technologies, l'entrepreneuriat, l'innovation, le sport, la lecture, le cinéma, les séries, l'Histoire, l'actualité.</p>
 
   <h3> Ailleurs</h3>
 
@@ -39,4 +39,4 @@ title: A propos
 
 <h3> Crédits</h3>
 
-  <p>Ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci à tous les contributeurs.</p>
+  <p>Ce site est développé en <a href="https://jekyllrb.com/">Jekyll</a>, hébergé par <a href="https://github.com/">Github</a>, avec un thème créé par <a href="http://brianmaierjr.com">Brian Maier</a>. Merci à tous.</p>
