@@ -14,12 +14,16 @@ title: La Lettre du Consultant
 </center>
 </p>
 
-<p> Remplissez le formulaire ci-dessus ou<a href="https://www.subscribepage.com/lettreduconsultant"> inscrivez-vous sur ce lien.</a> </p>
+<p> Remplissez le formulaire ci-dessus ou <a href="https://www.subscribepage.com/lettreduconsultant"> inscrivez-vous via cette page.</a> </p>
 
 <h3> Archives 📅 </h3> 
 	
 <h4> Editions de 2019 </h4>
 <ul>
+	<li> <a href=""> Décembre 2019 (à venir)</a> </li>
+	<li> <a href=""> Novembre 2019 (à venir)</a> </li>
+	<li> <a href="https://preview.mailerlite.com/q7e7z8"> Octobre 2019 </a> </li>
+	<li> <a href="https://preview.mailerlite.com/v9z3q8"> Septembre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/v9a2a3"> Août 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/t8w0e6"> Juillet 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/a3p0o1"> Juin 2019 </a> </li>

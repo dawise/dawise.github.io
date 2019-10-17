@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Bibliotéque 
+title: Ressources 
 ---
 
 <div class="post">
-	<h1 class="pageTitle">Bibliotéque : en construction</h1>
+	<h1 class="pageTitle">Ressources : en construction</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
