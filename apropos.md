@@ -15,7 +15,7 @@ title: A propos
   <p> Je m'appelle <b>David Wise</b>, je suis <a href="https://www.dxc.technology/">consultant </a> fonctionnel dans les technologies CRM et ponctuellement je donne des <a href="/cours">cours</a> sur le sujet. </p> 
 
   <h3> Travail</h3>
-  <p>J'ai commencé mon parcours professionnel en créant une startup. J'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la fin de mes études en 2013. L'entrepreneuriat moderne (<b>lean startup</b>) était alors à ses balbutiments. La litterature sur le sujet s'écrivait en temps réél sur le web, loin des bancs de l'école. J'applique ce que j'apprends en ligne et au gré des rencontres : développement web, growth hacking, UX/UI design, construire un prototype, tester son idée, le business model canvas, monter une équipe. En plus d'être passionant, il y a une certaine magie à observer en parallèle un écosytème parisien et francophone naissant. Deux années s'écoulent.</p> 
+  <p>J'ai commencé mon parcours professionnel en créant une startup. J'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la fin de mes études en 2013. L'entrepreneuriat moderne (<b>lean startup</b>) était alors à ses balbutiments. La litterature sur le sujet s'écrivait en temps réél sur le web, loin des bancs de l'école. J'applique ce que j'apprends en ligne et au gré des rencontres : développement web, growth hacking, UX/UI design, construire un prototype, tester son idée, le business model canvas, monter une équipe. En plus d'être passionant, il y a une certaine magie à observer en parallèle un écosytème parisien et francophone naissant.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
@@ -32,13 +32,13 @@ title: A propos
 
   <h3> Intérêts </h3>
 
-  <p> De part mon travail je m'intéresse à l'actualité des technologies. Je garde une forte passion pour l'entrepreneuriat, l'innovation et les startups. J'aime pratiquer du sport, lire, regarder des films et des séries, écouter des podcasts. Rien de très original.</p>
+  <p> De part mon travail je m'intéresse à l'actualité des technologies. Je garde une forte passion pour l'entrepreneuriat, l'innovation et les startups. J'aime pratiquer du sport, lire, regarder des films et des séries, écouter des podcasts.</p>
 
   <h3> Ailleurs</h3>
 
   <p>Vous pouvez me retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>. La meilleure façon d'avoir de mes nouvelles régulièrement est de vous abonner à ma courte newsletter mensuelle <a href="/lettre">La Lettre du Consultant.</a> </p> 
 
-  <p>Enfin si, pour une raison que j'ignore, vous souhaitez me faire plaisir, sachez que c'est une très bonne idée et que <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a> est publique ainsi que continuellement mise à jour. N'hésitez pas 🙂 </p>
+  <p>Enfin si, pour une raison que j'ignore, vous souhaitez me faire plaisir, sachez que c'est une très bonne idée et que <a href="https://kit.com/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a> est publique ainsi que continuellement mise à jour. </p>
 
 <h3> Crédits</h3>
 

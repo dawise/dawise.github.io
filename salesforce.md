@@ -14,10 +14,10 @@ title: David Wise Salesforce
   <p>📂 <b> 4eme et 5eme année Master</b> <u> Vente & Negociation </u>, Ecole de Management Léonard de Vinci (EMLV) </p>
   
   <ul> 📚 <b>Cours</b>
-  <li> 1. <a href="http://bit.ly/IntroCRMSFDC1">Introduction au CRM et à Salesforce</a></li> 
-  <li> 2. <a href="http://bit.ly/IntroCRMSFDC2">Découverte de Sales Cloud</a></li> 
-  <li> 3. <a href="http://bit.ly/IntroCRMSFDC3">Découverte de Service Cloud</a> </li> 
-  <li> 4. <a href="http://bit.ly/IntroCRMSFDCBonus">Introduction à d'autres CRM</a>.</li> 
+  <li> 1. <a href="http://bit.ly/Intro1CRM20192020">Introduction au CRM et à Salesforce</a></li> 
+  <li> 2. <a href="http://bit.ly/Intro2CRM20192020">Découverte de Sales Cloud</a></li> 
+  <li> 3. <a href="http://bit.ly/Intro3CRM20192020">Découverte de Service Cloud</a> </li> 
+  <li> 4. <a href="http://bit.ly/BonusCRM20192020">Introduction à d'autres CRM</a>.</li> 
   </ul> 
 
   <p> ✏️ Avis <a href="">des étudiants de 4eme année</a> et <a href="">des étudiants de 5eme année</a> sur les 14h de cours respectifs.</p> 
