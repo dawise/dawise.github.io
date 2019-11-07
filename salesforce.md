@@ -1,6 +1,6 @@
 ---
 layout: default
-title: David Wise Salesforce
+title: David Wise - Salesforce
 ---
 
 <div class="post">

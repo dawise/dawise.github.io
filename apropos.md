@@ -1,29 +1,38 @@
 ---
 layout: default
-title: A propos
+title: David Wise - A propos
 ---
 
 <div class="post">
-	<h1 class="pageTitle">A propos</h1>
+	<h1 class="pageTitle"> A propos</h1>
 
 <ul>
       <li> Page la plus consultée : <a href="/outils">Découvrir +100 outils web</a></li>
       <li> Article le plus lu : <a href="https://medium.com/@dawise_/my-10-favorite-quotes-yet-3f8a4122336b"> Startup : 10 choses à savoir avant de se lancer.</a></li>
   </ul>
 
+
+   <p>  <style>
+    img {
+  border-radius: 50%;
+}
+</style> 
+    <img src="/assets/pages_images/DavidWise_France.jpg" alt="David Wise" height="210" width="210" align="right">
+   </p>
+
   <h3> Bonjour, </h3>
   <p> Je m'appelle <b>David Wise</b>, je suis <a href="https://www.dxc.technology/">consultant </a> fonctionnel dans les technologies CRM et ponctuellement je donne des <a href="/cours">cours</a> sur le sujet. </p> 
 
   <h3> Travail</h3>
-  <p>J'ai commencé mon parcours professionnel en créant une startup. J'ai co-fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la fin de mes études en 2013. L'entrepreneuriat moderne (<b>lean startup</b>) était alors à ses balbutiments. La litterature sur le sujet s'écrivait en temps réél sur le web, loin des bancs de l'école. J'applique ce que j'apprends en ligne et au gré des rencontres : développement web, growth hacking, UX/UI design, construire un prototype, tester son idée, le business model canvas, monter une équipe. En plus d'être passionant, il y a une certaine magie à observer en parallèle un écosytème parisien et francophone naissant.</p> 
+  <p>Mon parcours professionnel démarre par la co-création de <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> à la fin de mes études en 2013. L'entrepreneuriat moderne (<b>"lean startup"</b>) est alors à ses balbutiments. La litterature sur le sujet s'écrit en temps réel. Au gré des lectures et des rencontres, j'apprivoise de nouveaux domaines : le développement web, le growth hacking, l'UX/UI design, le prototypage, le business model canvas, la construction d'une équipe.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-  <p>En 2015, faute d'un <b>modèle économique</b> viable, je dois me résigner à arrêter l'expérience. Démarre alors une phase de transiton très diversifiée : passage au marketing dans un <a href="https://www.brief.me/"> média naissant</a>, enseignement dans une <a href="http://www.emlv.fr/"> école de commerce</a>, création de différents <a href="/Portfolio">sites web</a> en freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC vidéo</a> sur l'entrepreneuriat disponible sur Udemy.</p>
+  <p>En 2015, faute d'un <b>modèle économique</b> viable, nous devons arrêter l'expérience. Démarre alors pour ma part une phase de transiton très diversifiée : passage au marketing d'un <a href="https://www.brief.me/"> média naissant</a>, la création de différents <a href="/Portfolio">sites web</a> en tant que freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC vidéo de 3h sur l'entrepreneuriat</a> (disponible sur Udemy).</p>
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p><b>En 2016</b> je rejoins définitivement le monde du salariat en intégrant le cabinet de conseil informatique <a href="https://www.dxc.technology/">DXC Technology</a>. J'aide des sociétés à mettre en place des logiciels CRM (Salesforce, Zuora, Pega). J'interviens principalement à 3 niveaux : 
+  <p><b>En 2016</b> je rejoins le monde du salariat en intégrant le cabinet de conseil et d'intégration <a href="https://www.dxc.technology/">DXC Technology</a>. En tant que consultant fonctionnel, j'aide des sociétés à implémenter des logiciels CRM (Salesforce, Zuora, Pega). J'interviens principalement à 3 niveaux : 
   <ul>
   <li>Dès la phase de <b>cadrage </b> pour qualifier le besoin de l'entreprise.</li>
   <li><b>L'implémentation</b> de l'outil. Par de la gestion de projet (AMOA) ou de l'intégration (MOE) pure.</li>
@@ -32,7 +41,7 @@ title: A propos
 
   <h3> Intérêts </h3>
 
-  <p> De part mon travail je m'intéresse à l'actualité des technologies. Je garde une forte passion pour l'entrepreneuriat, l'innovation et les startups. J'aime pratiquer du sport, lire, regarder des films et des séries, écouter des podcasts.</p>
+  <p> Je m'intéresse de près à l'actualité des technologies, de l'innovation et des startups. J'aime pratiquer du sport, lire, regarder des films, séries, écouter des podcasts et prendres de notes sur mon téléphone.</p>
 
   <h3> Ailleurs</h3>
 
