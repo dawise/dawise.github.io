@@ -20,7 +20,7 @@ title: David Wise - Salesforce
   <li> 4. <a href="http://bit.ly/BonusCRM20192020">Introduction à d'autres CRM</a>.</li> 
   </ul> 
 
-  <p> ✏️ Avis <a href="">des étudiants de 4eme année</a> et <a href="">des étudiants de 5eme année</a> sur les 14h de cours respectifs.</p> 
+  <p> ✏️ Avis <a href="https://davidwise.typeform.com/report/HmVEbo/MN6Mw9f7jo2OAMh8">des étudiants de 4eme année</a> et <a href="">des étudiants de 5eme année</a> sur les 14h de cours respectifs.</p> 
 
   <h4> 📅 2018-2019</h4>
 
