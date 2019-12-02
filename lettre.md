@@ -21,7 +21,7 @@ title: La Lettre du Consultant
 <h4> Editions de 2019 </h4>
 <ul>
 	<li> <a href=""> Décembre 2019 (à venir)</a> </li>
-	<li> <a href="https://preview.mailerlite.com/c9q1z3"</a> </li>
+	<li> <a href="https://preview.mailerlite.com/c9q1z3"> Novembre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/q7e7z8"> Octobre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/v9z3q8"> Septembre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/v9a2a3"> Août 2019 </a> </li>
