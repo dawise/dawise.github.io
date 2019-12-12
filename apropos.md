@@ -28,7 +28,7 @@ title: David Wise - A propos
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-  <p>En 2015, faute de modèle économique viable l'expérience s'arrête. Démarre alors pour ma part une phase de transiton très diversifiée : passage au marketing d'un <a href="https://www.brief.me/"> média naissant</a>, la création de différents <a href="/Portfolio">sites web</a> en tant que freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC de 3 heures sur l'entrepreneuriat</a> (disponible gratuitement sur Udemy).</p>
+  <p>En 2015, l'expérience s'arrête faute de modèle économique viable. Démarre alors pour ma part une phase de transiton très diversifiée : passage au marketing d'un <a href="https://www.brief.me/"> média naissant</a>, la création de différents <a href="/Portfolio">sites web</a> en tant que freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC de 3 heures sur l'entrepreneuriat</a> (disponible gratuitement sur Udemy).</p>
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
@@ -47,7 +47,7 @@ title: David Wise - A propos
 
   <p>Vous pouvez me retrouver sur <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> et <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>. La meilleure façon d'avoir de mes nouvelles régulièrement est de vous abonner à ma courte newsletter mensuelle <a href="/lettre">La Lettre du Consultant.</a> </p> 
 
-  <p>Enfin si, pour une raison que j'ignore, vous souhaitez me faire plaisir, sachez que c'est une très bonne idée et que <a href="https://kit.co/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a> est publique ainsi que continuellement mise à jour. </p>
+  <p>Enfin si, pour une raison que j'ignore, vous souhaitez me faire plaisir, sachez d'abord que c'est une très bonne idée, et que, <a href="https://kit.co/dawise/la-liste-des-mes-envies"> la liste à jour de mes envies</a> est publique et continuellement mise à jour. </p>
 
 <h3> Crédits</h3>
 
