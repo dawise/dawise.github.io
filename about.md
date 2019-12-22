@@ -7,15 +7,26 @@ title: About
   <h1 class="pageTitle">About</h1>
 
 <ul>
-      <li>Most visited page : <a href="/Outils">+100 online tools to develop your projects </a> (FR)</li>
+      <li>Most visited page : <a href="/Outils">+100 online tools to develop your projects </a>
+    </li>
       <li>Most read article : <a href="http://www.davidwise.fr/insights-how-to-start-a-startup-yc-stanford-season-1/">Startup : Insights from the 20 Stanford-YCombianator classes</a>.</li>
   </ul>
 
+
+<p>  <style>
+    img {
+  border-radius: 50%;
+}
+</style> 
+    <img src="/assets/pages_images/DavidWise_France.jpg" alt="David Wise" height="210" width="210" align="right">
+   </p>
+
+
   <h3>Hello, </h3>
-  <p> My Name is <b>David Wise</b>. I used to be an <a href="/startup">entrepreneur</a> and I now work as a  Business Analyst <a href="https://www.dxc.technology/"> in a consulting company</a> in Paris. Sometimes I <a href="/cours">teach</a>.</p> 
+  <p> My Name is <b>David Wise</b> and I live in Paris, France. I work as a  Business Analyst in a consulting<a href="https://www.dxc.technology/"> company</a> in Paris and sometimes I <a href="/cours">teach</a>.</p> 
 
    <h3>Work</h3>
-  <p> <b>In 2013</b> I founded <a href="https://vimeo.com/89918281">Newsly</a> after having studied 5 years in a business school. Modern entrepreneurship (aka <b>lean startup</b>) was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
+  <p>After graduating from my business school in 2013, I founded a startup : <a href="https://vimeo.com/89918281">Newsly</a>. Modern entrepreneurship (aka <b>lean startup</b>) was just starting. I learned many things : recruiting, managing a team, building a web product, marketing and user acquisition.</p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 

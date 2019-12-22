@@ -21,18 +21,20 @@ title: David Wise - A propos
    </p>
 
   <h3> Bonjour, </h3>
-  <p> Je m'appelle <b>David Wise</b>, je suis <a href="https://www.dxc.technology/">consultant </a> fonctionnel dans les technologies CRM et ponctuellement je donne des <a href="/cours">cours</a> sur le sujet. </p> 
+  <p> Je m'appelle <b>David Wise</b> et je vis à Paris. Je suis consultant fonctionnel CRM dans une <a href="https://www.dxc.technology/"> société de conseil </a> et parfois je donne des <a href="/cours">cours</a>. </p> 
 
   <h3> Travail</h3>
-  <p> J'ai fondé <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a> en 2013 à la sortie de mon parcours universitaire. L'entrepreneuriat moderne (lean startup) était alors à ses balbutiements. Au cours des 2 années qui ont suivi j'ai pu expérimenter et finir par transmettre ce que j'ai appris, notamment aux étudiants du <a href="https://www.davidwise.fr/startup/">Pôle Léonard de Vinci</a>. Je suis passé par différentes phases : la création de produit, le marketing pour startup (growth hacking) et le développement d'une équipe (5 personnes). </p> 
+  <p> J'ai démarré mon expérience profesionnelle en 2013 par la création d'une startup : <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. Dans une équipe de 5, jétais en charge du marketing et du produit. L’entrepreneuriat moderne (lean startup) était alors à ses balbutiements. Pour autant, l'écosystème francophone, et parisien, se construisait en temps réel, fortement inspiré de la littérature américaine : blogs, forums, articles, bouquins… </p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-  <p>En 2015, l'expérience s'arrête faute de modèle économique viable. Démarre alors pour ma part une phase de transiton très diversifiée : passage au marketing d'un <a href="https://www.brief.me/"> média naissant</a>, la création de différents <a href="/Portfolio">sites web</a> en tant que freelance, la réalisation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC de 3 heures sur l'entrepreneuriat</a> (disponible gratuitement sur Udemy).</p>
+  <p> Malheureusement le projet s'arrête en 2015, faute de traction et d'un modèle économique viable. Fort de cette expérience, je commence à imaginer, et structurer, les connaissances, repères, méthodologies et outils j'aurai aimé connaître au démarrage de mon projet. Cela m'amène faire une conférence sur le sujet à NUMA, à donner des cours sur le sujet et jusqu'à construire un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a>.</p> 
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p><b>En 2016</b> je rejoins le monde du salariat en intégrant le cabinet de conseil <a href="https://www.dxc.technology/">DXC Technology</a>. En tant que consultant fonctionnel, j'aide des sociétés à implémenter des logiciels CRM (Salesforce, Zuora, Pega). J'interviens principalement à 3 niveaux : 
+  <p> En parallèle, grâce à une formation faite chez <a href="https://www.lewagon.com/"> Le Wagon</a>, je développe des sites web (CMS) en tant que freelance.<p/> 
+
+  <p> <b>Depuis 2016</b> je travaille chez <a href="https://www.dxc.technology/">DXC Technology</a>. en tant que consultant. Pour faire simple : J'aide des sociétés à implémenter des logiciels CRM. J'interviens principalement à 3 niveaux : 
   <ul>
   <li>Dès la phase de <b>cadrage </b> pour qualifier le besoin de l'entreprise.</li>
   <li><b>L'implémentation</b> de l'outil. Par de la gestion de projet (AMOA) ou de l'intégration (MOE) pure.</li>

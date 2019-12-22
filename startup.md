@@ -38,7 +38,7 @@ title: David Wise - Startup
 
 <h4> 📅 2016 - 2017 </h4>
 
-<p> 📂 <b> MOOC </b> sur les plateformes <a href="https://fr.360learning.com/">360Learning</a> (producteur) et <a href="https://www.udemy.com/startuptour/">Udemy</a>. Co-écrit avec <a href="http://adrienjoly.com/">Adrien Joly</a> et monté par <a href="https://www.linkedin.com/in/guilleblanco/">Guillermo Blanco</a>.</p> 
+<p> 📂 <b> MOOC </b> sur les plateformes <a href="https://fr.360learning.com/">360Learning</a> (production) et <a href="https://www.udemy.com/startuptour/">Udemy</a>. Co-écrit avec <a href="http://adrienjoly.com/">Adrien Joly</a> et monté par <a href="https://www.linkedin.com/in/guilleblanco/">Guillermo Blanco</a>.</p> 
 
 <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
