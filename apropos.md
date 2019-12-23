@@ -24,21 +24,23 @@ title: David Wise - A propos
   <p> Je m'appelle <b>David Wise</b> et je vis à Paris. Je suis consultant fonctionnel CRM dans une <a href="https://www.dxc.technology/"> société de conseil </a> et parfois je donne des <a href="/cours">cours</a>. </p> 
 
   <h3> Travail</h3>
-  <p> J'ai démarré mon expérience profesionnelle en 2013 par la création d'une startup : <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. Dans une équipe de 5, jétais en charge du marketing et du produit. L’entrepreneuriat moderne (lean startup) était alors à ses balbutiements. Pour autant, l'écosystème francophone, et parisien, se construisait en temps réel, fortement inspiré de la littérature américaine : blogs, forums, articles, bouquins… </p> 
+  <p> J'ai démarré mon expérience profesionnelle en 2013 par la création d'une startup : <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. Dans une équipe de 5, jétais en charge du marketing et du produit. L’entrepreneuriat moderne (lean startup) était alors à ses balbutiements. Pour autant, l'écosystème francophone, et parisien, se construisait en temps réel, inspiré de la littérature américaine (blogs, forums, articles, bouquins…) </p> 
 
   <p><iframe src="https://player.vimeo.com/video/89918281" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
 
-  <p> Malheureusement le projet s'arrête en 2015, faute de traction et d'un modèle économique viable. Fort de cette expérience, je commence à imaginer, et structurer, les connaissances, repères, méthodologies et outils j'aurai aimé connaître au démarrage de mon projet. Cela m'amène faire une conférence sur le sujet à NUMA, à donner des cours sur le sujet et jusqu'à construire un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a>.</p> 
+  <p> Malheureusement le projet s'arrête en 2015, faute de traction et d'un modèle économique viable. Fort de cette expérience, je commence à imaginer, et structurer, les connaissances, repères, méthodologies et outils j'aurai aimé connaître au démarrage de mon projet. Cela m'amène faire une conférence sur le sujet à <a href="https://www.numa.co/fr">NUMA</a>, à donner des <a href="/startup">cours</a> dans mon ancienne école de commerce. L'aboutissement en est la co-écriture et l'animation d'un <a href="https://www.udemy.com/startuptour/?couponCode=DAVIDWISE.FR">MOOC</a> avec Adrien Joly, diffusé sur Udemy.</p> 
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p> En parallèle, grâce à une formation faite chez <a href="https://www.lewagon.com/"> Le Wagon</a>, je développe des sites web (CMS) en tant que freelance.<p/> 
+  <p> En parallèle, grâce aux fondametaux appris lors d'une formation suivie début 2014 chez <a href="https://www.lewagon.com/"> Le Wagon</a> (batch 002), je développe des sites web en tant que freelance. Principalement des CMS (Wordpress, Squarespace) pour des petites structures : associations, particuliers et TPE/PME.</p> 
 
-  <p> <b>Depuis 2016</b> je travaille chez <a href="https://www.dxc.technology/">DXC Technology</a>. en tant que consultant. Pour faire simple : J'aide des sociétés à implémenter des logiciels CRM. J'interviens principalement à 3 niveaux : 
+  <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Du0eKxOrLsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p/> 
+
+  <p> <b>En 2016</b> je rejoins le monde du salariat en intégrant <a href="https://www.dxc.technology/">DXC Technology</a> en tant que consultant fonctionnel CRM. J'accompagne  des sociétés (Generali, Total, Engie, RCI Banque...) à choisir et implémenter des logiciels comme Salesforce. J'interviens à 3 niveaux : 
   <ul>
-  <li>Dès la phase de <b>cadrage </b> pour qualifier le besoin de l'entreprise.</li>
-  <li><b>L'implémentation</b> de l'outil. Par de la gestion de projet (AMOA) ou de l'intégration (MOE) pure.</li>
-  <li>Jusqu'à la <b>conduite du changement</b> en formant les utilisateurs finaux à la prise en main des outils installés.</li>
+  <li>Lors du <b>cadrage </b>: pour qualifier le besoin de l'entreprise.</li>
+  <li>La <b> gestion de projet</b> (AMOA) ou de <b>l'intégration</b> (MOE) du logiciel.</li>
+  <li>La <b>conduite du changement</b> : en formant les utilisateurs finaux.</li>
   </ul>
 
   <h3> Intérêts </h3>
