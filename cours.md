@@ -6,7 +6,7 @@ title: David Wise - Cours
 <div class="post">
 	<h1 class="pageTitle">Cours</h1>
 
-<p>Ponctuellement j'interviens auprès <b>d'étudiants</b> sur les thématiques auxquelles j'ai été confronté au cours de mon <b>expérience profesionnelle</b> : les CRM et l'entrepreneuriat. Vous trouverez ci-dessous les <b>contenus, supports</b> et <b>avis</b> des étudiants. <p>
+<p>Il m'arrive d'intervenir dans divers contextes sur les thématiques auxquelles j'ai été confronté <b>profesionnellement</b>. Vous trouverez ci-dessous les <b>supports de cours</b> et <b>l'avis</b> des étudiants (lorsqu'ils sont disponibles). <p>
 
 <h3> CRM & Salesforce ☁️ </h3>
   <p> Introduction au concept de <b>CRM</b>, au logiciel <b>Salesforce</b> , son utilisation et ses <b>fonctionnalités clés</b>. ➡️ <a href="/salesforce">Accédez au cours</a></p> 
