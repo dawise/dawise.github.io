@@ -18,7 +18,7 @@ Que vous soyez étudiant, entrepreuneur, freelance, [salarié polyvalent](https:
 
 La grande majorité de ces outils sont gratuits. Ceux qui ne le sont pas ont, en général, un modèle <a href="https://fr.wikipedia.org/wiki/Freemium">freemium</a>. **Les outils** ayant une étoile 🌟 sont ceux que **j'utilise** régulièrement.
 
-*NB : la liste est mise à jour régulièrement.*
+*NB : la liste est régulièrement mise à jour.*
 
 
 ## 1.Entreprendre

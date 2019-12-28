@@ -6,7 +6,7 @@ title: La Lettre du Consultant
 <div class="post">
   <h1 class="pageTitle">La Lettre du Consultant</h1>
 
-<p>Chaque premier jour du mois, je vous envoie <b> un court email </b> où je vous propose de découvrir un outil pratique pour améliorer votre <b> quotidien connecté </b> et je vous partage quelques <b>liens</b> (articles, vidéo, interviews...) pour en prendre du <b>recul.</b></p> 
+<p>Chaque mois je vous envoie <b> un email </b> où je vous propose de découvrir un outil pratique pour améliorer votre <b> quotidien connecté </b> et je vous partage quelques <b>liens</b> (articles, vidéo, interviews...) pour en prendre du <b>recul.</b></p> 
 
 <h3> Inscription👇</h3> 
 <p> <center>
