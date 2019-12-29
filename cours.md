@@ -6,7 +6,7 @@ title: David Wise - Cours
 <div class="post">
 	<h1 class="pageTitle">Cours</h1>
 
-<p>Par mes <b>expériences professionnelles</b> j'interviens principalement sur deux thématiques. Accédez à tous mes <b>supports de cours</b> ci-dessous.<p>
+<p>Par mes <b>expériences professionnelles</b> j'interviens principalement sur deux thématiques. Accédez ci-dessous à tous mes <b>supports de cours</b>.<p>
 
 <h3> CRM & Salesforce ☁️ </h3>
   <p> Introduction au concept de <b>CRM</b>, au logiciel <b>Salesforce</b> , son utilisation et ses <b>fonctionnalités clés</b>. ➡️ <a href="/salesforce">Accédez au cours</a></p> 

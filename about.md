@@ -48,6 +48,6 @@ title: David Wise - About
   
  <p>You can fin me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> and <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>. The best way to have updates from me is to signup to my newsletter : <a href="/lettre">La Lettre du Consultant.</a> </p> 
 
-<p>Finally, if for some reason, you wish to please me, I want you to know, before you keep on, that this is a great idea. But mostly, good news for you and for me : <a href="https://kit.co/dawise/la-liste-des-mes-envies"> my public wishlist is available and continuously updated</a>.</p>
+<p>Finally, if for some reason you wish to please me, I want you to know, before you keep on, that this is a great idea. But mostly, good news for you and for me : <a href="https://kit.co/dawise/la-liste-des-mes-envies"> my public wishlist is available and continuously updated</a>.</p>
 
 <p> This website is powered by <a href="https://jekyllrb.com/">Jekyll</a>, hosted on <a href="https://github.com/">Github</a>, with a theme by <a href="http://brianmaierjr.com">Brian Maier</a>. Stool (to see who's reading so far).</p>
