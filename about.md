@@ -27,14 +27,14 @@ title: David Wise - About
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Du0eKxOrLsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p/> 
 
-  <p> <b>In 2016</b> I also integrate <a href="https://www.dxc.technology/">DXC Technology</a> as a <i><b>CRM</b> Business Analyst</i>. in concrete terms it means that I help companies (Generali, Total, Engie, RCI Banque...) to choose and implement software like <b>Salesforce</b>. I intervene at three levels : 
+  <p> <b>In 2016</b> I integrate <a href="https://www.dxc.technology/">DXC Technology</a> as a <i><b>CRM</b> Business Analyst</i>. In concrete terms it means that I help companies (Generali, Total, Engie, RCI Banque...) to choose and implement software like <b>Salesforce</b>. I intervene at three levels : 
   <ul>
   <li>On <b>scoping </b> to qualify and define the company needs.</li>
   <li>On <b> project management </b> and software <b>integration</b>.</li>
   <li>On <b>change management</b> to reassure and train end-users.</li>
   </ul>
 
-  <p>Crosswise I learn to use design thinking to define the <b>issues</b>, influence the <b>strategy</b> and agile methodology (SCRUM) to deliver <b>solutions</b>.</p>
+  <p>Crosswise I learn to use design thinking to define <b> business issues</b>, influence the <b>strategy</b> and agile methodology (SCRUM) to deliver <b>software</b>.</p>
 
   <h3>Interests</h3>
 
@@ -42,7 +42,7 @@ title: David Wise - About
 
   <p><b>Politics</b>, <b>education</b> and <b>medias</b> have a prominent place. Particularly for their capacity, or too often their powerlessness, to bring <b>society issues</b> (environment, citizenship, arts, work) in the <b>public debate</b>. However, one subject, more than the others, dominates my concerns: <b>our relationship to technologies</b>. With, in mind, a quote that resonate as an omen : <i>"We shape our tools and thereafter our tools shape us".</i> - John Culkin (1967)</p>
 
-  <p> In my <b>free time</b>, without depriving myself of other curiosities, I deepen the above mentioned subjects. Reading is my privileged access to them. <b>Writing </b> is my sharpest restitution tool. Without being a cinephile, <b>movies</b> and <b>TV shows</b> are entertainment that I like to immerse myself in. <b> Theater</b> and <b> standup</b> comedy, joys that are as inconstant as they are important. Listening to <b>podcasts</b>, the light of my transportations. <b>Walking</b> in Paris, a regular privilege whose <b>company</b> lightens the pace. As do for <b>traveling</b>, <b>cooking</b>, <b>music</b>, and <b>sports</b>. Still, <b>silence</b> is a refuge to which I retreat without efforts.</p>
+  <p> In my <b>free time</b>, without depriving myself to other curiosities, I deepen the above mentioned subjects. Reading is my privileged access to them. <b>Writing </b> is my sharpest restitution tool. Without being a cinephile, <b>movies</b> and <b>TV shows</b> are entertainment that I like to immerse myself in. <b> Theater</b> and <b> standup</b> comedy, joys that are as inconstant as they are important. Listening to <b>podcasts</b>, the light of my transportations. <b>Walking</b> in Paris, a regular privilege whose <b>company</b> lightens the pace. As do for <b>traveling</b>, <b>cooking</b>, <b>music</b>, and <b>sports</b>. Still, <b>silence</b> is a shelter to which I retreat without efforts.</p>
  
   <h3> Elsewhere on the web</h3>
   
