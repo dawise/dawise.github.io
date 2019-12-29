@@ -35,7 +35,7 @@ title: David Wise - A propos
   <li>Dans la <b>conduite du changement</b> en formant les utilisateurs finaux.</li>
   </ul>
 
-  <p>En parallèle, j'apprends à utiliser le design thinking pour définir les <b>enjeux</b> et la méthodologie agile (SCRUM) pour développer les <b>logiciels</b>.</p>
+  <p>En parallèle, j'apprends à utiliser le design thinking pour définir les <b>enjeux business</b> et la méthodologie agile (SCRUM) pour développer les <b>solutions logicielles</b>.</p>
 
   <h3> Intérêts </h3>
 
