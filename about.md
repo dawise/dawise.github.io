@@ -23,7 +23,7 @@ title: David Wise - About
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p> Meanwhile, I acquired <b>programming</b> skills learned in early <b>2014</b> through a coding bootcamp called <a href="https://www.lewagon.com/"> Le Wagon</a> (batch 002). It enabled me to create and develop websites as a <b>freelance</b>. Mostly <b>CMS</b> and <b>e-commerce</b> websites (such as Wordpress or Squarespace) for individuals, associations et small businesses. </p>
+  <p> Meanwhile, I acquired <b>programming</b> skills in early <b>2014</b> through a coding bootcamp called <a href="https://www.lewagon.com/"> Le Wagon</a> (batch 002). It enabled me to create and develop websites as a <b>freelance</b>. Mostly <b>CMS</b> and <b>e-commerce</b> websites (such as Wordpress or Squarespace) for individuals, associations et small businesses. </p>
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Du0eKxOrLsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p/> 
 
