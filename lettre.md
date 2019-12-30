@@ -6,7 +6,7 @@ title: La Lettre du Consultant
 <div class="post">
   <h1 class="pageTitle">La Lettre du Consultant</h1>
 
-<p>Chaque mois je vous envoie <b> un email </b> où je vous propose de découvrir un outil pratique pour améliorer votre <b> quotidien connecté </b> et je vous partage quelques <b>liens</b> (articles, vidéo, interviews...) pour en prendre du <b>recul.</b></p> 
+<p>Chaque mois j'envoie <b> un email </b> où je met en avant un outil pratique pour améliorer nos <b> quotidiens connectés </b> et partage quelques <b>liens</b> (articles, vidéo, interviews...) pour en prendre du <b>recul.</b></p> 
 
 <h3> Inscription👇</h3> 
 <p> <center>
@@ -20,7 +20,7 @@ title: La Lettre du Consultant
 	
 <h4> Editions de 2019 </h4>
 <ul>
-	<li> <a href=""> Décembre 2019 (à venir)</a> </li>
+	<li> <a href="https://preview.mailerlite.com/u1n7u7"> Décembre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/c9q1z3"> Novembre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/q7e7z8"> Octobre 2019 </a> </li>
 	<li> <a href="https://preview.mailerlite.com/v9z3q8"> Septembre 2019 </a> </li>
