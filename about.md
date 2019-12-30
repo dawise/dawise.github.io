@@ -12,7 +12,7 @@ title: David Wise - About
 </ul>
 
   <h3>Hello, </h3>
-  <p> My Name is <b>David Wise</b>. I live in <b>Paris</b>. I work as a  Business Analyst in a consulting company (<a href="https://www.dxc.technology/">DXC Technology)</a> and as a part-time <a href="/cours">teacher</a>.</p> 
+  <p> My Name is <b>David Wise</b> and I live in <b>Paris</b>. I work as a  Business Analyst in a consulting company (<a href="https://www.dxc.technology/">DXC Technology)</a> and as a part-time <a href="/cours">teacher</a>.</p> 
 
    <h3>Work</h3>
   <p> I started my business experience in <b>2013</b> by creating a startup : <a href="https://fr.petitsfrenchies.com/newsly-application-web-favoris-interview/">Newsly</a>. Our ambition was to allow anyone to <b>keep, organize and share</b> their best picks online. Imagine a bookmarking tool (Instapaper, Pocket...) merged with a social network designed for content (Pinterest, Twitter). However, because of a lack of traction, and the absence of a <b>sustainable business model</b>, the project ended in <b>2015</b>. As the CEO within a team of 5 people, I was in charge of <b>marketing</b> and <b>product development</b>.</p> 
@@ -23,24 +23,24 @@ title: David Wise - About
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/WAj70jDQZF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 
-  <p> Meanwhile, I acquired <b>programming</b> skills in early <b>2014</b> through a coding bootcamp called <a href="https://www.lewagon.com/"> Le Wagon</a> (batch 002). It enabled me to create and develop websites as a <b>freelance</b>. Mostly <b>CMS</b> and <b>e-commerce</b> websites (such as Wordpress or Squarespace) for individuals, associations et small businesses. </p>
+  <p> Meanwhile, I acquired some <b>programming</b> skills in the early <b>2014</b> through a coding bootcamp called <a href="https://www.lewagon.com/"> Le Wagon</a> (batch 002). It enabled me to create and develop websites as a <b>freelance</b>, mostly <b>CMS</b> and <b>e-commerce</b> websites (such as Wordpress or Squarespace) for individuals, associations et small businesses. </p>
 
   <p><iframe width="560" height="315" src="https://www.youtube.com/embed/Du0eKxOrLsQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <p/> 
 
-  <p> <b>In 2016</b> I joined <a href="https://www.dxc.technology/">DXC Technology</a> as a <i><b>CRM</b> Business Analyst</i>. Concretely it means that I help companies (Generali, Total, Engie, RCI Banque...) to choose and implement software like <b>Salesforce</b>. I operate on three levels : 
+  <p> <b>In 2016</b> I joined <a href="https://www.dxc.technology/">DXC Technology</a> as a <i><b>CRM</b> Business Analyst</i>. Concretely it means that I help companies (Generali, Total, Engie, RCI Banque...) to choose and implement softwares like <b>Salesforce</b>. I operate on three levels : 
   <ul>
   <li>On <b>scoping </b> to qualify and define the company needs.</li>
   <li>On <b> project management </b> and software <b>integration</b>.</li>
   <li>On <b>change management</b> to train end-users.</li>
   </ul>
 
-  <p>In the meantime  I learn to use design thinking to define <b> business issues</b>, influence the <b>strategy</b> and agile methodology (SCRUM) to deliver <b>software</b>.</p>
+  <p>In the meantime  I learn to use design thinking to define <b> business issues</b> and agile methodology (SCRUM) to deliver <b>software</b>.</p>
 
   <h3>Interests</h3>
 
   <p>As my background suggested it, I have developed a strong interest for <b> new technologies, innovation and entrepreneurship</b>. However, these are not the only topics that have my full attention. </p> 
 
-  <p>I also focus my attention on <b>politics, education</b> and <b>medias</b> which are topics that spark my interests. Espacially for their capacity, or most of the time, their powerlessness, to bring <b>society issues</b> (environment, citizenship, arts, work...) in the <b>public debate</b>. However, one subject, is predominant within my circle of concern: <b>our relationship to technology</b>. With, in mind, a quote that resonate as an omen : <i>"We shape our tools and thereafter our tools shape us".</i> - John Culkin (1967)</p>
+  <p>I also focus on <b>politics, education</b> and <b>medias</b> which are topics that spark my interests. Espacially for their capacity, or most of the time, their powerlessness, to bring <b>society issues</b> (environment, citizenship, arts, work...) in the <b>public debate</b>. However, one subject, is predominant within my circle of concern: <b>our relationship to technology</b>. With, in mind, a quote that resonate as an omen : <i>"We shape our tools and thereafter our tools shape us".</i> - John Culkin (1967)</p>
 
   <p>During my <b>free time</b>, without preventing myself of being curious on other topics, I explore the subjects mentionned above. I believe <b>reading</b> is the best way to access to them. <b>Writing </b> is my sharpest restitution tool. Without being a cinephile, <b>movies</b> and <b>TV shows</b> are great entertainment that I enjoy deeping in. <b> Theater</b> and <b> standup comedy</b> are joys that are as inconstant as they are important. Listening to <b>podcasts</b>, is the light of my everyday commute to work. <b>Walking</b> in Paris, a regular privilege whom <b>company</b> lightens my footsteps. The same for <b>traveling</b>, <b>cooking</b>, <b>music</b>, and <b>sports</b>. Still, <b>silence</b> is a shelter to which I retreat without efforts.</p>
  
