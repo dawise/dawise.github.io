@@ -38,16 +38,16 @@ title: David Wise - About
 
   <h3>Interests</h3>
 
-  <p>As my background suggests, I have developed a strong interest for <b> new technologies, innovation and entrepreneurship</b>. However, these are not the only topics that have my attention. </p> 
+  <p>As my background suggests, I have developed a strong interest for <b> new technologies, innovation and entrepreneurship</b>. However, these are not the only topics that have my full attention. </p> 
 
   <p><b>Politics</b>, <b>education</b> and <b>medias</b> have a prominent place in my interests. Particularly for their capacity, or most of the time, their powerlessness, to bring <b>society issues</b> (environment, citizenship, arts, work...) in the <b>public debate</b>. However, one subject, more than the others, dominates my concerns: <b>our relationship to technologies</b>. With, in mind, a quote that resonate as an omen : <i>"We shape our tools and thereafter our tools shape us".</i> - John Culkin (1967)</p>
 
-  <p> In my <b>free time</b>, without preventing myself from other curiosities, I explore the subjects mentionned above. <b>Reading</b> is my best way to access to them. <b>Writing </b> is my sharpest restitution tool. Without being a cinephile, <b>movies</b> and <b>TV shows</b> are entertainment that I like to immerse myself in. <b> Theater</b> and <b> standup</b> comedy are joys that are as inconstant as they are important. Listening to <b>podcasts</b>, is the light of my everyday commute to work. <b>Walking</b> in Paris, a regular privilege whom <b>company</b> lightens my footsteps. Such as <b>traveling</b>, <b>cooking</b>, <b>music</b>, and <b>sports</b>. Still, <b>silence</b> is a shelter to which I retreat without efforts.</p>
+  <p> In my <b>free time</b>, without preventing myself from other curiosities, I explore the subjects mentionned above. <b>Reading</b> is my best way to access to them. <b>Writing </b> is my sharpest restitution tool. Without being a cinephile, <b>movies</b> and <b>TV shows</b> are entertainment that I like to deep in. <b> Theater</b> and <b> standup comedy</b> are joys that are as inconstant as they are important. Listening to <b>podcasts</b>, is the light of my everyday commute to work. <b>Walking</b> in Paris, a regular privilege whom <b>company</b> lightens my footsteps. Such as <b>traveling</b>, <b>cooking</b>, <b>music</b>, and <b>sports</b>. Still, <b>silence</b> is a shelter to which I retreat without efforts.</p>
  
   <h3> Elsewhere on the web</h3>
   
  <p>You can fin me on <a href="https://twitter.com/dawise_">Twitter</a>, <a href="https://medium.com/@dawise_">Medium</a> and <a href="https://www.linkedin.com/in/davidwisefr/">Linkedin</a>. The best way to have updates from me is to signup to my newsletter : <a href="/lettre">La Lettre du Consultant.</a> </p> 
 
-<p>Finally, if for some reason you wish to please me, I want you to know, before you keep on, that this is a great idea. But mostly, good news for you and for me : <a href="https://kit.co/dawise/la-liste-des-mes-envies"> my public wishlist is available and continuously updated</a>.</p>
+<p>Finally, if for some reason you wish to please me, I want you to know, before you even keep on reading, that this is a great idea. Mostly, good news for both of us : <a href="https://kit.co/dawise/la-liste-des-mes-envies"> my public wishlist is available and continuously updated</a>.</p>
 
 <p> This website is powered by <a href="https://jekyllrb.com/">Jekyll</a>, hosted on <a href="https://github.com/">Github</a>, with a theme by <a href="http://brianmaierjr.com">Brian Maier</a>. Stool (to see who's reading so far).</p>
